@@ -1,0 +1,369 @@
+{
+  "ahpra-els-standard": {
+    "id": "ahpra-els-standard",
+    "title": "English language skills registration standard",
+    "publisher": "AHPRA and National Boards",
+    "authority": "AHPRA",
+    "url": "https://www.ahpra.gov.au/Registration/Registration-Standards/English-language-skills/English-language-skills-registration-standard.aspx",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Four pathways (combined/school/advanced education + test); approved by Ministerial Council 14 Nov 2024"
+  },
+  "ahpra-accepted-tests": {
+    "id": "ahpra-accepted-tests",
+    "title": "Accepted English language tests",
+    "publisher": "AHPRA and National Boards",
+    "authority": "AHPRA",
+    "url": "https://www.ahpra.gov.au/Registration/Registration-Standards/English-language-skills/Accepted-English-language-tests.aspx",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Minimum-score tables for tests on/after 23 Apr 2026; two-sitting/12-month rule; 2-year validity; IELTS One Skill Retake"
+  },
+  "ahpra-els-news-2024": {
+    "id": "ahpra-els-news-2024",
+    "title": "More flexible English language pathways for practitioners registering in Australia",
+    "publisher": "AHPRA and National Boards",
+    "authority": "AHPRA",
+    "url": "https://www.ahpra.gov.au/News/2024-12-12-English-language-skills.aspx",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Recognised countries expanded 7 to 30; writing reduced to IELTS 6.5; Cambridge added; two-test window 6 to 12 months"
+  },
+  "ahpra-els-news-2025": {
+    "id": "ahpra-els-news-2025",
+    "title": "Updated English language skills registration standard — in effect 18 March 2025",
+    "publisher": "AHPRA and National Boards",
+    "authority": "AHPRA",
+    "url": "https://www.ahpra.gov.au/News/2025-03-11-ELS-in-effect-date-announced.aspx",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Revised ELS standard took effect 18 March 2025"
+  },
+  "mba-general-registration": {
+    "id": "mba-general-registration",
+    "title": "General registration",
+    "publisher": "Medical Board of Australia",
+    "authority": "AHPRA",
+    "url": "https://www.medicalboard.gov.au/Registration/Types/General-Registration.aspx",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Who general registration may be granted to; 30 September renewal cycle"
+  },
+  "mba-specialist-registration": {
+    "id": "mba-specialist-registration",
+    "title": "Specialist registration",
+    "publisher": "Medical Board of Australia",
+    "authority": "AHPRA",
+    "url": "https://www.medicalboard.gov.au/Registration/Types/Specialist-Registration.aspx",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Specialists Register / protected title; 21 Oct 2024 supervised practice, orientation and cultural safety requirements"
+  },
+  "mba-provisional-registration": {
+    "id": "mba-provisional-registration",
+    "title": "Provisional registration",
+    "publisher": "Medical Board of Australia",
+    "authority": "AHPRA",
+    "url": "https://www.medicalboard.gov.au/Registration/Types/Provisional-Registration.aspx",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Purpose; who holds it; up-to-12-months / max two renewals"
+  },
+  "mba-limited-registration": {
+    "id": "mba-limited-registration",
+    "title": "Limited registration",
+    "publisher": "Medical Board of Australia",
+    "authority": "AHPRA",
+    "url": "https://www.medicalboard.gov.au/registration/types/limited-registration.aspx",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Eligibility; four categories; CA/AMC-certificate IMGs apply for provisional instead"
+  },
+  "mba-limited-postgrad": {
+    "id": "mba-limited-postgrad",
+    "title": "Limited registration for postgraduate training or supervised practice",
+    "publisher": "Medical Board of Australia",
+    "authority": "AHPRA",
+    "url": "https://www.medicalboard.gov.au/Registration/Types/Limited-Registration/Postgrad-Training.aspx",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06"
+  },
+  "mba-limited-aon": {
+    "id": "mba-limited-aon",
+    "title": "Limited registration for area of need",
+    "publisher": "Medical Board of Australia",
+    "authority": "AHPRA",
+    "url": "https://www.medicalboard.gov.au/Registration/Types/Limited-Registration/Area-of-Need.aspx",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Supervised practice in a workforce-shortage location; Minister declares the area of need"
+  },
+  "mba-limited-public-interest": {
+    "id": "mba-limited-public-interest",
+    "title": "Limited registration in the public interest",
+    "publisher": "Medical Board of Australia",
+    "authority": "AHPRA",
+    "url": "https://www.medicalboard.gov.au/Registration/Types/Limited-Registration/Public-Interest.aspx",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06"
+  },
+  "mba-limited-teaching-research": {
+    "id": "mba-limited-teaching-research",
+    "title": "Limited registration for teaching or research",
+    "publisher": "Medical Board of Australia",
+    "authority": "AHPRA",
+    "url": "https://www.medicalboard.gov.au/Registration/Types/Limited-Registration/Teaching-or-Research.aspx",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06"
+  },
+  "mba-nonpractising": {
+    "id": "mba-nonpractising",
+    "title": "Non-practising registration",
+    "publisher": "Medical Board of Australia",
+    "authority": "AHPRA",
+    "url": "https://www.medicalboard.gov.au/Registration/Types/Non-Practising-Registration.aspx",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Suitability; prohibition on treatment/opinions/prescribing/referral; reduced fee"
+  },
+  "mba-student-registration": {
+    "id": "mba-student-registration",
+    "title": "Student registration",
+    "publisher": "Medical Board of Australia",
+    "authority": "AHPRA",
+    "url": "https://www.medicalboard.gov.au/registration/types/student-registration.aspx",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Education provider supplies student details; student does not apply"
+  },
+  "homeaffairs-482-core": {
+    "id": "homeaffairs-482-core",
+    "title": "Skills in Demand visa (subclass 482) Core Skills stream",
+    "publisher": "Department of Home Affairs",
+    "authority": "HOME_AFFAIRS",
+    "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skills-in-demand-visa-subclass-482/core-skills-stream",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "CSOL nomination; CSIT/AMSR salary; 1yr experience; up to 4 years (5 for HK); PR pathway"
+  },
+  "homeaffairs-482-specialist": {
+    "id": "homeaffairs-482-specialist",
+    "title": "Skills in Demand visa (subclass 482) Specialist Skills stream",
+    "publisher": "Department of Home Affairs",
+    "authority": "HOME_AFFAIRS",
+    "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skills-in-demand-visa-subclass-482/specialist-skills-stream",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "ANZSCO Major Groups 1,2,4,5,6; SSIT salary; up to 4 years (5 for HK)"
+  },
+  "homeaffairs-482-labour": {
+    "id": "homeaffairs-482-labour",
+    "title": "Skills in Demand visa (subclass 482) Labour Agreement stream",
+    "publisher": "Department of Home Affairs",
+    "authority": "HOME_AFFAIRS",
+    "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skills-in-demand-visa-subclass-482/labour-agreement-stream",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Nomination under a labour agreement; 12 months experience; ENS 186 PR pathway"
+  },
+  "homeaffairs-482-english": {
+    "id": "homeaffairs-482-english",
+    "title": "English proficiency (subclass 482)",
+    "publisher": "Department of Home Affairs",
+    "authority": "HOME_AFFAIRS",
+    "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skills-in-demand-visa-subclass-482/sufficient-english",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Visa English minimums (e.g. IELTS 5.0 overall and each component) — separate from registration English"
+  },
+  "homeaffairs-salary-requirements": {
+    "id": "homeaffairs-salary-requirements",
+    "title": "Salary requirements (CSIT, SSIT, TSMIT)",
+    "publisher": "Department of Home Affairs",
+    "authority": "HOME_AFFAIRS",
+    "url": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/sponsoring-workers/nominating-a-position/salary-requirements",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "CSIT AUD 76,515 and SSIT AUD 141,210 for nominations 1 Jul 2025 to 30 Jun 2026; indexed annually"
+  },
+  "homeaffairs-186": {
+    "id": "homeaffairs-186",
+    "title": "Employer Nomination Scheme (subclass 186) visa",
+    "publisher": "Department of Home Affairs",
+    "authority": "HOME_AFFAIRS",
+    "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/employer-nomination-scheme-186",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Permanent employer-sponsored; Direct Entry, Temporary Residence Transition, Labour Agreement streams"
+  },
+  "homeaffairs-186-direct-entry": {
+    "id": "homeaffairs-186-direct-entry",
+    "title": "Employer Nomination Scheme (subclass 186) Direct Entry stream",
+    "publisher": "Department of Home Affairs",
+    "authority": "HOME_AFFAIRS",
+    "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/employer-nomination-scheme-186/direct-entry-stream",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Under 45 unless exempt; CSOL occupation; 3yrs experience; skills assessment; permanent stay"
+  },
+  "homeaffairs-189": {
+    "id": "homeaffairs-189",
+    "title": "Skilled Independent visa (subclass 189) Points-tested stream",
+    "publisher": "Department of Home Affairs",
+    "authority": "HOME_AFFAIRS",
+    "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-independent-189/points-tested",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Permanent; skilled occupation list, skills assessment, invitation, points test"
+  },
+  "homeaffairs-190": {
+    "id": "homeaffairs-190",
+    "title": "Skilled Nominated visa (subclass 190)",
+    "publisher": "Department of Home Affairs",
+    "authority": "HOME_AFFAIRS",
+    "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-nominated-190",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Permanent; state/territory nomination, skilled list, skills assessment, invitation, points test"
+  },
+  "homeaffairs-dama": {
+    "id": "homeaffairs-dama",
+    "title": "Designated Area Migration Agreements (DAMA)",
+    "publisher": "Department of Home Affairs",
+    "authority": "HOME_AFFAIRS",
+    "url": "https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/labour-agreements/types-of-labour-agreements/designated-area-migration-agreements-(dama)",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Agreement with state/territory/regional authority; uses subclass 482, 494, 186"
+  },
+  "homeaffairs-skill-occupation-list": {
+    "id": "homeaffairs-skill-occupation-list",
+    "title": "Skilled occupation list",
+    "publisher": "Department of Home Affairs",
+    "authority": "HOME_AFFAIRS",
+    "url": "https://immi.homeaffairs.gov.au/visas/working-in-australia/skill-occupation-list",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Medical practitioner occupations listed; Medical Board of Australia is the assessing authority"
+  },
+  "health-19ab": {
+    "id": "health-19ab",
+    "title": "Section 19AB restricted doctors and access to Medicare",
+    "publisher": "Department of Health, Disability and Ageing",
+    "authority": "HEALTH_DEPT",
+    "url": "https://www.health.gov.au/topics/medicare/access-practitioners-industry/doctors-and-specialists/19ab",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Section 19AB 10-year moratorium; DPA (GPs) vs DWS (non-GP specialists)"
+  },
+  "health-moratorium": {
+    "id": "health-moratorium",
+    "title": "10-year moratorium and scaling",
+    "publisher": "Department of Health, Disability and Ageing",
+    "authority": "HEALTH_DEPT",
+    "url": "https://www.health.gov.au/topics/rural-health-workforce/19ab-of-the-health-insurance-act-1973",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Scaling credits tied to MMM remoteness; minimum 10 years; class exemption"
+  },
+  "health-exemptions": {
+    "id": "health-exemptions",
+    "title": "Section 19AB exemptions",
+    "publisher": "Department of Health, Disability and Ageing",
+    "authority": "HEALTH_DEPT",
+    "url": "https://www.health.gov.au/topics/rural-health-workforce/19ab-of-the-health-insurance-act-1973",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Working in DPA/DWS gives indefinite exemption; assessed at provider-number application"
+  },
+  "health-dws": {
+    "id": "health-dws",
+    "title": "District of Workforce Shortage (DWS)",
+    "publisher": "Department of Health, Disability and Ageing",
+    "authority": "HEALTH_DEPT",
+    "url": "https://www.health.gov.au/topics/rural-health-workforce/classifications/dws",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Areas with poor access to non-GP specialists; updated December 2023"
+  },
+  "servicesaustralia-provider-numbers": {
+    "id": "servicesaustralia-provider-numbers",
+    "title": "Provider and prescriber numbers",
+    "publisher": "Services Australia",
+    "authority": "SERVICES_AUSTRALIA",
+    "url": "https://www.servicesaustralia.gov.au/provider-and-prescriber-numbers?context=20",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Provider number required to bill MBS; separate number per practice location"
+  },
+  "servicesaustralia-scaling": {
+    "id": "servicesaustralia-scaling",
+    "title": "View and track scaling and exemptions",
+    "publisher": "Services Australia",
+    "authority": "SERVICES_AUSTRALIA",
+    "url": "https://www.servicesaustralia.gov.au/view-track-scaling-and-exemptions?context=20",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Track scaling and 19AB location exemptions via HPOS"
+  },
+  "amc-fees": {
+    "id": "amc-fees",
+    "title": "AMC fees",
+    "publisher": "Australian Medical Council",
+    "authority": "AMC",
+    "url": "https://www.amc.org.au/assessments/fees/",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Portfolio ~$642; CAT MCQ ~$2,920; clinical exam ~$3,000 in person / ~$3,400 online; WBA ~$1,070 (indicative, change without notice)"
+  },
+  "ahpra-fees": {
+    "id": "ahpra-fees",
+    "title": "Fees (Medical Board of Australia)",
+    "publisher": "Medical Board of Australia / AHPRA",
+    "authority": "AHPRA",
+    "url": "https://www.medicalboard.gov.au/Registration/Fees.aspx",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Registration application fee plus annual fee (~$1,058 most states, lower in NSW, 2025/26)"
+  },
+  "ahpra-fees-announcement": {
+    "id": "ahpra-fees-announcement",
+    "title": "National Boards and Ahpra announce fees for 2025/26",
+    "publisher": "AHPRA",
+    "authority": "AHPRA",
+    "url": "https://www.ahpra.gov.au/News/2025-09-18-fees-announcement-2025.aspx",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "2025/26 registration fee announcement"
+  },
+  "english-tests": {
+    "id": "english-tests",
+    "title": "IELTS and OET test fees (provider pages)",
+    "publisher": "IELTS Australia / OET",
+    "authority": "OTHER",
+    "url": "https://ielts.com.au/australia/prepare/article-how-much-does-ielts-cost",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Indicative 2026 pricing: IELTS ~$490, OET ~$587; confirm with provider at booking"
+  },
+  "homeaffairs-visa-pricing": {
+    "id": "homeaffairs-visa-pricing",
+    "title": "Visa fees and charges — current visa pricing",
+    "publisher": "Department of Home Affairs",
+    "authority": "HOME_AFFAIRS",
+    "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/fees-and-charges/current-visa-pricing",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Base charges ~$3,210 (subclass 482 primary) and ~$4,910 (subclass 186 primary); family members extra"
+  },
+  "amc-psv": {
+    "id": "amc-psv",
+    "title": "Primary source verification",
+    "publisher": "Australian Medical Council",
+    "authority": "AMC",
+    "url": "https://www.amc.org.au/pathways/primary-source-verification/",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Verification of primary medical qualifications via ECFMG EPIC / MyIntealth"
+  }
+}

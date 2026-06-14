@@ -1,0 +1,59 @@
+{
+  "slug": "racgp",
+  "collection": "college",
+  "title": "Royal Australian College of General Practitioners (RACGP)",
+  "eyebrow": "Specialist college",
+  "metaTitle": "RACGP for IMGs: FRACGP & SIMG Assessment",
+  "metaDescription": "How the RACGP assesses specialist IMGs for FRACGP: the comparability assessment, the Practice Experience Program Specialist, exams, and the expedited pathway.",
+  "keywords": ["RACGP", "FRACGP", "specialist IMG general practice", "SIMG comparability assessment", "overseas trained GP Australia"],
+  "collegeMeta": {
+    "abbr": "RACGP",
+    "fullName": "Royal Australian College of General Practitioners",
+    "website": "https://www.racgp.org.au",
+    "specialties": ["General practice"]
+  },
+  "summaryMarkdown": "The Royal Australian College of General Practitioners (RACGP) is the specialist college for general practice in Australia. Its Fellowship, the FRACGP, is a specialist GP qualification accredited by the AMC. [[cite:fracgp-amc-accredited]] For specialist international medical graduates (SIMGs) who trained as GPs overseas, the RACGP runs a comparability assessment with three possible outcomes: substantially comparable, partially comparable or not comparable. [[cite:racgp-comparability-three-outcomes]] General practice is also on the Medical Board's [Expedited Specialist pathway](/pathways/expedited-specialist), which is run by the Board (not the RACGP) and can lead to FRACGP once specialist registration is granted. [[cite:gp-on-expedited-list]]",
+  "sections": [
+    {
+      "heading": "What the RACGP and FRACGP are",
+      "bodyMarkdown": "The RACGP is responsible for general practice training, standards and assessment in Australia. Its Fellowship, the FRACGP, is a specialist GP qualification accredited by the AMC. [[cite:fracgp-amc-accredited]] For an overseas-trained GP, being assessed as comparable to that standard is what underpins recognition as a specialist GP. The RACGP assesses how your overseas qualifications and experience compare, then maps them onto a training-and-assessment pathway to close any gaps before Fellowship. [[cite:racgp-comparability-definition]]"
+    },
+    {
+      "heading": "The comparability assessment",
+      "bodyMarkdown": "SIMGs on the specialist pathway complete an RACGP **comparability assessment** measuring how comparable they are to an Australian-trained GP at the point of Fellowship. [[cite:racgp-comparability-definition]] It weighs your qualification, training route and curriculum, prior assessment method, GP experience, recency and continuity of practice, and CPD. [[cite:racgp-assessment-factors]] There are three outcomes: [[cite:racgp-comparability-three-outcomes]]\n\n- **Substantially comparable** — broadly equivalent to the Australian standard.\n- **Partially comparable** — gaps to close through further training and examination.\n- **Not comparable** — does not currently meet the standard for this pathway.\n\nA comparability outcome is valid for 12 months from the outcome letter, and partially/not comparable applicants may re-apply after a material change in training and experience. [[cite:racgp-outcome-validity]]"
+    },
+    {
+      "heading": "Practice experience and exams",
+      "bodyMarkdown": "Substantially or partially comparable SIMGs enter the **Practice Experience Program Specialist (PEP Specialist)** — supervised general practice in an RACGP-approved post with workplace-based assessment and core learning. [[cite:pep-specialist-program]] **Substantially comparable** SIMGs are not required to sit the FRACGP exams and complete a shorter program before a Fellowship recommendation. [[cite:substantially-no-exams]] **Partially comparable** SIMGs must pass the RACGP Fellowship exams — the Applied Knowledge Test (AKT), the Key Feature Problem (KFP) and the Clinical Competency Exam (CCE). [[cite:partially-must-sit-exams]] The RACGP also sets minimum eligibility thresholds, including a defined period of GP experience and recent practice/CPD. [[cite:racgp-eligibility-thresholds]] Confirm current rules with the RACGP."
+    },
+    {
+      "heading": "General practice and the expedited pathway",
+      "bodyMarkdown": "General practice is one of the specialties on the Medical Board's [Expedited Specialist pathway](/pathways/expedited-specialist), for SIMGs whose qualifications the Board assesses as substantially equivalent. [[cite:gp-on-expedited-list]] This pathway is run entirely by the Medical Board and Ahpra, not the RACGP. [[cite:expedited-run-by-mba]] Once an SIMG completes the Board's pathway and holds unconditional specialist registration in general practice, they can apply for Fellowship of the RACGP and use the post-nominals FRACGP. [[cite:expedited-to-fracgp]] See the [Specialist pathway](/pathways/specialist) for how the routes compare."
+    }
+  ],
+  "claims": [
+    { "id": "fracgp-amc-accredited", "text": "The FRACGP is a specialist general practice qualification accredited by the Australian Medical Council.", "sourceIds": ["racgp-fellowship-pathways", "racgp-expedited-pathway"] },
+    { "id": "racgp-comparability-definition", "text": "The RACGP comparability assessment determines how comparable a specialist IMG is to an Australian-trained GP at the point of admission to Fellowship.", "sourceIds": ["racgp-pep-specialist-assessment"] },
+    { "id": "racgp-assessment-factors", "text": "The assessment considers the SIMG's GP qualification, training route and curriculum, prior assessment method, GP experience, recency and continuity of practice, and CPD.", "sourceIds": ["racgp-comparability-assessment-guide", "racgp-specialist-pathway"] },
+    { "id": "racgp-comparability-three-outcomes", "text": "A RACGP comparability assessment results in one of three outcomes: substantially comparable, partially comparable, or not comparable.", "sourceIds": ["racgp-pep-specialist-assessment", "racgp-specialist-pathway"] },
+    { "id": "racgp-outcome-validity", "text": "A comparability outcome is valid for 12 months from the outcome letter, and partially/not comparable applicants may re-apply after a material change in training and experience.", "sourceIds": ["racgp-pep-specialist-assessment"] },
+    { "id": "pep-specialist-program", "text": "Substantially or partially comparable SIMGs enter the Practice Experience Program Specialist — supervised general practice in an RACGP-approved post with workplace-based assessment and core learning.", "sourceIds": ["racgp-specialist-pathway", "racgp-pep-specialist-assessment"] },
+    { "id": "substantially-no-exams", "text": "SIMGs assessed as substantially comparable are not required to sit the FRACGP examinations.", "sourceIds": ["racgp-pep-specialist-assessment"] },
+    { "id": "partially-must-sit-exams", "text": "Partially comparable SIMGs must pass the RACGP Fellowship exams — the Applied Knowledge Test, the Key Feature Problem and the Clinical Competency Exam.", "sourceIds": ["racgp-specialist-pathway"] },
+    { "id": "racgp-eligibility-thresholds", "text": "The RACGP sets minimum eligibility thresholds for the comparability assessment, including a defined period of GP experience and recent practice and CPD.", "sourceIds": ["racgp-comparability-assessment-guide"] },
+    { "id": "gp-on-expedited-list", "text": "General practice is one of the specialties accepted on the Medical Board's Expedited Specialist pathway.", "sourceIds": ["racgp-expedited-pathway", "ahpra-expedited-2026", "mba-expedited-specialist"] },
+    { "id": "expedited-run-by-mba", "text": "The Expedited Specialist pathway is run entirely by the Medical Board of Australia and Ahpra, not the RACGP.", "sourceIds": ["racgp-expedited-pathway"] },
+    { "id": "expedited-to-fracgp", "text": "After completing the Board's Expedited Specialist pathway and holding unconditional specialist registration in general practice, a doctor can apply for Fellowship of the RACGP.", "sourceIds": ["racgp-expedited-pathway"] }
+  ],
+  "faq": [
+    { "question": "What is the FRACGP?", "answerMarkdown": "Fellowship of the Royal Australian College of General Practitioners — a specialist general practice qualification accredited by the AMC, which underpins recognition as a specialist GP in Australia.", "sourceIds": ["racgp-fellowship-pathways"] },
+    { "question": "How does the RACGP assess overseas-trained GPs?", "answerMarkdown": "Through a comparability assessment that measures how closely your training and experience match an Australian-trained GP at the point of Fellowship, considering your qualification, training, prior assessment, GP experience, recency and CPD.", "sourceIds": ["racgp-pep-specialist-assessment", "racgp-comparability-assessment-guide"] },
+    { "question": "Do SIMGs have to sit the RACGP Fellowship exams?", "answerMarkdown": "It depends on the outcome. Substantially comparable SIMGs are not required to sit them; partially comparable SIMGs must pass the AKT, KFP and CCE before Fellowship.", "sourceIds": ["racgp-pep-specialist-assessment", "racgp-specialist-pathway"] },
+    { "question": "Is general practice on the Expedited Specialist pathway?", "answerMarkdown": "Yes. General practice is accepted on the Medical Board's Expedited Specialist pathway, run by the Board and Ahpra (not the RACGP). After completing it and gaining specialist registration, a doctor can apply for FRACGP.", "sourceIds": ["racgp-expedited-pathway", "ahpra-expedited-2026"] },
+    { "question": "How long is an RACGP comparability outcome valid?", "answerMarkdown": "12 months from the date of the outcome letter. Requirements can change, so confirm the current rules with the RACGP.", "sourceIds": ["racgp-pep-specialist-assessment"] }
+  ],
+  "relatedSlugs": [],
+  "disclaimerKind": "medical",
+  "pageLastVerified": "2026-06-15",
+  "schemaType": "MedicalWebPage"
+}

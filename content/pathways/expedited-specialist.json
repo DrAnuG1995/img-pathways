@@ -1,0 +1,52 @@
+{
+  "slug": "expedited-specialist",
+  "collection": "pathway",
+  "order": 4,
+  "eyebrow": "AMC Pathway · Newest route",
+  "title": "The Expedited Specialist pathway",
+  "metaTitle": "Expedited Specialist pathway 2026: specialties, eligibility & steps",
+  "metaDescription": "Australia's fast-track Expedited Specialist pathway for overseas specialists: which specialties are included (updated 2026), what you skip, the 6 months supervised practice, and how to check the accepted qualifications list.",
+  "keywords": ["expedited specialist pathway", "fast track specialist registration Australia", "SIMG", "AHPRA expedited pathway specialties", "accepted qualifications list"],
+  "summaryMarkdown": "The Expedited Specialist pathway is the newest and fastest route to specialist registration. It's for specialist international medical graduates (SIMGs) whose qualification is on the Medical Board's *Expedited Specialist pathway: accepted qualifications list*. [[cite:exp-what]] If your exact qualification is listed, you skip the college comparability assessment and don't join a college training program. [[cite:exp-skip]] **This pathway is changing fast — check the date on this page and confirm the current specialty list with the Board before relying on it.**",
+  "disclaimerKind": "medical",
+  "schemaType": "MedicalWebPage",
+  "pageLastVerified": "2026-06-15",
+  "relatedSlugs": ["specialist", "competent-authority", "standard"],
+  "sections": [
+    {
+      "heading": "What makes it 'expedited'",
+      "bodyMarkdown": "On the usual [Specialist pathway](/pathways/specialist), an Australian specialist college assesses how comparable your training is — which takes time and money. The Expedited Specialist pathway removes that step for eligible specialists: **no comparability assessment and no college training program**. [[cite:exp-skip]] It was introduced following the independent (Kruk) review of regulatory settings to help suitably qualified specialists register faster. [[cite:exp-origin]]"
+    },
+    {
+      "heading": "Which specialties are included",
+      "bodyMarkdown": "Specialties are added to the accepted-qualifications list over time. As of the verify date on this page, accepted qualifications exist for: [[cite:exp-specialties]]\n\n- General practice\n- Anaesthesia\n- Obstetrics and gynaecology\n- Psychiatry\n- General medicine *(added 19 January 2026)*\n- General paediatrics *(added 19 January 2026)*\n\n**Diagnostic radiology** was being assessed for inclusion at the time of writing. [[cite:exp-radiology]] Because the list grows, always confirm the **current** list and your **exact** qualification on the Board's page before acting."
+    },
+    {
+      "heading": "What you still need to do",
+      "bodyMarkdown": "Skipping the comparability assessment doesn't mean skipping oversight. On this pathway you still complete: [[cite:exp-requirements]]\n\n- **6 months of supervised practice**\n- **Cultural safety education**\n- **Orientation** to the Australian health system\n- **Workplace-based assessments**\n\nYou'll hold limited or provisional registration during this period before specialist registration is granted."
+    },
+    {
+      "heading": "Am I eligible?",
+      "bodyMarkdown": "Eligibility turns on whether your **specific specialist qualification** (from a specific country/college) appears on the accepted-qualifications list — not just your specialty. [[cite:exp-what]] The finder can suggest whether this pathway is worth investigating, but only the Board's list and your application confirm it. If your qualification isn't listed, the standard [Specialist pathway](/pathways/specialist) applies."
+    },
+    {
+      "heading": "English, visas and registration",
+      "bodyMarkdown": "You must still meet the English language requirement [[cite:exp-english]] (see [English requirements](/english)). Roles are typically employer-sponsored, often via the Skills in Demand (subclass 482) visa [[cite:exp-visa]]. Migration is regulated — confirm with a registered MARA agent. The pathway leads to **specialist registration** with the Medical Board."
+    }
+  ],
+  "claims": [
+    { "id": "exp-what", "text": "The Expedited Specialist pathway is for SIMGs whose qualification is on the Medical Board's Expedited Specialist pathway: accepted qualifications list.", "sourceIds": ["mba-expedited-specialist"] },
+    { "id": "exp-skip", "text": "On the expedited pathway there is no comparability assessment and no college training program.", "sourceIds": ["mba-expedited-specialist"] },
+    { "id": "exp-origin", "text": "The expedited pathway was introduced/expanded following independent review of regulatory settings to speed up registration of suitably qualified specialists.", "sourceIds": ["ahpra-fasttrack-2024"] },
+    { "id": "exp-specialties", "text": "Accepted qualifications exist for general practice, anaesthesia, obstetrics and gynaecology, psychiatry, and (from 19 January 2026) general medicine and general paediatrics.", "sourceIds": ["ahpra-expedited-2026", "ahpra-fasttrack-2024"] },
+    { "id": "exp-radiology", "text": "Diagnostic radiology qualifications were being assessed for inclusion as at early 2026.", "sourceIds": ["ahpra-expedited-2026"] },
+    { "id": "exp-requirements", "text": "The pathway requires 6 months supervised practice, cultural safety education, orientation and workplace-based assessments.", "sourceIds": ["mba-expedited-specialist"] },
+    { "id": "exp-english", "text": "Applicants must meet the Medical Board's English language skills registration standard.", "sourceIds": ["mba-english"] },
+    { "id": "exp-visa", "text": "Roles are typically employer-sponsored, commonly via the Skills in Demand (subclass 482) visa.", "sourceIds": ["homeaffairs-482"] }
+  ],
+  "faq": [
+    { "question": "Is the expedited pathway open to my specialty?", "answerMarkdown": "Only the specialties with accepted qualifications are eligible (general practice, anaesthesia, O&G, psychiatry, and from January 2026 general medicine and general paediatrics). The list is expanding, so check the Board's current page.", "sourceIds": ["ahpra-expedited-2026", "mba-expedited-specialist"] },
+    { "question": "Does being in an eligible specialty guarantee I qualify?", "answerMarkdown": "No. Your *specific* qualification (country and college) must be on the accepted-qualifications list. If it isn't, you'd use the standard Specialist pathway.", "sourceIds": ["mba-expedited-specialist"] },
+    { "question": "Is it really faster?", "answerMarkdown": "It removes the college comparability assessment and training-program step, which are usually the slowest parts. You still complete 6 months of supervised practice and assessments.", "sourceIds": ["mba-expedited-specialist"] }
+  ]
+}

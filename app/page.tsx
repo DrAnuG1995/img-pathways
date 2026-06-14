@@ -1,0 +1,94 @@
+import Link from "next/link";
+import FinderWizard from "@/components/finder/FinderWizard";
+
+const PATHWAYS = [
+  { slug: "standard", name: "Standard", blurb: "AMC exams (CAT MCQ + clinical/WBA)" },
+  { slug: "competent-authority", name: "Competent Authority", blurb: "UK · Ireland · USA · Canada · NZ" },
+  { slug: "specialist", name: "Specialist", blurb: "College comparability assessment" },
+  { slug: "expedited-specialist", name: "Expedited Specialist", blurb: "Fast-track, accepted specialties" },
+];
+
+export default function Home() {
+  return (
+    <>
+      {/* Hero + survey */}
+      <section className="border-b border-line bg-gradient-to-b from-primary-soft/60 to-paper">
+        <div className="mx-auto max-w-4xl px-4 py-14 sm:px-6 sm:py-20">
+          <div className="text-center">
+            <p className="text-[11px] font-semibold uppercase tracking-[0.18em] text-primary">
+              International Medical Graduates · Australia
+            </p>
+            <h1 className="mx-auto mt-3 max-w-2xl font-display text-4xl font-semibold leading-[1.05] text-ink sm:text-5xl">
+              Find your pathway to practising medicine in Australia
+            </h1>
+            <p className="mx-auto mt-4 max-w-xl text-lg text-muted">
+              Answer a few questions. We'll point you to the registration pathway that fits and the
+              exact next steps — every fact checked against the official AHPRA, AMC and government
+              sources.
+            </p>
+          </div>
+
+          <div className="mt-10 rounded-3xl border border-line bg-white p-5 shadow-sm sm:p-8">
+            <FinderWizard />
+          </div>
+
+          <p className="mt-4 text-center text-xs text-muted">
+            Free to use. General information, not advice — always confirm with the official source.
+          </p>
+        </div>
+      </section>
+
+      {/* The four pathways */}
+      <section className="mx-auto max-w-5xl px-4 py-14 sm:px-6">
+        <div className="flex items-end justify-between">
+          <div>
+            <h2 className="font-display text-2xl font-semibold text-ink sm:text-3xl">
+              The four pathways
+            </h2>
+            <p className="mt-2 text-muted">Which applies depends on where you trained and what you're seeking.</p>
+          </div>
+          <Link href="/pathways" className="hidden text-sm font-medium text-primary hover:underline sm:block">
+            See all →
+          </Link>
+        </div>
+        <div className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+          {PATHWAYS.map((p) => (
+            <Link
+              key={p.slug}
+              href={`/pathways/${p.slug}`}
+              className="group rounded-2xl border border-line bg-white p-5 transition hover:border-primary"
+            >
+              <p className="font-display text-lg font-semibold text-ink group-hover:text-primary">
+                {p.name}
+              </p>
+              <p className="mt-1 text-sm text-muted">{p.blurb}</p>
+            </Link>
+          ))}
+        </div>
+      </section>
+
+      {/* Trust strip */}
+      <section className="border-t border-line bg-white">
+        <div className="mx-auto grid max-w-5xl gap-6 px-4 py-12 sm:grid-cols-3 sm:px-6">
+          <Feature title="Cited to the source" body="Every key fact links to AHPRA, the AMC or the relevant government page — no vague claims." />
+          <Feature title="Dated, not stale" body="Each fact shows when we last verified it. Out-of-date items get flagged, not hidden." />
+          <Feature title="Independent & free" body="Read everything without signing up. Supported by StatDoctor, written to be useful first." />
+        </div>
+        <div className="pb-12 text-center">
+          <Link href="/sources" className="text-sm font-medium text-primary hover:underline">
+            How we keep this accurate →
+          </Link>
+        </div>
+      </section>
+    </>
+  );
+}
+
+function Feature({ title, body }: { title: string; body: string }) {
+  return (
+    <div>
+      <p className="font-display text-lg font-semibold text-ink">{title}</p>
+      <p className="mt-1 text-sm text-muted">{body}</p>
+    </div>
+  );
+}

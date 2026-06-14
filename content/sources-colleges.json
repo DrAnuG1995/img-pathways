@@ -1,0 +1,182 @@
+{
+  "racgp-fellowship-pathways": {
+    "id": "racgp-fellowship-pathways",
+    "title": "Fellowship pathways for international medical graduates",
+    "publisher": "Royal Australian College of General Practitioners",
+    "authority": "COLLEGE",
+    "url": "https://www.racgp.org.au/education/imgs/fellowship-pathways",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "FRACGP described as an AMC-accredited specialist GP qualification; Fellowship routes for IMGs"
+  },
+  "racgp-specialist-pathway": {
+    "id": "racgp-specialist-pathway",
+    "title": "RACGP Specialist Pathway",
+    "publisher": "Royal Australian College of General Practitioners",
+    "authority": "COLLEGE",
+    "url": "https://www.racgp.org.au/education/imgs/live-and-practice-medicine-in-australia/specialist-pathway",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Comparability assessment, three outcomes, PEP Specialist, AKT/KFP/CCE exams"
+  },
+  "racgp-pep-specialist-assessment": {
+    "id": "racgp-pep-specialist-assessment",
+    "title": "PEP Specialist — Comparability Assessment Policy",
+    "publisher": "Royal Australian College of General Practitioners",
+    "authority": "COLLEGE",
+    "url": "https://www.racgp.org.au/education/gp-training/gp-training/education-policy-and-supporting-documents/policies/practice-experience-program-specialist-assessment",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Three outcomes, exam requirements by outcome, 12-month validity and re-application"
+  },
+  "racgp-comparability-assessment-guide": {
+    "id": "racgp-comparability-assessment-guide",
+    "title": "PEP Specialist — Comparability Assessment Guide",
+    "publisher": "Royal Australian College of General Practitioners",
+    "authority": "COLLEGE",
+    "url": "https://www.racgp.org.au/education/gp-training/gp-training/education-policy-and-supporting-documents/program-handbooks-and-guidance-documents/guidance-documents/pep-specialist-comparability-assessment-guide",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Assessment criteria and minimum eligibility thresholds"
+  },
+  "racgp-expedited-pathway": {
+    "id": "racgp-expedited-pathway",
+    "title": "MBA Expedited Specialist Pathway (RACGP)",
+    "publisher": "Royal Australian College of General Practitioners",
+    "authority": "COLLEGE",
+    "url": "https://www.racgp.org.au/education/imgs/fellowship-pathways/fellowship-programs-for-imgs/practice-experience-program/expedited-pathway",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Confirms GP on the MBA Expedited pathway (run by MBA/Ahpra), and completion leads to FRACGP"
+  },
+  "racp-about": {
+    "id": "racp-about",
+    "title": "About the RACP",
+    "publisher": "Royal Australasian College of Physicians",
+    "authority": "COLLEGE",
+    "url": "https://www.racp.edu.au/about",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Adult Medicine and Paediatrics & Child Health divisions"
+  },
+  "racp-img-au": {
+    "id": "racp-img-au",
+    "title": "Assessment of specialist IMGs in Australia (RACP)",
+    "publisher": "Royal Australasian College of Physicians",
+    "authority": "COLLEGE",
+    "url": "https://www.racp.edu.au/overseas-trained-physicians/international-medical-graduates",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Accelerated, Standard, Short-term and Area of Need pathways for SIMGs"
+  },
+  "racp-standard": {
+    "id": "racp-standard",
+    "title": "Standard Specialist Assessment Pathway (RACP)",
+    "publisher": "Royal Australasian College of Physicians",
+    "authority": "COLLEGE",
+    "url": "https://www.racp.edu.au/overseas-trained-physicians/international-medical-graduates/standard-specialist-assessment-pathway",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Comparability outcomes; 12/24-month supervised practice; 2/4-year completion; up-to-6-month decision"
+  },
+  "racp-accelerated": {
+    "id": "racp-accelerated",
+    "title": "Accelerated Specialist Pathway (RACP)",
+    "publisher": "Royal Australasian College of Physicians",
+    "authority": "COLLEGE",
+    "url": "https://www.racp.edu.au/overseas-trained-physicians/international-medical-graduates/accelerated-specialist-pathway",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Eligible countries (UK, Ireland, Hong Kong, India, Sri Lanka) and qualifying credentials"
+  },
+  "racs-specialist-pathway-overview": {
+    "id": "racs-specialist-pathway-overview",
+    "title": "Specialist Pathway in Australia (RACS)",
+    "publisher": "Royal Australasian College of Surgeons",
+    "authority": "COLLEGE",
+    "url": "https://www.surgeons.org/SIMGs/Pathways-for-SIMGs/Specialist-Pathway-in-Australia",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Specialist Recognition and Area of Need streams across nine surgical specialties"
+  },
+  "racs-specialist-assessment": {
+    "id": "racs-specialist-assessment",
+    "title": "Specialist Assessment process (RACS)",
+    "publisher": "Royal Australasian College of Surgeons",
+    "authority": "COLLEGE",
+    "url": "https://www.surgeons.org/SIMGs/Pathways-for-SIMGs/Specialist-Pathway-in-Australia/Specialist-Assessment",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Document assessment, panel interview, comparability recommendation, ~3-month timeline"
+  },
+  "racs-assessment-outcomes": {
+    "id": "racs-assessment-outcomes",
+    "title": "Assessment outcomes and definitions (RACS)",
+    "publisher": "Royal Australasian College of Surgeons",
+    "authority": "COLLEGE",
+    "url": "https://www.surgeons.org/SIMGs/Pathways-for-SIMGs/Specialist-Pathway-in-Australia/Assessment-outcomes",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Not/partially/substantially comparable outcomes; supervision levels; Fellowship Examination"
+  },
+  "racs-substantially-comparable": {
+    "id": "racs-substantially-comparable",
+    "title": "Interim Assessment — Substantially Comparable (RACS)",
+    "publisher": "Royal Australasian College of Surgeons",
+    "authority": "COLLEGE",
+    "url": "https://www.surgeons.org/SIMGs/simg-assessment/specialist-assessment-information-australia/interim-assessment/interim-assessment-substantially-comparable",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Up to 12 months clinical assessment (MBA Level 3 to 4); possible Fellowship Examination waiver"
+  },
+  "racs-area-of-need": {
+    "id": "racs-area-of-need",
+    "title": "Area of Need Assessment (RACS)",
+    "publisher": "Royal Australasian College of Surgeons",
+    "authority": "COLLEGE",
+    "url": "https://www.surgeons.org/SIMGs/simg-assessment/specialist-assessment-information-australia/area-of-need-assessment",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "AoN tied to a specific position; ~4-month assessment; MBA makes the registration decision"
+  },
+  "racs-surgical-specialties": {
+    "id": "racs-surgical-specialties",
+    "title": "Surgical specialties (RACS)",
+    "publisher": "Royal Australasian College of Surgeons",
+    "authority": "COLLEGE",
+    "url": "https://www.surgeons.org/en/Trainees/surgical-specialties",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "The nine RACS surgical specialties for which FRACS is awarded"
+  },
+  "acem-home": {
+    "id": "acem-home",
+    "title": "Australasian College for Emergency Medicine (ACEM)",
+    "publisher": "Australasian College for Emergency Medicine",
+    "authority": "COLLEGE",
+    "url": "https://acem.org.au/Home",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "ACEM role, FACEM Training Program and FACEM Fellowship"
+  },
+  "acem-simg-overview": {
+    "id": "acem-simg-overview",
+    "title": "Assessment of Specialist International Medical Graduates (ACEM)",
+    "publisher": "Australasian College for Emergency Medicine",
+    "authority": "COLLEGE",
+    "url": "https://acem.org.au/Content-Sources/International-Qualified-Specialists/Assessment-of-Specialist-International-Medical-Gra",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Specialist Assessment, Area of Need and Short-Term Training routes"
+  },
+  "acem-specialist-assessment": {
+    "id": "acem-specialist-assessment",
+    "title": "Specialist Assessment (SIMG) — emergency medicine (ACEM)",
+    "publisher": "Australasian College for Emergency Medicine",
+    "authority": "COLLEGE",
+    "url": "https://acem.org.au/Content-Sources/International-Qualified-Specialists/Assessment-of-Specialist-International-Medical-Gra/Specialist-Assessment",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Paper assessment, interview eligibility, eight curriculum domains, comparability outcomes, supervised practice"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "slug": "english",
+  "collection": "topic",
+  "title": "English language requirements for medical registration in Australia",
+  "eyebrow": "Requirement",
+  "metaTitle": "English Requirements for IMG Registration in Australia",
+  "metaDescription": "How IMGs meet the Medical Board's English language skills standard: accepted tests, current minimum scores, 2-year validity and education pathways.",
+  "keywords": [
+    "English language requirements medical registration Australia",
+    "IELTS OET PTE TOEFL medical registration",
+    "Medical Board English language skills standard",
+    "IMG English requirements Australia",
+    "AHPRA English language skills registration standard"
+  ],
+  "summaryMarkdown": "Every doctor applying for registration in Australia must satisfy the National Boards' English language skills (ELS) registration standard, which the Medical Board applies to confirm you can communicate in English at a level that is safe to practise. [[cite:standard-purpose]] The revised standard took effect on 18 March 2025 and offers four ways to meet it: three education-based pathways (combined, school and advanced education) and a test pathway. [[cite:in-effect-date]] [[cite:four-pathways]] The accepted tests are IELTS Academic, OET, PTE Academic, TOEFL iBT and Cambridge English, and the minimum scores were updated again from 23 April 2026. [[cite:accepted-tests]] [[cite:scores-updated-2026]]\n\nThis standard is administered by the Medical Board and AHPRA and is separate from any English requirement attached to your visa, even though several of the same tests are used. [[cite:separate-from-visa]] Scores change over time, so always confirm the exact current minimums on the official accepted-tests page before booking. [[cite:scores-updated-2026]]",
+  "sections": [
+    {
+      "heading": "Do you need to meet the English standard?",
+      "bodyMarkdown": "The standard exists so the Medical Board can be satisfied you can communicate in English at a level that is safe to practise medicine. [[cite:standard-purpose]] As an international medical graduate applying for registration for the first time, you generally must meet it. [[cite:who-must-meet]]\n\nYou must meet the standard if you are applying for registration with a National Board for the first time, or if you have not used English as your main language for a period greater than five years. [[cite:who-must-meet]] You don't need to meet it again if you've already met a National Board ELS standard (without conditions) and are applying in another profession, or moving between categories within the same profession (for example, provisional to general registration). [[cite:no-repeat]]"
+    },
+    {
+      "heading": "The four pathways to meeting the standard",
+      "bodyMarkdown": "You only need to satisfy one of four pathways. [[cite:four-pathways]]\n\n- **Combined education** — at least two years of secondary education taught and assessed solely in English in a recognised country, plus your medical qualification(s) taught and assessed solely in English in a recognised country. [[cite:combined-pathway]]\n- **School education** — English is your main language and you completed at least 10 years of primary and secondary school taught and assessed solely in English in a recognised country, plus qualification(s) taught and assessed solely in English in any country. [[cite:school-pathway]]\n- **Advanced education** — at least six years (full-time equivalent) of education taught and assessed solely in English in a recognised country, including your tertiary qualification at AQF level 7 or higher, finishing no more than two years before you apply. [[cite:advanced-pathway]]\n- **Test** — achieve the required minimum scores in an accepted English test (below). [[cite:four-pathways]]\n\nThe revised standard expanded the list of recognised countries from seven to 30, which removed the need for many relocating doctors to sit a test; South Africa was removed, subject to a 12-month transition. [[cite:recognised-countries]]"
+    },
+    {
+      "heading": "Accepted tests and current minimum scores",
+      "bodyMarkdown": "The accepted tests are IELTS Academic, OET, PTE Academic, TOEFL iBT and Cambridge English (C1 Advanced or C2 Proficiency). [[cite:accepted-tests]] At-home or remotely proctored versions are not accepted (the OET computer-based test at a test centre is the one exception). [[cite:no-at-home]]\n\nFor tests taken on or after 23 April 2026, the required minimums are: [[cite:current-scores]]\n\n| Test | Listening | Reading | Writing | Speaking | Overall |\n|---|---|---|---|---|---|\n| IELTS Academic | 7 | 7 | 6.5 | 7 | 7 |\n| OET | 350 | 360 | 350 | 360 | — |\n| PTE Academic | 58 | 59 | 60 | 76 | 63 |\n| TOEFL iBT | 22 | 22 | 23 | 24 | 91 |\n| Cambridge | 175 | 179 | 180 | 194 | 178 |\n\nThe writing requirement is lower than the others (IELTS 6.5 vs 7). [[cite:writing-reduced]] Tests taken on or before 22 April 2026 are assessed against the earlier transition scores. [[cite:transition-policy]] **Because the official scores have changed more than once, confirm the current minimums on the accepted-tests page before you book.** [[cite:scores-updated-2026]]"
+    },
+    {
+      "heading": "Validity, sittings and re-sits",
+      "bodyMarkdown": "Results are valid for two years before the date you lodge your application. [[cite:two-year-validity]] Older results may still be accepted in limited cases — for example if you've since been continuously working in a recognised country as a registered health practitioner and apply within 12 months of finishing. [[cite:validity-extension]]\n\nThe Boards accept results from one sitting, or from a maximum of two sittings within a 12-month period (both must meet the standard; results from different providers can't be combined). [[cite:two-sittings]] The IELTS One Skill Retake is accepted, letting eligible candidates re-sit a single component within 60 days; this isn't available for the other tests. [[cite:one-skill-retake]] For medical applicants, successful completion of the NZREX or the UK PLAB test is also accepted as evidence of English. [[cite:nzrex-plab]]"
+    },
+    {
+      "heading": "How this differs from the visa English requirement",
+      "bodyMarkdown": "Meeting the Medical Board's English standard is a *registration* requirement, not a visa requirement — the two are administered separately (AHPRA for registration, the Department of Home Affairs for visas). [[cite:separate-from-visa]] The Boards use the same tests Home Affairs uses, and registration scores were updated from 23 April 2026 partly to align with Home Affairs settings. [[cite:why-aligned]] If you sat an accepted test for a skilled-migration visa within the past two years and met the registration scores, you can reuse those results. [[cite:reuse-visa-test]] Always confirm the result satisfies the *registration* scores specifically. See [visas](/visas)."
+    }
+  ],
+  "claims": [
+    { "id": "standard-purpose", "text": "To register a practitioner, the National Board must be satisfied the applicant can communicate in English at a level that is safe to practise.", "sourceIds": ["ahpra-els-standard"] },
+    { "id": "in-effect-date", "text": "The revised common English language skills registration standard took effect on 18 March 2025.", "sourceIds": ["ahpra-els-news-2025"] },
+    { "id": "four-pathways", "text": "Applicants can meet the standard via one of four pathways: combined education, school education, advanced education, or the test pathway.", "sourceIds": ["ahpra-els-standard"] },
+    { "id": "accepted-tests", "text": "The accepted English tests are IELTS Academic, OET, PTE Academic, TOEFL iBT and Cambridge (C1 Advanced or C2 Proficiency).", "sourceIds": ["ahpra-els-standard", "ahpra-accepted-tests"] },
+    { "id": "scores-updated-2026", "text": "National Boards updated the minimum test scores from 23 April 2026 to align with score-concordance research and Home Affairs migration settings.", "sourceIds": ["ahpra-accepted-tests"] },
+    { "id": "separate-from-visa", "text": "The English language skills standard is a registration requirement administered by the Medical Board and AHPRA, separate from the visa English requirements set by Home Affairs.", "sourceIds": ["ahpra-accepted-tests", "homeaffairs-482"] },
+    { "id": "who-must-meet", "text": "An applicant must meet the standard when applying for registration for the first time, or if they have not used English as their main language for more than five years.", "sourceIds": ["ahpra-els-standard"] },
+    { "id": "no-repeat", "text": "Applicants who have already met a National Board English standard without conditions need not meet it again when applying in another profession or moving between categories.", "sourceIds": ["ahpra-els-standard"] },
+    { "id": "combined-pathway", "text": "The combined education pathway requires at least two years of secondary education plus qualifications, all taught and assessed solely in English in a recognised country.", "sourceIds": ["ahpra-els-standard"] },
+    { "id": "school-pathway", "text": "The school education pathway requires English as the main language with at least 10 years of schooling taught and assessed solely in English in a recognised country, plus qualifications taught and assessed solely in English.", "sourceIds": ["ahpra-els-standard"] },
+    { "id": "advanced-pathway", "text": "The advanced education pathway requires at least six years (full-time equivalent) of English-medium education in a recognised country including a tertiary qualification at AQF level 7 or higher, completed within two years of applying.", "sourceIds": ["ahpra-els-standard"] },
+    { "id": "recognised-countries", "text": "The revised standard expanded recognised countries from seven to 30 and removed South Africa subject to a 12-month transition.", "sourceIds": ["ahpra-els-news-2024", "ahpra-els-news-2025"] },
+    { "id": "current-scores", "text": "For tests on/after 23 April 2026 the minimums are IELTS overall 7 (writing 6.5); OET L350 R360 W350 S360; PTE overall 63; TOEFL iBT total 91; Cambridge overall 178.", "sourceIds": ["ahpra-accepted-tests"] },
+    { "id": "writing-reduced", "text": "The revised standard set the writing component lower than the other bands (IELTS 6.5 vs 7).", "sourceIds": ["ahpra-els-news-2024", "ahpra-accepted-tests"] },
+    { "id": "transition-policy", "text": "Tests taken on or before 22 April 2026 are assessed against the earlier transition scores.", "sourceIds": ["ahpra-accepted-tests"] },
+    { "id": "no-at-home", "text": "At-home or remotely proctored tests are not accepted, except the OET computer-based test taken at a test centre.", "sourceIds": ["ahpra-accepted-tests"] },
+    { "id": "two-year-validity", "text": "English test results are valid for two years before the date the registration application is lodged.", "sourceIds": ["ahpra-accepted-tests"] },
+    { "id": "validity-extension", "text": "Older results may be accepted if the applicant has since worked continuously in a recognised country as a registered health practitioner and applies within 12 months of finishing.", "sourceIds": ["ahpra-accepted-tests"] },
+    { "id": "two-sittings", "text": "Results from one sitting, or two sittings within a 12-month period, are accepted; both must meet the standard and results can't be combined across providers.", "sourceIds": ["ahpra-accepted-tests"] },
+    { "id": "one-skill-retake", "text": "The IELTS One Skill Retake is accepted (re-sit one component within 60 days); this is not available for other tests.", "sourceIds": ["ahpra-accepted-tests"] },
+    { "id": "nzrex-plab", "text": "For medicine, successful completion of NZREX or the UK PLAB test is also accepted as evidence of English.", "sourceIds": ["ahpra-els-standard"] },
+    { "id": "why-aligned", "text": "The Boards use the same tests as Home Affairs and updated scores from 23 April 2026 to align with Home Affairs and score-concordance research.", "sourceIds": ["ahpra-accepted-tests"] },
+    { "id": "reuse-visa-test", "text": "An applicant who sat an accepted test for a skilled-migration visa within two years and met the registration scores can reuse those results.", "sourceIds": ["ahpra-accepted-tests"] }
+  ],
+  "faq": [
+    { "question": "Which English tests does the Medical Board accept?", "answerMarkdown": "IELTS Academic, OET, PTE Academic, TOEFL iBT and Cambridge English (C1 Advanced or C2 Proficiency). At-home/remote versions aren't accepted, except the OET computer-based test at a test centre.", "sourceIds": ["ahpra-els-standard", "ahpra-accepted-tests"] },
+    { "question": "What IELTS score do I need?", "answerMarkdown": "For an IELTS Academic test taken on or after 23 April 2026: overall 7, with at least 7 in listening, reading and speaking and at least 6.5 in writing. Always confirm current minimums before booking.", "sourceIds": ["ahpra-accepted-tests"] },
+    { "question": "How long are results valid?", "answerMarkdown": "Two years before you lodge your application. Older results may be accepted in limited cases (e.g. continuous work in a recognised country as a registered practitioner, applying within 12 months of finishing).", "sourceIds": ["ahpra-accepted-tests"] },
+    { "question": "Do I have to sit a test at all?", "answerMarkdown": "Not necessarily — there are three education-based pathways. If you completed the relevant education taught and assessed in English in a recognised country, you may meet the standard without a test. The recognised-country list was expanded to 30.", "sourceIds": ["ahpra-els-standard", "ahpra-els-news-2024"] },
+    { "question": "Is the registration English requirement the same as the visa one?", "answerMarkdown": "No. Registration English is set by the Medical Board/AHPRA; visa English is set by Home Affairs. The same tests are used and scores were aligned from 23 April 2026, so a recent visa test may be reusable if it meets the registration scores.", "sourceIds": ["ahpra-accepted-tests", "homeaffairs-482"] },
+    { "question": "Are NZREX or PLAB accepted instead of a test?", "answerMarkdown": "Yes — for medical applicants, the Medical Board also accepts successful completion of the New Zealand Registration Examination (NZREX) or the UK PLAB test.", "sourceIds": ["ahpra-els-standard"] }
+  ],
+  "relatedSlugs": ["registration", "visas"],
+  "disclaimerKind": "general",
+  "pageLastVerified": "2026-06-15",
+  "schemaType": "MedicalWebPage"
+}

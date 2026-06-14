@@ -1,0 +1,59 @@
+{
+  "slug": "acem",
+  "collection": "college",
+  "title": "Australasian College for Emergency Medicine (ACEM)",
+  "eyebrow": "Specialist college",
+  "metaTitle": "ACEM SIMG Assessment for Emergency Medicine",
+  "metaDescription": "How the Australasian College for Emergency Medicine assesses overseas-trained emergency physicians for comparability to a FACEM on the specialist pathway.",
+  "keywords": ["ACEM", "FACEM", "SIMG emergency medicine", "emergency medicine specialist pathway Australia", "area of need emergency medicine"],
+  "collegeMeta": {
+    "abbr": "ACEM",
+    "fullName": "Australasian College for Emergency Medicine",
+    "website": "https://acem.org.au",
+    "specialties": ["Emergency medicine"]
+  },
+  "summaryMarkdown": "The Australasian College for Emergency Medicine (ACEM) is responsible for training and standards in emergency medicine across Australia and Aotearoa New Zealand, and confers the Fellowship FACEM. [[cite:acem-role]] Overseas-trained emergency physicians seeking recognition are assessed by ACEM as a specialist international medical graduate (SIMG), comparing their qualifications, training and experience against the standard of a newly elected FACEM. [[cite:simg-purpose]] The college offers a full Specialist Assessment, an Area of Need pathway and short-term training options. [[cite:simg-pathways]] As at early 2026, emergency medicine is not on the Medical Board's [Expedited Specialist pathway](/pathways/expedited-specialist), so the standard [specialist pathway](/pathways/specialist) through ACEM applies. [[cite:not-expedited]]",
+  "sections": [
+    {
+      "heading": "What ACEM is and what FACEM means",
+      "bodyMarkdown": "ACEM is the professional and standards body for emergency medicine in Australia and Aotearoa New Zealand. It runs the FACEM Training Program, sets curriculum and assessment standards, and conducts CPD. [[cite:acem-role]] FACEM (Fellow of ACEM) is the qualification held by emergency physicians who complete ACEM training and assessment, and it's the benchmark against which overseas-trained specialists are compared. [[cite:acem-role]] Achieving Fellowship supports an application for specialist registration in emergency medicine with the Medical Board. [[cite:simg-purpose]]"
+    },
+    {
+      "heading": "How ACEM assesses overseas emergency physicians",
+      "bodyMarkdown": "Through the Specialist Assessment, ACEM assesses an overseas applicant's emergency medicine qualifications, training and experience for comparability to a newly elected FACEM. [[cite:simg-purpose]] It begins with a paper-based assessment: after application and primary source verification, the SIMG Assessment Committee reviews whether you're eligible for interview or assessed as Not Comparable at that stage. [[cite:initial-assessment]] To be eligible for interview, your specialist training generally needs to have been a structured postgraduate course of at least three years with published standards comparable to the FACEM program, a documented in-training assessment system, and external accreditation. [[cite:interview-eligibility]] Eligible applicants attend a panel interview (FACEMs plus a community member) assessing the eight domains of the ACEM Curriculum Framework. [[cite:interview-domains]]"
+    },
+    {
+      "heading": "Comparability outcomes and supervised practice",
+      "bodyMarkdown": "After interview, the SIMG Assessment Committee determines whether you're **Substantially Comparable**, **Partially Comparable** or **Not Comparable** to an Australian-trained specialist. [[cite:comparability-outcomes]] A **Substantially Comparable** applicant typically completes from three up to a maximum of 12 full-time-equivalent months of supervised practice, with structured references from three FACEMs, and must meet ACEM Regulation C1.5, to be eligible for Fellowship and specialist registration. [[cite:substantially-comparable]] A **Not Comparable** applicant who still wants specialist registration would generally need to apply to enter the FACEM Training Program. [[cite:not-comparable]] Individual requirements are set out in the outcome advice ACEM provides. [[cite:initial-assessment]]"
+    },
+    {
+      "heading": "Area of need, and the standard specialist pathway",
+      "bodyMarkdown": "ACEM also operates an **Area of Need (AoN)** assessment, intended to help fill shortages of emergency medicine specialists, primarily in rural areas; AoN positions are tied to a designated employer and location, and applicants may pursue a concurrent Specialist Assessment. [[cite:area-of-need]] ACEM also offers short-term training assessment for temporary roles. [[cite:simg-pathways]]\n\nEmergency medicine is not currently on the Medical Board's [Expedited Specialist pathway](/pathways/expedited-specialist) — as at early 2026 the listed specialties were general practice, anaesthesia, obstetrics and gynaecology, psychiatry, general medicine and general paediatrics. [[cite:not-expedited]] Overseas-trained emergency physicians therefore follow the standard [specialist pathway](/pathways/specialist), with ACEM conducting the comparability assessment and the Medical Board deciding registration."
+    }
+  ],
+  "claims": [
+    { "id": "acem-role", "text": "ACEM is the professional and standards body for emergency medicine in Australia and Aotearoa New Zealand, runs the FACEM Training Program, and confers Fellowship (FACEM).", "sourceIds": ["acem-home"] },
+    { "id": "simg-purpose", "text": "ACEM's Specialist Assessment assesses an overseas applicant's emergency medicine qualifications, training and experience as comparable to a newly elected FACEM.", "sourceIds": ["acem-specialist-assessment"] },
+    { "id": "simg-pathways", "text": "ACEM offers Specialist Assessment, an Area of Need pathway, and short-term training assessment for temporary employment in Australian emergency departments.", "sourceIds": ["acem-simg-overview"] },
+    { "id": "initial-assessment", "text": "After application and primary source verification, the ACEM SIMG Assessment Committee conducts an initial paper-based assessment to determine interview eligibility, with individual requirements set out in outcome advice.", "sourceIds": ["acem-specialist-assessment"] },
+    { "id": "interview-eligibility", "text": "To be eligible for interview, an applicant's specialist training generally must have been a structured postgraduate course of at least three years with published standards comparable to the FACEM program, a documented in-training assessment system, and external accreditation.", "sourceIds": ["acem-specialist-assessment"] },
+    { "id": "interview-domains", "text": "Eligible applicants attend a panel interview (FACEMs plus a community member) assessing the eight domains of the ACEM Curriculum Framework.", "sourceIds": ["acem-specialist-assessment"] },
+    { "id": "comparability-outcomes", "text": "After interview, ACEM determines whether the applicant is Substantially Comparable, Partially Comparable, or Not Comparable to an Australian-trained specialist in emergency medicine.", "sourceIds": ["acem-specialist-assessment"] },
+    { "id": "substantially-comparable", "text": "Substantially Comparable applicants typically complete from three up to a maximum of 12 FTE months of supervised practice, with structured references from three FACEMs, and must meet ACEM Regulation C1.5, to be eligible for Fellowship and specialist registration.", "sourceIds": ["acem-specialist-assessment"] },
+    { "id": "not-comparable", "text": "A Not Comparable applicant who still seeks specialist registration would generally need to apply to enter the FACEM Training Program.", "sourceIds": ["acem-simg-overview"] },
+    { "id": "area-of-need", "text": "ACEM's Area of Need assessment helps fill shortages of emergency medicine specialists, primarily in rural areas; AoN applicants may pursue a concurrent Specialist Assessment.", "sourceIds": ["acem-simg-overview", "mba-area-of-need"] },
+    { "id": "not-expedited", "text": "As at early 2026, emergency medicine is not on the Medical Board's Expedited Specialist pathway; the listed specialties were general practice, anaesthesia, obstetrics and gynaecology, psychiatry, general medicine and general paediatrics.", "sourceIds": ["ahpra-expedited-2026", "mba-expedited-specialist"] }
+  ],
+  "faq": [
+    { "question": "What is ACEM and what does FACEM mean?", "answerMarkdown": "ACEM is the Australasian College for Emergency Medicine, responsible for training and standards in emergency medicine across Australia and Aotearoa New Zealand. FACEM (Fellow of ACEM) is the qualification held by emergency physicians who complete its training and assessment — the benchmark for assessing overseas-trained specialists.", "sourceIds": ["acem-home"] },
+    { "question": "How does ACEM assess an overseas-trained emergency physician?", "answerMarkdown": "As a SIMG. The Specialist Assessment starts with a paper-based review; those who meet the threshold are interviewed by a panel against the eight domains of the ACEM Curriculum Framework. Outcomes are decided case by case.", "sourceIds": ["acem-specialist-assessment"] },
+    { "question": "What comparability outcomes can ACEM give?", "answerMarkdown": "Substantially Comparable, Partially Comparable, or Not Comparable. The outcome determines further requirements such as supervised practice or additional training.", "sourceIds": ["acem-specialist-assessment"] },
+    { "question": "What happens if I'm found Substantially Comparable?", "answerMarkdown": "You typically complete from three up to a maximum of 12 FTE months of supervised practice, with structured references from three FACEMs, and must meet ACEM Regulation C1.5 to be eligible for Fellowship and specialist registration. Exact requirements are set in your individual outcome advice.", "sourceIds": ["acem-specialist-assessment"] },
+    { "question": "Is there an Area of Need pathway for emergency medicine?", "answerMarkdown": "Yes. ACEM operates an Area of Need assessment to help fill shortages, primarily in rural areas. AoN positions are tied to a designated employer and location, and applicants may pursue a concurrent Specialist Assessment.", "sourceIds": ["acem-simg-overview", "mba-area-of-need"] },
+    { "question": "Is emergency medicine on the Expedited Specialist pathway?", "answerMarkdown": "As at early 2026, no — the listed specialties were general practice, anaesthesia, obstetrics and gynaecology, psychiatry, general medicine and general paediatrics. Overseas-trained emergency physicians follow the standard specialist pathway with ACEM. Always check the Medical Board for the current list.", "sourceIds": ["ahpra-expedited-2026", "mba-expedited-specialist"] }
+  ],
+  "relatedSlugs": [],
+  "disclaimerKind": "medical",
+  "pageLastVerified": "2026-06-15",
+  "schemaType": "MedicalWebPage"
+}

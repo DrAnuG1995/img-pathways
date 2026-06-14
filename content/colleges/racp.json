@@ -1,0 +1,53 @@
+{
+  "slug": "racp",
+  "collection": "college",
+  "title": "Royal Australasian College of Physicians (RACP)",
+  "eyebrow": "Specialist college",
+  "metaTitle": "RACP SIMG Pathways for IMGs in Australia",
+  "metaDescription": "How the Royal Australasian College of Physicians assesses overseas-trained physicians and paediatricians as substantially, partially or not comparable, plus the 2026 expedited pathway.",
+  "keywords": ["RACP", "Royal Australasian College of Physicians", "SIMG", "overseas-trained physician", "comparability assessment", "accelerated specialist pathway", "general medicine", "general paediatrics"],
+  "collegeMeta": {
+    "abbr": "RACP",
+    "fullName": "Royal Australasian College of Physicians",
+    "website": "https://www.racp.edu.au",
+    "specialties": ["General medicine", "Paediatrics & child health", "Physician specialties"]
+  },
+  "summaryMarkdown": "The Royal Australasian College of Physicians (RACP) trains and represents physicians and paediatricians across Australia and Aotearoa New Zealand, organised into an Adult Medicine Division and a Paediatrics & Child Health Division. [[cite:racp-divisions]] For specialist international medical graduates (SIMGs), the RACP carries out specialist assessment on behalf of the Medical Board, comparing your training and experience against the standard of an Australian-trained specialist. [[cite:racp-assesses-for-mba]] Assessment results in one of three comparability outcomes that determine how much supervised practice you must complete. [[cite:racp-comparability-outcomes]] Separately, since 19 January 2026 general medicine and general paediatrics have been accepted on the [Expedited Specialist pathway](/pathways/expedited-specialist) administered directly by Ahpra and the Medical Board. [[cite:racp-expedited-2026]]",
+  "sections": [
+    {
+      "heading": "What the RACP is",
+      "bodyMarkdown": "The RACP connects, represents and trains physicians and trainee physicians across Australia and New Zealand, organised into an **Adult Medicine Division** and a **Paediatrics & Child Health Division**, covering general medicine, general paediatrics and a wide range of physician specialties. [[cite:racp-divisions]] For overseas-trained doctors, the RACP assesses whether your qualifications, training and experience are comparable to an Australian-trained physician or paediatrician, on behalf of the Medical Board and in line with the Board's standards for college assessment of SIMGs. [[cite:racp-assesses-for-mba]]"
+    },
+    {
+      "heading": "How the RACP assesses SIMGs",
+      "bodyMarkdown": "SIMGs lodge an application with the RACP, which conducts a **comparability assessment** of training, experience and professional development against the Australian-trained specialist standard. [[cite:racp-assesses-for-mba]] The College offers a **Standard Specialist Assessment Pathway** and an **Accelerated Specialist Pathway** for eligible specialists from the UK, Ireland, Hong Kong, India and Sri Lanka. [[cite:racp-accelerated-pathway]] The Accelerated pathway is for SIMGs holding specified qualifications (for example a UK Certificate of Completion of Training (CCT) or an Irish CSCST) who want to register and practise long term in Australia. [[cite:racp-accelerated-pathway]] Both routes lead to a comparability decision. See the [Specialist pathway](/pathways/specialist) overview for how these fit the regulator's framework."
+    },
+    {
+      "heading": "The three comparability outcomes",
+      "bodyMarkdown": "A RACP comparability assessment results in one of three outcomes: [[cite:racp-comparability-outcomes]]\n\n- **Substantially comparable** — at the standard of an Australian-trained specialist commencing practice. You may complete up to 12 months (FTE) of supervised practice, with up to 2 years to complete it after you start work.\n- **Partially comparable** — you can reach the standard within a maximum of 24 months (FTE) of supervised practice (which may combine top-up training and peer review), with up to 4 years to complete it.\n- **Not comparable** — you can't reach comparability within 24 months (FTE) and can't progress on this pathway; you may reapply after further training or consider RACP Basic Training.\n\nThe RACP aims to reach a decision within up to 6 months of a completed application. [[cite:racp-comparability-outcomes]]"
+    },
+    {
+      "heading": "General medicine and general paediatrics on the expedited pathway",
+      "bodyMarkdown": "From **19 January 2026**, general medicine and general paediatrics were added to the accepted specialties for the [Expedited Specialist pathway](/pathways/expedited-specialist), a faster route administered directly by Ahpra and the Medical Board rather than through the college. [[cite:racp-expedited-2026]] Eligible SIMGs apply directly to Ahpra and the MBA, and general paediatric applicants must demonstrate recent and relevant clinical experience. [[cite:racp-expedited-2026]] This sits alongside, not in place of, the RACP's own assessment pathways — if you don't hold an expedited-eligible qualification, the standard and accelerated routes remain available."
+    }
+  ],
+  "claims": [
+    { "id": "racp-divisions", "text": "The RACP trains and represents physicians across Australia and New Zealand, organised into an Adult Medicine Division and a Paediatrics & Child Health Division covering general medicine, general paediatrics and other physician specialties.", "sourceIds": ["racp-about", "racp-img-au"] },
+    { "id": "racp-assesses-for-mba", "text": "The RACP undertakes specialist assessment of SIMGs on behalf of the Medical Board, comparing qualifications, training, experience and professional development against the Australian-trained specialist standard.", "sourceIds": ["racp-img-au", "mba-specialist", "mba-specialist-recognition"] },
+    { "id": "racp-accelerated-pathway", "text": "The RACP Accelerated Specialist Pathway is for eligible specialists from the UK, Ireland, Hong Kong, India and Sri Lanka holding specified qualifications (such as a UK CCT or Irish CSCST) seeking long-term registration in Australia.", "sourceIds": ["racp-accelerated"] },
+    { "id": "racp-comparability-outcomes", "text": "RACP assessment yields substantially comparable (up to 12 months FTE supervised practice, 2 years to complete), partially comparable (up to 24 months FTE, 4 years to complete), or not comparable; the College aims to decide within up to 6 months of a completed application.", "sourceIds": ["racp-standard", "racp-accelerated"] },
+    { "id": "racp-expedited-2026", "text": "From 19 January 2026, general medicine and general paediatrics were added to the Expedited Specialist pathway administered by Ahpra and the Medical Board, with eligible SIMGs applying directly and general paediatric applicants required to show recent relevant clinical experience.", "sourceIds": ["ahpra-expedited-2026", "mba-expedited-specialist"] }
+  ],
+  "faq": [
+    { "question": "What does the RACP do for overseas-trained doctors?", "answerMarkdown": "It assesses SIMGs seeking recognition as physicians or paediatricians, on behalf of the Medical Board, via a standard specialist assessment pathway and an accelerated pathway for eligible applicants from certain countries.", "sourceIds": ["racp-img-au", "racp-accelerated", "mba-specialist"] },
+    { "question": "What are the comparability outcomes?", "answerMarkdown": "Substantially comparable (up to 12 months FTE supervised practice, 2 years to complete), partially comparable (up to 24 months FTE, 4 years to complete), or not comparable (can't progress, may reapply after further training or consider RACP Basic Training).", "sourceIds": ["racp-standard", "racp-accelerated"] },
+    { "question": "Who is eligible for the RACP Accelerated Specialist Pathway?", "answerMarkdown": "Eligible specialists from the UK, Ireland, Hong Kong, India and Sri Lanka holding specified qualifications such as a UK CCT/CCST or an Irish CSCST, who want to register and practise long term in Australia.", "sourceIds": ["racp-accelerated"] },
+    { "question": "Were general medicine and general paediatrics added to an expedited pathway in 2026?", "answerMarkdown": "Yes — from 19 January 2026 they became accepted specialties on the Expedited Specialist pathway, administered directly by Ahpra and the Medical Board. Eligible SIMGs apply directly, and general paediatric applicants must show recent relevant clinical experience.", "sourceIds": ["ahpra-expedited-2026", "mba-expedited-specialist"] },
+    { "question": "How long does a RACP specialist assessment take?", "answerMarkdown": "The RACP aims to decide within up to 6 months of a completed application. Any required supervised practice is then completed over up to 2 years (substantially comparable) or up to 4 years (partially comparable).", "sourceIds": ["racp-standard"] },
+    { "question": "Is the expedited pathway run by the RACP?", "answerMarkdown": "No — it's administered directly by Ahpra and the Medical Board, not the college. Eligible SIMGs apply straight to Ahpra and the MBA. The RACP's standard and accelerated routes remain available for those who don't hold an expedited-eligible qualification.", "sourceIds": ["ahpra-expedited-2026", "racp-img-au"] }
+  ],
+  "relatedSlugs": [],
+  "disclaimerKind": "medical",
+  "pageLastVerified": "2026-06-15",
+  "schemaType": "MedicalWebPage"
+}

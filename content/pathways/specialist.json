@@ -1,0 +1,52 @@
+{
+  "slug": "specialist",
+  "collection": "pathway",
+  "order": 3,
+  "eyebrow": "AMC Pathway",
+  "title": "The Specialist pathway",
+  "metaTitle": "Specialist pathway for overseas-trained specialists (SIMGs) in Australia",
+  "metaDescription": "The Specialist pathway for overseas-trained specialists in Australia: how the relevant college assesses comparability, the area-of-need and short-term training options, and how it leads to specialist registration.",
+  "keywords": ["specialist pathway", "SIMG Australia", "specialist recognition", "area of need", "college comparability assessment"],
+  "summaryMarkdown": "The Specialist pathway is for specialist international medical graduates (SIMGs) — doctors with an overseas specialist qualification seeking specialist registration in Australia. [[cite:sp-who]] The defining step is assessment by the **relevant Australian specialist college**, which decides how comparable your training and experience are to the Australian-trained specialist. [[cite:sp-college]] If your qualification is on the Board's accepted list, check the faster [Expedited Specialist pathway](/pathways/expedited-specialist) first.",
+  "disclaimerKind": "medical",
+  "schemaType": "MedicalWebPage",
+  "pageLastVerified": "2026-06-15",
+  "relatedSlugs": ["expedited-specialist", "competent-authority", "standard"],
+  "sections": [
+    {
+      "heading": "Specialist recognition",
+      "bodyMarkdown": "The main route is *specialist recognition*. You apply to the AMC for primary source verification of your qualifications, then the relevant college assesses comparability and rates you as **substantially comparable**, **partially comparable**, or **not comparable**. [[cite:sp-comparability]] Depending on the outcome you may take limited or provisional registration and complete a period of supervised practice and any college-required upskilling or exams, before applying for specialist registration. [[cite:sp-process]] Each [college](/colleges) sets its own process and fees."
+    },
+    {
+      "heading": "Area of need",
+      "bodyMarkdown": "The *area of need* stream is for overseas-trained specialists filling a specialist-level position designated as an area of need. [[cite:sp-aon]] It's tied to a specific role, and is often combined with employer sponsorship."
+    },
+    {
+      "heading": "Short-term training",
+      "bodyMarkdown": "There's also a *short-term training in a medical specialty* pathway, for specialists coming to Australia for a defined period of training or experience rather than long-term registration. [[cite:sp-stt]]"
+    },
+    {
+      "heading": "Is the expedited pathway faster for me?",
+      "bodyMarkdown": "For some specialties (general practice, anaesthesia, obstetrics and gynaecology, psychiatry, and from January 2026 general medicine and general paediatrics), eligible specialists can skip the comparability assessment entirely via the [Expedited Specialist pathway](/pathways/expedited-specialist). [[cite:sp-expedited]] If your specific qualification is on the accepted list, that route is usually faster."
+    },
+    {
+      "heading": "English, visas and registration",
+      "bodyMarkdown": "You must meet the English language requirement [[cite:sp-english]] (see [English requirements](/english)), and most roles are employer-sponsored — see [visas](/visas). The pathway leads to specialist registration with the Medical Board. As an IMG you may also be affected by the Medicare moratorium — see [Medicare](/medicare)."
+    }
+  ],
+  "claims": [
+    { "id": "sp-who", "text": "The Specialist pathway is for IMGs with an overseas specialist qualification seeking specialist registration.", "sourceIds": ["mba-specialist"] },
+    { "id": "sp-college", "text": "The relevant Australian specialist college assesses how comparable the applicant's training is.", "sourceIds": ["mba-specialist", "mba-specialist-recognition"] },
+    { "id": "sp-comparability", "text": "Colleges rate overseas specialists as substantially comparable, partially comparable, or not comparable.", "sourceIds": ["mba-specialist-recognition"] },
+    { "id": "sp-process", "text": "Applicants apply to the AMC for primary source verification, take limited/provisional registration for supervised practice, then apply for specialist registration once college requirements are met.", "sourceIds": ["mba-specialist-recognition", "amc-pathways"] },
+    { "id": "sp-aon", "text": "The area-of-need stream is for overseas specialists filling a designated area-of-need specialist position.", "sourceIds": ["mba-area-of-need"] },
+    { "id": "sp-stt", "text": "A short-term training in a medical specialty pathway exists for defined periods of training or experience.", "sourceIds": ["mba-short-term-training"] },
+    { "id": "sp-expedited", "text": "Eligible specialists in listed specialties can skip the comparability assessment via the Expedited Specialist pathway.", "sourceIds": ["mba-expedited-specialist", "ahpra-expedited-2026"] },
+    { "id": "sp-english", "text": "Applicants must meet the Medical Board's English language skills registration standard.", "sourceIds": ["mba-english"] }
+  ],
+  "faq": [
+    { "question": "What does 'substantially comparable' mean?", "answerMarkdown": "It's the most favourable comparability rating — your training is judged closely comparable to the Australian-trained specialist, usually meaning a shorter period of supervised practice before specialist registration.", "sourceIds": ["mba-specialist-recognition"] },
+    { "question": "Which college assesses me?", "answerMarkdown": "The Australian specialist college for your specialty (for example RACP, RACS, RACGP, ACEM or RANZCP). See the [colleges](/colleges) directory.", "sourceIds": ["mba-specialist"] },
+    { "question": "Should I use the specialist or expedited pathway?", "answerMarkdown": "If your specific qualification is on the Board's accepted-qualifications list for an eligible specialty, the expedited pathway skips the comparability assessment and is usually faster. Otherwise, the standard specialist pathway applies.", "sourceIds": ["mba-expedited-specialist", "mba-specialist"] }
+  ]
+}

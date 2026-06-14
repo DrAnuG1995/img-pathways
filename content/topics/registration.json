@@ -1,0 +1,81 @@
+{
+  "slug": "registration",
+  "collection": "topic",
+  "title": "Types of medical registration in Australia (and which IMGs hold them)",
+  "eyebrow": "Requirement",
+  "metaTitle": "Medical Registration Types in Australia for IMGs",
+  "metaDescription": "Plain-English guide to Australia's medical registration types — general, specialist, provisional, limited, non-practising and student — and which IMGs hold each.",
+  "keywords": [
+    "medical registration types Australia",
+    "general registration",
+    "specialist registration",
+    "provisional registration",
+    "limited registration",
+    "area of need registration",
+    "IMG registration Australia"
+  ],
+  "summaryMarkdown": "Under the Health Practitioner Regulation National Law, the Medical Board of Australia grants several categories of registration, each permitting a different scope of practice. [[cite:national-law-categories]] An international medical graduate usually moves through one or more of these — for example, supervised practice on provisional or limited registration before becoming eligible for general or specialist registration. This page explains, in plain English, what each type permits and which IMGs typically hold it. Registration with the Board is separate from the visa you need to live and work in Australia, which is granted by the Department of Home Affairs. [[cite:visa-separate]]",
+  "sections": [
+    {
+      "heading": "General registration",
+      "bodyMarkdown": "General registration is the standard, unrestricted registration that lets a doctor practise without the supervision or scope conditions of provisional or limited registration. It may be granted to practitioners who have previously held general registration in Australia, to IMGs in the competent authority pathway, and to IMGs who hold the AMC certificate. [[cite:general-eligible]]\n\nWhen first granted it runs to 30 September, then renews annually by 30 September. [[cite:general-renewal]] Most IMGs reach general registration only after a required period of supervised practice held under provisional or limited registration."
+    },
+    {
+      "heading": "Specialist registration",
+      "bodyMarkdown": "Specialist registration recognises a doctor as a specialist in an approved specialty; the specialist title is protected by law once you're on the Specialists Register. [[cite:specialist-register]] It's available to fellows of an AMC-accredited specialist college, to specialist IMGs whose qualification is on the Expedited Specialist pathway accepted list, and to those assessed by a college as eligible for fellowship. [[cite:specialist-eligible]]\n\nSince 21 October 2024, doctors granted specialist registration must have completed supervised practice, an orientation to the Australian healthcare system and cultural safety education, though some exemptions may apply. [[cite:specialist-supervised]] For IMGs, specialist registration is the usual endpoint of the [Specialist](/pathways/specialist) or [Expedited Specialist](/pathways/expedited-specialist) pathway."
+    },
+    {
+      "heading": "Provisional registration",
+      "bodyMarkdown": "Provisional registration applies to people qualified for general registration who must first complete approved supervised practice in Australia. [[cite:provisional-purpose]] It's held by Australian/New Zealand graduates doing an accredited internship, by [Standard pathway](/pathways/standard) IMGs awarded the AMC certificate, and by IMGs eligible for the [Competent Authority pathway](/pathways/competent-authority). [[cite:provisional-who]]\n\nUp to 12 months can be granted at a time, renewable no more than twice; after that a fresh application is needed. [[cite:provisional-duration]] Importantly, competent-authority or AMC-certificate IMGs apply for provisional registration — they are **not** eligible for limited registration. [[cite:provisional-not-limited]]"
+    },
+    {
+      "heading": "Limited registration and its four categories",
+      "bodyMarkdown": "Limited registration is for doctors whose qualifications are from a medical school outside Australia or New Zealand, listed in both the AMC's recognised medical schools list and the World Directory of Medical Schools. [[cite:limited-eligibility]] There are four categories, all of which allow supervised practice: [[cite:limited-four-types]]\n\n- **Postgraduate training or supervised practice** — typically IMGs in supervised training, including those preparing for the AMC clinical exam. [[cite:limited-postgrad]]\n- **Area of need** — supervised work in a location (often rural/remote) the state or territory Minister for Health has declared an 'area of need'. [[cite:limited-aon]]\n- **Public interest** — short-term, limited scope, where the Board sees a public interest (for example during disasters or pandemics); all holders are supervised. [[cite:limited-public-interest]]\n- **Teaching or research** — for university/clinical teaching or research roles, with limited related clinical practice, or short-term expert demonstrations. [[cite:limited-teaching-research]]\n\nThe public-interest and teaching-or-research categories are not suitable for doctors working towards general or specialist registration. [[cite:limited-not-for-progression]]"
+    },
+    {
+      "heading": "Non-practising and student registration",
+      "bodyMarkdown": "**Non-practising registration** suits practitioners who previously held general or specialist registration but are temporarily away from practice or practising overseas. [[cite:nonprac-who]] Holders must not practise — no treatment, opinions on a person's health, prescribing or formal referrals — and a reduced fee applies. [[cite:nonprac-restrictions]]\n\n**Student registration** applies to students in an approved program of study; students don't apply themselves — the education provider supplies their details. [[cite:student-who]] It's included for completeness and isn't a route IMGs use to practise."
+    },
+    {
+      "heading": "Registration is separate from your visa",
+      "bodyMarkdown": "Registration authorises you to practise medicine; a visa from the Department of Home Affairs lets you live and work here. You need both, and they're separate. [[cite:visa-separate]] The Board advises waiting for your AHPRA registration before applying for your visa, as a missing registration number can delay processing. [[cite:visa-after-registration]] If you're being sponsored, you can lodge the visa once you have a Transaction Reference Number (TRN) from your employer, without waiting for the nomination to be approved. [[cite:visa-trn]] See [visas](/visas)."
+    }
+  ],
+  "claims": [
+    { "id": "national-law-categories", "text": "Under the National Law there is a range of registration categories under which a doctor can practise in Australia.", "sourceIds": ["mba-registration-types"] },
+    { "id": "general-eligible", "text": "General registration may be granted to those who previously held it in Australia, IMGs in the competent authority pathway, and IMGs with the AMC certificate.", "sourceIds": ["mba-general-registration"] },
+    { "id": "general-renewal", "text": "When first granted, general registration runs to 30 September and renews annually by 30 September.", "sourceIds": ["mba-general-registration"] },
+    { "id": "specialist-register", "text": "Practitioners in an approved specialty who meet the requirements are on the Specialists Register, and the specialist title is protected by law.", "sourceIds": ["mba-specialist-registration"] },
+    { "id": "specialist-eligible", "text": "Specialist registration is available to fellows of an AMC-accredited college, SIMGs whose qualification is on the Expedited Specialist accepted list, and those assessed by a college as eligible for fellowship.", "sourceIds": ["mba-specialist-registration"] },
+    { "id": "specialist-supervised", "text": "From 21 October 2024, specialist registration requires completed supervised practice, orientation to the Australian healthcare system and cultural safety education, with some exemptions.", "sourceIds": ["mba-specialist-registration"] },
+    { "id": "provisional-purpose", "text": "Provisional registration is for people qualified for general registration who must complete approved supervised practice before general registration.", "sourceIds": ["mba-provisional-registration"] },
+    { "id": "provisional-who", "text": "Provisional registration is held by interns, Standard pathway IMGs awarded the AMC certificate, and IMGs eligible for the competent authority pathway.", "sourceIds": ["mba-provisional-registration"] },
+    { "id": "provisional-duration", "text": "Up to 12 months of provisional registration can be granted, renewable no more than twice, after which a new application is required.", "sourceIds": ["mba-provisional-registration"] },
+    { "id": "provisional-not-limited", "text": "Competent authority or AMC-certificate IMGs apply for provisional registration and are not eligible for limited registration.", "sourceIds": ["mba-limited-registration", "mba-provisional-registration"] },
+    { "id": "limited-eligibility", "text": "Limited registration is for doctors from an overseas medical school listed in both the AMC recognised list and the World Directory of Medical Schools.", "sourceIds": ["mba-limited-registration"] },
+    { "id": "limited-four-types", "text": "There are four types of limited registration, all allowing supervised medical practice.", "sourceIds": ["mba-limited-registration"] },
+    { "id": "limited-postgrad", "text": "Limited registration for postgraduate training or supervised practice is typically for IMGs in supervised training, including those preparing for the AMC clinical exam.", "sourceIds": ["mba-limited-postgrad"] },
+    { "id": "limited-aon", "text": "Limited registration for area of need is supervised work where there is a shortage of doctors, with the Minister for Health declaring the area of need.", "sourceIds": ["mba-limited-aon"] },
+    { "id": "limited-public-interest", "text": "Limited registration in the public interest is short-term, limited scope, supervised, for example during disasters or pandemics.", "sourceIds": ["mba-limited-public-interest"] },
+    { "id": "limited-teaching-research", "text": "Limited registration for teaching or research covers university teaching/research roles with limited related clinical practice and short-term expert demonstrations.", "sourceIds": ["mba-limited-teaching-research"] },
+    { "id": "limited-not-for-progression", "text": "Public-interest and teaching-or-research registration are not suitable for doctors working towards general or specialist registration.", "sourceIds": ["mba-limited-public-interest", "mba-limited-teaching-research"] },
+    { "id": "nonprac-who", "text": "Non-practising registration suits those who previously held general/specialist registration but are temporarily absent or practising overseas.", "sourceIds": ["mba-nonpractising"] },
+    { "id": "nonprac-restrictions", "text": "Non-practising holders must not provide treatment, opinions on health, prescriptions or formal referrals; a reduced fee applies.", "sourceIds": ["mba-nonpractising"] },
+    { "id": "student-who", "text": "Students in an approved program must be registered as students; the education provider supplies their details rather than the student applying.", "sourceIds": ["mba-student-registration"] },
+    { "id": "visa-separate", "text": "You need a visa to live and work in Australia (from Home Affairs), separate from medical registration.", "sourceIds": ["mba-img"] },
+    { "id": "visa-after-registration", "text": "The Board advises securing AHPRA registration before applying for a visa, as a missing registration number can delay the visa.", "sourceIds": ["mba-img"] },
+    { "id": "visa-trn", "text": "A sponsored applicant can lodge the visa once they have a Transaction Reference Number from their employer, without waiting for nomination approval.", "sourceIds": ["mba-img"] }
+  ],
+  "faq": [
+    { "question": "What are the main types of medical registration?", "answerMarkdown": "General, specialist, provisional, limited and non-practising registration, plus student registration for medical students in an approved program. Each permits a different scope of practice.", "sourceIds": ["mba-registration-types", "mba-student-registration"] },
+    { "question": "Which registration do IMGs usually hold first?", "answerMarkdown": "It depends on the pathway. Competent-authority or AMC-certificate IMGs hold **provisional** registration during supervised practice; many other IMGs hold **limited** registration (e.g. for postgraduate training or an area of need) while supervised.", "sourceIds": ["mba-provisional-registration", "mba-limited-registration"] },
+    { "question": "What's the difference between provisional and limited registration?", "answerMarkdown": "Provisional is for people already qualified for general registration completing supervised practice. Limited is for overseas-qualified doctors providing supervised services under one of four categories. Competent-authority/AMC-certificate IMGs apply for provisional, not limited.", "sourceIds": ["mba-provisional-registration", "mba-limited-registration"] },
+    { "question": "What is limited registration for area of need?", "answerMarkdown": "It lets an overseas-qualified doctor work under supervision in a location (often rural/remote) where there's a shortage of doctors, after the state or territory Minister declares it an 'area of need'.", "sourceIds": ["mba-limited-aon"] },
+    { "question": "What does non-practising registration allow?", "answerMarkdown": "It keeps a doctor on the register without practising — no treatment, health opinions, prescribing or formal referrals — for example during a temporary absence or while practising overseas. A reduced fee applies.", "sourceIds": ["mba-nonpractising"] },
+    { "question": "Is registration the same as a visa?", "answerMarkdown": "No. Registration authorises you to practise medicine; a visa lets you live and work here. The Board advises getting AHPRA registration first, then applying for the visa.", "sourceIds": ["mba-img"] }
+  ],
+  "relatedSlugs": ["standard", "specialist"],
+  "disclaimerKind": "medical",
+  "pageLastVerified": "2026-06-15",
+  "schemaType": "MedicalWebPage"
+}

@@ -1,0 +1,128 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  background-color: theme("colors.paper");
+  color: theme("colors.ink");
+  font-family: theme("fontFamily.sans");
+}
+
+/* Respect users who prefer reduced motion. */
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+/* Skip-to-content link for keyboard users. */
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  z-index: 100;
+}
+.skip-link:focus {
+  left: 1rem;
+  top: 1rem;
+  padding: 0.5rem 0.75rem;
+  background: theme("colors.ink");
+  color: white;
+  border-radius: 0.5rem;
+}
+
+/* ---------------------------------------------------------------------------
+   Article prose — styles markdown rendered by ContentRenderer. Scoped to
+   .prose-content so it never leaks into UI chrome.
+--------------------------------------------------------------------------- */
+.prose-content {
+  font-size: 1.0625rem;
+  line-height: 1.75;
+  color: theme("colors.ink");
+}
+.prose-content > * + * {
+  margin-top: 1.15rem;
+}
+.prose-content h2 {
+  font-family: theme("fontFamily.display");
+  font-size: clamp(1.5rem, 3vw, 2rem);
+  line-height: 1.15;
+  font-weight: 600;
+  margin-top: 2.75rem;
+  margin-bottom: 0.25rem;
+  scroll-margin-top: 6rem;
+}
+.prose-content h3 {
+  font-family: theme("fontFamily.display");
+  font-size: 1.3rem;
+  font-weight: 600;
+  margin-top: 1.75rem;
+  scroll-margin-top: 6rem;
+}
+.prose-content p {
+  color: theme("colors.ink");
+}
+.prose-content a {
+  color: theme("colors.primary");
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.prose-content a:hover {
+  color: theme("colors.primary-deep");
+}
+.prose-content ul,
+.prose-content ol {
+  padding-left: 1.4rem;
+}
+.prose-content ul {
+  list-style: disc;
+}
+.prose-content ol {
+  list-style: decimal;
+}
+.prose-content li + li {
+  margin-top: 0.4rem;
+}
+.prose-content strong {
+  font-weight: 650;
+  color: theme("colors.ink");
+}
+.prose-content blockquote {
+  border-left: 3px solid theme("colors.primary");
+  padding-left: 1rem;
+  color: theme("colors.muted");
+  font-style: italic;
+}
+.prose-content table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+}
+.prose-content th,
+.prose-content td {
+  border: 1px solid theme("colors.line");
+  padding: 0.5rem 0.75rem;
+  text-align: left;
+  vertical-align: top;
+}
+.prose-content th {
+  background: theme("colors.primary-soft");
+  font-weight: 600;
+}
+.prose-content code {
+  font-family: theme("fontFamily.mono");
+  font-size: 0.9em;
+  background: theme("colors.primary-soft");
+  padding: 0.1rem 0.35rem;
+  border-radius: 0.3rem;
+}

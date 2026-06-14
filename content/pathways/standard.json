@@ -1,0 +1,51 @@
+{
+  "slug": "standard",
+  "collection": "pathway",
+  "order": 1,
+  "eyebrow": "AMC Pathway",
+  "title": "The Standard pathway",
+  "metaTitle": "Standard pathway for IMGs in Australia: AMC exams, steps & timeline",
+  "metaDescription": "The Standard pathway for International Medical Graduates in Australia: the AMC CAT MCQ exam, the AMC clinical exam or workplace-based assessment, English requirements and how it leads to general registration.",
+  "keywords": ["AMC standard pathway", "AMC CAT MCQ", "AMC clinical exam", "workplace based assessment", "IMG Australia registration"],
+  "summaryMarkdown": "The Standard pathway is the route for International Medical Graduates (IMGs) who aren't eligible for the competent authority or specialist pathways. [[cite:std-who]] You demonstrate your knowledge and clinical skills through the Australian Medical Council's (AMC) assessments, which are pitched at the level of an Australian medical graduate about to start internship. [[cite:std-level]] It leads to general registration with the Medical Board of Australia.",
+  "disclaimerKind": "medical",
+  "schemaType": "MedicalWebPage",
+  "pageLastVerified": "2026-06-15",
+  "relatedSlugs": ["competent-authority", "specialist", "expedited-specialist"],
+  "sections": [
+    {
+      "heading": "Who the Standard pathway is for",
+      "bodyMarkdown": "You'll generally use the Standard pathway if your primary medical qualification isn't from a country Australia recognises as a *competent authority*, and you aren't applying as a specialist. [[cite:std-who]]\n\nIf you trained or are certified in the UK, Ireland, USA, Canada or New Zealand, check the [Competent Authority pathway](/pathways/competent-authority) first — it usually skips the AMC exams. If you hold an overseas specialist qualification, see the [Specialist](/pathways/specialist) and [Expedited Specialist](/pathways/expedited-specialist) pathways."
+    },
+    {
+      "heading": "The AMC exams",
+      "bodyMarkdown": "The Standard pathway has two assessment stages, both run by the AMC: [[cite:std-exams]]\n\n1. **AMC CAT MCQ examination** — a computer-adaptive, multiple-choice exam testing medical knowledge.\n2. **AMC Clinical examination *or* a Workplace-Based Assessment (WBA)** — testing clinical skills. The WBA is an AMC-accredited alternative completed in an approved workplace under supervision.\n\nBoth are set at the standard of a newly qualified Australian medical graduate about to begin intern training. [[cite:std-level]] Before sitting, you create an AMC portfolio and have your qualifications verified through primary source verification. [[cite:std-psv]]"
+    },
+    {
+      "heading": "English language requirement",
+      "bodyMarkdown": "You must meet the Medical Board's English language skills registration standard. Accepted tests include IELTS Academic, OET, PTE Academic and TOEFL iBT, and results are generally valid for two years. [[cite:std-english]] See [English requirements](/english) for the detail."
+    },
+    {
+      "heading": "From exams to registration",
+      "bodyMarkdown": "Passing the AMC assessments makes you eligible to apply to the Medical Board for registration. In practice you usually hold provisional registration while you complete a period of supervised practice (similar to an internship), then move to general registration. [[cite:std-registration]] Registration types are explained on the [registration](/registration) page."
+    },
+    {
+      "heading": "Visas and where you can work",
+      "bodyMarkdown": "Most IMGs on this pathway work in employer-sponsored roles, commonly on the Skills in Demand (subclass 482) visa. [[cite:std-visa]] As an IMG you may also be subject to the Medicare *10-year moratorium*, which affects where you can bill Medicare — see [Medicare & the moratorium](/medicare) and [where you can work](/where-you-can-work). Migration is regulated: confirm your situation with a registered MARA agent."
+    }
+  ],
+  "claims": [
+    { "id": "std-who", "text": "The Standard pathway is for IMGs not eligible for the competent authority or specialist assessment pathways.", "sourceIds": ["mba-standard", "amc-pathways"] },
+    { "id": "std-level", "text": "AMC examinations and assessment are set at the level of a newly qualified Australian medical graduate about to begin intern training.", "sourceIds": ["amc-standard-assessments"] },
+    { "id": "std-exams", "text": "The Standard pathway requires the AMC CAT MCQ examination plus either the AMC Clinical examination or a Workplace-Based Assessment.", "sourceIds": ["amc-standard-assessments", "mba-standard"] },
+    { "id": "std-psv", "text": "Applicants create an AMC portfolio and have qualifications verified via primary source verification.", "sourceIds": ["amc-pathways"] },
+    { "id": "std-english", "text": "Accepted English tests include IELTS Academic, OET, PTE Academic and TOEFL iBT, with results generally valid for two years.", "sourceIds": ["mba-english"] },
+    { "id": "std-registration", "text": "IMGs typically hold provisional registration during supervised practice before moving to general registration.", "sourceIds": ["mba-registration-types", "mba-standard"] },
+    { "id": "std-visa", "text": "The Skills in Demand (subclass 482) visa is the main employer-sponsored work visa used for doctors.", "sourceIds": ["homeaffairs-482"] }
+  ],
+  "faq": [
+    { "question": "Do I have to sit both the MCQ and the clinical exam?", "answerMarkdown": "You sit the AMC CAT MCQ exam, then complete **either** the AMC Clinical examination **or** an AMC-accredited Workplace-Based Assessment — not both.", "sourceIds": ["amc-standard-assessments"] },
+    { "question": "How long does the Standard pathway take?", "answerMarkdown": "It varies widely depending on exam availability, when you secure a supervised post and processing times. Treat any single figure with caution and plan around your own exam dates. See [costs & timelines](/costs-and-timelines)." , "sourceIds": ["mba-standard"] },
+    { "question": "Is the Standard pathway harder than the others?", "answerMarkdown": "It involves more assessment than the competent authority pathway because Australia hasn't pre-recognised your training system. It's not a judgement of your ability — it's about how your qualification is verified.", "sourceIds": ["mba-standard", "mba-competent-authority"] }
+  ]
+}

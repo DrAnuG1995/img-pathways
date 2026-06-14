@@ -1,0 +1,20 @@
+{
+  "terms": [
+    { "term": "AHPRA", "abbr": "Australian Health Practitioner Regulation Agency", "definition": "The national body that administers the registration of health practitioners, working with the Medical Board of Australia for doctors.", "sourceIds": ["mba-img"] },
+    { "term": "AMC", "abbr": "Australian Medical Council", "definition": "The standards body that assesses international medical graduates and runs the AMC examinations.", "sourceIds": ["amc-pathways"] },
+    { "term": "IMG", "abbr": "International Medical Graduate", "definition": "A doctor whose primary medical qualification was awarded by a training institution outside Australia or New Zealand.", "sourceIds": ["mba-img"] },
+    { "term": "SIMG", "abbr": "Specialist International Medical Graduate", "definition": "An IMG who holds a specialist qualification obtained overseas and is seeking specialist registration in Australia.", "sourceIds": ["mba-specialist"] },
+    { "term": "CAT MCQ", "abbr": "Computer Adaptive Test, multiple-choice question exam", "definition": "The AMC's knowledge exam on the standard pathway, taken before the clinical assessment.", "sourceIds": ["amc-standard-assessments"] },
+    { "term": "WBA", "abbr": "Workplace-Based Assessment", "definition": "An AMC-accredited alternative to the AMC clinical exam, completed in an approved workplace under supervision.", "sourceIds": ["amc-standard-assessments"] },
+    { "term": "Competent authority", "definition": "A medical regulator/body in a country whose certification Australia recognises (UK, Ireland, USA, Canada, New Zealand), enabling the competent authority pathway.", "sourceIds": ["mba-competent-authority"] },
+    { "term": "Provisional registration", "definition": "Registration that lets a doctor complete a required period of supervised practice before applying for general registration.", "sourceIds": ["mba-registration-types"] },
+    { "term": "Limited registration", "definition": "Registration for a specific position or purpose, often used for area-of-need or postgraduate training roles.", "sourceIds": ["mba-registration-types"] },
+    { "term": "19AB / 10-year moratorium", "definition": "Section 19AB of the Health Insurance Act 1973 restricts when IMGs can access Medicare provider numbers, generally for up to 10 years from first registration.", "sourceIds": ["servicesaustralia-19ab"] },
+    { "term": "DPA", "abbr": "Distribution Priority Area", "definition": "Areas identified as having a shortage of GPs; working in a DPA can satisfy the 19AB requirement for general practitioners.", "sourceIds": ["health-dpa"] },
+    { "term": "DWS", "abbr": "District of Workforce Shortage", "definition": "The equivalent of a DPA for non-GP specialists for the purposes of Medicare access.", "sourceIds": ["servicesaustralia-19ab"] },
+    { "term": "MMM", "abbr": "Modified Monash Model", "definition": "A 7-category scale (MM1 major city to MM7 very remote) used to target rural health workforce programs and incentives.", "sourceIds": ["health-mmm"] },
+    { "term": "OET", "abbr": "Occupational English Test", "definition": "A healthcare-specific English test accepted by the Medical Board, alongside IELTS Academic, PTE Academic and TOEFL iBT.", "sourceIds": ["mba-english"] },
+    { "term": "MARA", "abbr": "Office of the Migration Agents Registration Authority", "definition": "Where to find a registered migration agent for personalised, regulated migration advice.", "sourceIds": ["mara"] },
+    { "term": "Subclass 482", "abbr": "Skills in Demand visa", "definition": "The main employer-sponsored temporary work visa (which replaced the TSS visa); commonly used to sponsor doctors.", "sourceIds": ["homeaffairs-482"] }
+  ]
+}

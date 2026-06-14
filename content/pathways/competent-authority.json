@@ -1,0 +1,45 @@
+{
+  "slug": "competent-authority",
+  "collection": "pathway",
+  "order": 2,
+  "eyebrow": "AMC Pathway",
+  "title": "The Competent Authority pathway",
+  "metaTitle": "Competent Authority pathway: skip the AMC exams (UK, Ireland, USA, Canada, NZ)",
+  "metaDescription": "The Competent Authority pathway lets doctors certified in the UK, Ireland, USA, Canada or New Zealand register in Australia without sitting the AMC exams, after a period of supervised practice.",
+  "keywords": ["competent authority pathway", "skip AMC exams", "GMC Australia", "USMLE Australia", "IMG no exams Australia"],
+  "summaryMarkdown": "The Competent Authority pathway is for doctors — including general practitioners — who have been assessed and certified by a medical authority Australia recognises as a *competent authority*, and who have practised in that country. [[cite:ca-who]] Its big advantage: you generally **don't sit the AMC examinations**. [[cite:ca-noexams]] Instead you complete a period of supervised practice before general registration.",
+  "disclaimerKind": "medical",
+  "schemaType": "MedicalWebPage",
+  "pageLastVerified": "2026-06-15",
+  "relatedSlugs": ["standard", "specialist", "expedited-specialist"],
+  "sections": [
+    {
+      "heading": "Recognised competent authorities",
+      "bodyMarkdown": "Australia recognises a defined set of overseas bodies as competent authorities. These are generally: [[cite:ca-list]]\n\n- **United Kingdom** — General Medical Council (GMC)\n- **Ireland** — Medical Council of Ireland\n- **United States** — ECFMG / USMLE\n- **Canada** — Medical Council of Canada (LMCC)\n- **New Zealand** — Medical Council of New Zealand (NZREX)\n\nIt isn't enough simply to have a degree from one of these countries — you must have been **assessed/certified by that authority and practised there**. [[cite:ca-who]] Always confirm your specific certificate qualifies."
+    },
+    {
+      "heading": "Why you skip the AMC exams",
+      "bodyMarkdown": "Australia treats these training and certification systems as sufficiently comparable, so eligible applicants are not required to sit the AMC CAT MCQ or clinical assessment. [[cite:ca-noexams]] This is the main reason the pathway is faster than the [Standard pathway](/pathways/standard)."
+    },
+    {
+      "heading": "Supervised practice and registration",
+      "bodyMarkdown": "Eligible applicants apply for **provisional registration** and complete **12 months of supervised practice** before applying for general registration. [[cite:ca-supervised]] You'll need an approved position with a supervisor to do this. Registration types are explained on the [registration](/registration) page."
+    },
+    {
+      "heading": "Other requirements",
+      "bodyMarkdown": "You still need to meet the standard registration requirements, including the English language standard, recency of practice and professional indemnity insurance. [[cite:ca-other]] See [English requirements](/english). Most roles are employer-sponsored (e.g. the Skills in Demand subclass 482 visa) — see [visas](/visas)."
+    }
+  ],
+  "claims": [
+    { "id": "ca-who", "text": "The pathway is for IMGs (including GPs and specialists) assessed by a competent authority who have practised in a competent authority country.", "sourceIds": ["mba-competent-authority"] },
+    { "id": "ca-noexams", "text": "IMGs on the competent authority pathway generally do not sit the AMC examinations.", "sourceIds": ["mba-competent-authority", "amc-other-pathways"] },
+    { "id": "ca-list", "text": "Recognised competent authorities include the GMC (UK), Medical Council of Ireland, ECFMG/USMLE (USA), Medical Council of Canada (LMCC) and Medical Council of New Zealand (NZREX).", "sourceIds": ["mba-competent-authority"] },
+    { "id": "ca-supervised", "text": "Eligible applicants take provisional registration and complete 12 months of supervised practice before general registration.", "sourceIds": ["mba-ca-provisional"] },
+    { "id": "ca-other", "text": "Applicants must still meet registration standards including English language skills, recency of practice and indemnity insurance.", "sourceIds": ["mba-english", "mba-competent-authority"] }
+  ],
+  "faq": [
+    { "question": "I have a UK degree but trained as a junior doctor elsewhere — do I qualify?", "answerMarkdown": "Eligibility depends on being certified by the competent authority **and** having practised in that country, not just holding the degree. Check your specific situation with the Medical Board.", "sourceIds": ["mba-competent-authority"] },
+    { "question": "Do GPs use this pathway?", "answerMarkdown": "Yes — the competent authority pathway is open to general practitioners as well as other non-specialists and specialists assessed by a competent authority.", "sourceIds": ["mba-competent-authority"] },
+    { "question": "Is supervised practice the same as an internship?", "answerMarkdown": "It's a supervised period (commonly 12 months) in an approved position, after which you can apply for general registration.", "sourceIds": ["mba-ca-provisional"] }
+  ]
+}

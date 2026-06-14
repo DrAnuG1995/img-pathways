@@ -1,0 +1,227 @@
+{
+  "mba-img": {
+    "id": "mba-img",
+    "title": "International medical graduates (IMGs)",
+    "publisher": "Medical Board of Australia",
+    "authority": "AHPRA",
+    "url": "https://www.medicalboard.gov.au/Registration/International-Medical-Graduates.aspx",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Overview of the pathways to registration for IMGs"
+  },
+  "amc-pathways": {
+    "id": "amc-pathways",
+    "title": "Assessment pathways to registration",
+    "publisher": "Australian Medical Council",
+    "authority": "AMC",
+    "url": "https://www.amc.org.au/pathways/",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "AMC overview of standard, competent authority and specialist pathways"
+  },
+  "amc-standard-assessments": {
+    "id": "amc-standard-assessments",
+    "title": "AMC examinations and assessment",
+    "publisher": "Australian Medical Council",
+    "authority": "AMC",
+    "url": "https://www.amc.org.au/pathways/standard-pathway/amc-assessments/",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "AMC CAT MCQ exam and clinical examination / workplace-based assessment"
+  },
+  "amc-other-pathways": {
+    "id": "amc-other-pathways",
+    "title": "Other pathways",
+    "publisher": "Australian Medical Council",
+    "authority": "AMC",
+    "url": "https://www.amc.org.au/pathways/other-pathways/",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06"
+  },
+  "mba-standard": {
+    "id": "mba-standard",
+    "title": "Standard pathway",
+    "publisher": "Medical Board of Australia",
+    "authority": "AHPRA",
+    "url": "https://www.medicalboard.gov.au/Registration/International-Medical-Graduates/Standard-Pathway.aspx",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Standard pathway eligibility and registration"
+  },
+  "mba-competent-authority": {
+    "id": "mba-competent-authority",
+    "title": "Competent Authority pathway",
+    "publisher": "Medical Board of Australia",
+    "authority": "AHPRA",
+    "url": "https://www.medicalboard.gov.au/Registration/International-Medical-Graduates/Competent-Authority-Pathway.aspx",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Recognised competent authorities and eligibility"
+  },
+  "mba-ca-provisional": {
+    "id": "mba-ca-provisional",
+    "title": "IMGs via the competent authority pathway (provisional registration)",
+    "publisher": "Medical Board of Australia",
+    "authority": "AHPRA",
+    "url": "https://www.medicalboard.gov.au/Registration/Types/Provisional-Registration/applicants-via-competent-authority-pathway.aspx",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "12 months supervised practice for provisional registration"
+  },
+  "mba-specialist": {
+    "id": "mba-specialist",
+    "title": "Specialist pathway",
+    "publisher": "Medical Board of Australia",
+    "authority": "AHPRA",
+    "url": "https://www.medicalboard.gov.au/Registration/International-Medical-Graduates/Specialist-Pathway.aspx",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Specialist recognition and area of need options"
+  },
+  "mba-specialist-recognition": {
+    "id": "mba-specialist-recognition",
+    "title": "Specialist pathway — specialist recognition",
+    "publisher": "Medical Board of Australia",
+    "authority": "AHPRA",
+    "url": "https://www.medicalboard.gov.au/Registration/International-Medical-Graduates/Specialist-Pathway/Specialist-recognition.aspx",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Comparability assessment by the relevant specialist college"
+  },
+  "mba-area-of-need": {
+    "id": "mba-area-of-need",
+    "title": "Specialist pathway — area of need",
+    "publisher": "Medical Board of Australia",
+    "authority": "AHPRA",
+    "url": "https://www.medicalboard.gov.au/registration/international-medical-graduates/specialist-pathway/area-of-need.aspx",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06"
+  },
+  "mba-short-term-training": {
+    "id": "mba-short-term-training",
+    "title": "Short-term training in a medical specialty pathway",
+    "publisher": "Medical Board of Australia",
+    "authority": "AHPRA",
+    "url": "https://www.medicalboard.gov.au/Registration/International-Medical-Graduates/Short-term-training.aspx",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06"
+  },
+  "mba-expedited-specialist": {
+    "id": "mba-expedited-specialist",
+    "title": "Expedited Specialist pathway",
+    "publisher": "Medical Board of Australia",
+    "authority": "AHPRA",
+    "url": "https://www.medicalboard.gov.au/Registration/International-Medical-Graduates/Expedited-specialist-pathway.aspx",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Accepted qualifications list; 6 months supervised practice, cultural safety education, orientation, WBAs"
+  },
+  "ahpra-expedited-2026": {
+    "id": "ahpra-expedited-2026",
+    "title": "Expedited Specialist pathway now open to two new specialties",
+    "publisher": "AHPRA",
+    "authority": "AHPRA",
+    "url": "https://www.ahpra.gov.au/News/2026-01-29-Expedited-Specialist-pathway-now-open-to-two-new-specialties.aspx",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "General medicine and general paediatrics added 19 Jan 2026; diagnostic radiology under assessment"
+  },
+  "ahpra-fasttrack-2024": {
+    "id": "ahpra-fasttrack-2024",
+    "title": "Fast track registration pathway expanded",
+    "publisher": "AHPRA",
+    "authority": "AHPRA",
+    "url": "https://www.ahpra.gov.au/News/2024-12-20-media-release-Fast-track.aspx",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Psychiatry and anaesthesia added late 2024"
+  },
+  "mba-english": {
+    "id": "mba-english",
+    "title": "English language skills registration standard",
+    "publisher": "Medical Board of Australia",
+    "authority": "AHPRA",
+    "url": "https://www.ahpra.gov.au/Registration/Registration-Standards/English-language-skills/English-language-skills-registration-standard.aspx",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Accepted tests: IELTS Academic, OET, TOEFL iBT, PTE Academic, Cambridge; four pathways; results valid 2 years (standard moved to ahpra.gov.au)"
+  },
+  "mba-english-news-2025": {
+    "id": "mba-english-news-2025",
+    "title": "Updated English language skills registration standard — in-effect date announced",
+    "publisher": "Medical Board of Australia",
+    "authority": "AHPRA",
+    "url": "https://www.ahpra.gov.au/News/2025-03-11-ELS-in-effect-date-announced.aspx",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06"
+  },
+  "mba-registration-types": {
+    "id": "mba-registration-types",
+    "title": "Types of registration",
+    "publisher": "Medical Board of Australia",
+    "authority": "AHPRA",
+    "url": "https://www.medicalboard.gov.au/Registration/Types.aspx",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "General, specialist, provisional, limited, non-practising"
+  },
+  "servicesaustralia-19ab": {
+    "id": "servicesaustralia-19ab",
+    "title": "Restrictions and exemptions for international medical graduates",
+    "publisher": "Services Australia",
+    "authority": "SERVICES_AUSTRALIA",
+    "url": "https://www.servicesaustralia.gov.au/restrictions-and-exemptions-for-international-medical-graduates?context=20",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Section 19AB Health Insurance Act 1973; DPA (GPs) / DWS (non-GP specialists)"
+  },
+  "health-dpa": {
+    "id": "health-dpa",
+    "title": "Distribution Priority Area (DPA)",
+    "publisher": "Department of Health, Disability and Ageing",
+    "authority": "HEALTH_DEPT",
+    "url": "https://www.health.gov.au/topics/rural-health-workforce/classifications/dpa?language=en",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06"
+  },
+  "health-mmm": {
+    "id": "health-mmm",
+    "title": "Modified Monash Model (MMM)",
+    "publisher": "Department of Health, Disability and Ageing",
+    "authority": "HEALTH_DEPT",
+    "url": "https://www.health.gov.au/topics/rural-health-workforce/classifications/mmm",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "MM1 (major city) to MM7 (very remote); MMM 2023 in effect from 13 Apr 2025"
+  },
+  "health-workforce-locator": {
+    "id": "health-workforce-locator",
+    "title": "Health Workforce Locator",
+    "publisher": "Department of Health, Disability and Ageing",
+    "authority": "HEALTH_DEPT",
+    "url": "https://www.health.gov.au/resources/apps-and-tools/health-workforce-locator",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Look up the MMM and DPA classification of a location"
+  },
+  "homeaffairs-482": {
+    "id": "homeaffairs-482",
+    "title": "Skills in Demand visa (subclass 482)",
+    "publisher": "Department of Home Affairs",
+    "authority": "HOME_AFFAIRS",
+    "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skills-in-demand-visa-subclass-482",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Employer-sponsored temporary work visa (replaced the TSS visa); Core Skills / Specialist Skills / Labour Agreement streams"
+  },
+  "mara": {
+    "id": "mara",
+    "title": "Office of the Migration Agents Registration Authority (MARA)",
+    "publisher": "Department of Home Affairs",
+    "authority": "HOME_AFFAIRS",
+    "url": "https://www.mara.gov.au/",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Find a registered migration agent for personalised migration advice"
+  }
+}
