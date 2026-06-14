@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import type { Answers, Confidence, Outcome } from "@/lib/finder/types";
+import { LEADS_ENABLED } from "@/lib/site";
 import LeadForm from "./LeadForm";
 
 const CONFIDENCE: Record<Confidence, { label: string; cls: string }> = {
@@ -98,7 +99,7 @@ export default function ResultCard({
         </p>
       </div>
 
-      <LeadForm answers={answers} outcome={outcome} />
+      {LEADS_ENABLED ? <LeadForm answers={answers} outcome={outcome} /> : null}
     </div>
   );
 }

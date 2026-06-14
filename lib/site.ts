@@ -18,6 +18,15 @@ export const ATTRIBUTION = {
   href: "https://statdoctor.app",
 };
 
+// Base path for sub-path hosting (e.g. GitHub Pages project site at /img-pathways).
+// Empty for root hosting (Vercel + custom domain). Used to prefix internal links
+// that aren't rendered through next/link (raw markdown anchors).
+export const BASE_PATH = process.env.NEXT_PUBLIC_BASE_PATH?.replace(/\/$/, "") || "";
+
+// Lead capture needs a server (the /api/lead → Notion route). On static hosting
+// (GitHub Pages) there's no server, so the form is hidden. Defaults to enabled.
+export const LEADS_ENABLED = process.env.NEXT_PUBLIC_LEADS_ENABLED !== "false";
+
 // How stale a source can be before the UI flags it amber ("due for re-check").
 export const STALE_AFTER_DAYS = 180;
 

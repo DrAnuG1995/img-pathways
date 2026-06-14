@@ -5,6 +5,8 @@ import ContentPage from "@/components/content/ContentPage";
 
 type Params = { params: { slug: string } };
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   return getAllSlugs("college").map((slug) => ({ slug }));
 }

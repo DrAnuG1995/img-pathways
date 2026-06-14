@@ -3,6 +3,7 @@ import remarkGfm from "remark-gfm";
 import type { ContentDoc } from "@/lib/content/types";
 import { remarkCitations } from "@/lib/content/remark-citations";
 import { slugify } from "@/lib/content/slug";
+import { BASE_PATH } from "@/lib/site";
 import Citation from "./Citation";
 
 /** Allow our internal cite: scheme plus normal safe URLs; strip anything else. */
@@ -25,8 +26,12 @@ export default function ContentRenderer({ doc }: { doc: ContentDoc }) {
         return <Citation index={claimNumber.get(id) ?? 0} claimId={id} />;
       }
       const external = typeof href === "string" && /^https?:/i.test(href);
+      // Internal absolute links (e.g. "/english") aren't rendered through
+      // next/link, so prefix BASE_PATH manually for sub-path hosting.
+      const resolved =
+        typeof href === "string" && href.startsWith("/") ? `${BASE_PATH}${href}` : href;
       return (
-        <a href={href} {...(external ? { target: "_blank", rel: "noopener noreferrer" } : {})} {...props}>
+        <a href={resolved} {...(external ? { target: "_blank", rel: "noopener noreferrer" } : {})} {...props}>
           {children}
         </a>
       );
