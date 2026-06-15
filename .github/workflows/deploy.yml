@@ -39,7 +39,7 @@ jobs:
           PAGES_BASE_PATH: /img-pathways
           NEXT_PUBLIC_BASE_PATH: /img-pathways
           NEXT_PUBLIC_SITE_URL: https://dranug1995.github.io/img-pathways
-          NEXT_PUBLIC_LEADS_ENABLED: "false"
+          NEXT_PUBLIC_LEAD_ENDPOINT: https://formspree.io/f/xwvjyook
         run: npm run build
       - name: Disable Jekyll (serve _next assets)
         run: touch out/.nojekyll
