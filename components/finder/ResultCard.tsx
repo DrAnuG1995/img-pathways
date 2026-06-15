@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import type { Answers, Confidence, Outcome } from "@/lib/finder/types";
-import { LEADS_ENABLED } from "@/lib/site";
+import { LEADS_ENABLED, BASE_PATH } from "@/lib/site";
 import { PathwayIcon } from "@/components/brand/Icons";
 import LeadForm from "./LeadForm";
 
@@ -88,6 +88,14 @@ export default function ResultCard({
           >
             Read the full pathway →
           </Link>
+          <a
+            href={`${BASE_PATH}/guides/${outcome.pathway}.pdf`}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center rounded-lg border border-primary px-4 py-2.5 text-sm font-medium text-primary hover:bg-primary-soft"
+          >
+            Download guide (PDF)
+          </a>
           {outcome.links
             .filter((l) => l.href !== outcome.pathwayHref)
             .slice(0, 3)

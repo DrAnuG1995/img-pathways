@@ -3,7 +3,7 @@
 import { useState } from "react";
 import Link from "next/link";
 import type { Answers, Outcome } from "@/lib/finder/types";
-import { LEAD_ENDPOINT } from "@/lib/site";
+import { LEAD_ENDPOINT, BASE_PATH } from "@/lib/site";
 
 type Status = "idle" | "submitting" | "done" | "error";
 
@@ -77,9 +77,17 @@ export default function LeadForm({
       <div className="rounded-2xl border border-teal/40 bg-teal-soft p-6">
         <p className="font-display text-lg font-semibold text-ink">Thanks, we've got your details.</p>
         <p className="mt-1 text-sm text-muted">
-          We'll be in touch about the {outcome.pathway.replace(/-/g, " ")} pathway. Your full,
-          source-checked pathway page is below, ready to read right now.
+          We'll be in touch about the {outcome.pathway.replace(/-/g, " ")} pathway. Your guide is
+          ready now, and your full source-checked pathway page is below.
         </p>
+        <a
+          href={`${BASE_PATH}/guides/${outcome.pathway}.pdf`}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="mt-4 inline-flex items-center rounded-lg bg-primary px-5 py-2.5 text-sm font-semibold text-white hover:bg-primary-deep"
+        >
+          Download your guide (PDF)
+        </a>
       </div>
     );
   }
