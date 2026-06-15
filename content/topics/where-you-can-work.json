@@ -14,6 +14,13 @@
     "Health Workforce Locator"
   ],
   "summaryMarkdown": "If you're an IMG subject to the 10-year moratorium, *where* you work is often as important as the job itself, because location decides whether you can access Medicare. Australia maps every address to a remoteness category using the Modified Monash Model, from MM1 (major city) to MM7 (very remote). [[cite:mmm-scale]] That category, with the Distribution Priority Area (DPA) and District of Workforce Shortage (DWS) classifications, determines where a moratorium-restricted GP or specialist can bill Medicare. [[cite:dpa-imgs-medicare]] Rural and remote roles tend to come with more support and faster moratorium reduction through scaling. [[cite:scaling-more-remote]] The practical first step for any job is to check its classification on the Health Workforce Locator. [[cite:locator-purpose]]",
+  "flow": [
+    { "label": "Most IMGs face location rules", "note": "Through the section 19AB moratorium and Area of Need." },
+    { "label": "Check the location's MMM classification", "note": "Modified Monash Model, MM1 (city) to MM7 (very remote)." },
+    { "label": "Check DPA or DWS status", "note": "This decides where you can bill Medicare." },
+    { "label": "Area of Need positions", "note": "Approved roles in shortage areas widen your options." },
+    { "label": "More remote, fewer restrictions", "note": "Rural and remote roles reduce the moratorium faster." }
+  ],
   "sections": [
     {
       "heading": "The Modified Monash Model: MM1 to MM7",

@@ -15,6 +15,11 @@
     "IMG registration Australia"
   ],
   "summaryMarkdown": "Under the Health Practitioner Regulation National Law, the Medical Board of Australia grants several categories of registration, each permitting a different scope of practice. [[cite:national-law-categories]] An international medical graduate usually moves through one or more of these, for example, supervised practice on provisional or limited registration before becoming eligible for general or specialist registration. This page explains, in plain English, what each type permits and which IMGs typically hold it. Registration with the Board is separate from the visa you need to live and work in Australia, which is granted by the Department of Home Affairs. [[cite:visa-separate]]",
+  "flow": [
+    { "label": "Provisional or limited registration", "note": "To work while you complete supervised practice, or for a specific role." },
+    { "label": "General registration", "note": "Once all requirements are met, practise across Australia." },
+    { "label": "Specialist registration", "note": "If a college recognises your specialty. Otherwise general registration is your endpoint." }
+  ],
   "sections": [
     {
       "heading": "General registration",
