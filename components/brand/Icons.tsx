@@ -94,6 +94,77 @@ export function IconSparkle(p: IconProps) {
   );
 }
 
+/** English requirements (speech bubble). */
+export function IconLanguage(p: IconProps) {
+  return (
+    <Svg {...p}>
+      <path d="M4 4h13a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H9l-4 4v-4H4a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1z" />
+      <path d="M7 8h7M7 11h4" />
+    </Svg>
+  );
+}
+
+/** Registration types (ID card). */
+export function IconIdCard(p: IconProps) {
+  return (
+    <Svg {...p}>
+      <rect x="3" y="6" width="18" height="12" rx="2" />
+      <circle cx="8" cy="11" r="2" />
+      <path d="M13 10h5M13 13.5h5M5.5 15.5c.6-1.4 4.4-1.4 5 0" />
+    </Svg>
+  );
+}
+
+/** Visas and immigration (send / paper plane). */
+export function IconPlane(p: IconProps) {
+  return (
+    <Svg {...p}>
+      <path d="M21 3 10 14" />
+      <path d="M21 3 14 21l-4-7-7-4z" />
+    </Svg>
+  );
+}
+
+/** Medicare (card with stripe). */
+export function IconCard(p: IconProps) {
+  return (
+    <Svg {...p}>
+      <rect x="3" y="5" width="18" height="14" rx="2" />
+      <path d="M3 9.5h18M6.5 14.5h4" />
+    </Svg>
+  );
+}
+
+/** Where you can work (map pin). */
+export function IconMapPin(p: IconProps) {
+  return (
+    <Svg {...p}>
+      <path d="M12 21s7-5.5 7-11a7 7 0 1 0-14 0c0 5.5 7 11 7 11z" />
+      <circle cx="12" cy="10" r="2.5" />
+    </Svg>
+  );
+}
+
+/** Costs and timelines (dollar). */
+export function IconDollar(p: IconProps) {
+  return (
+    <Svg {...p}>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M12 7v10M14.6 9.3c-.6-.9-1.6-1.3-2.6-1.3-1.5 0-2.8.8-2.8 2.1 0 1.2 1.1 1.8 2.8 2 1.7.2 2.8.8 2.8 2.1 0 1.3-1.3 2.1-2.8 2.1-1.1 0-2.1-.4-2.7-1.3" />
+    </Svg>
+  );
+}
+
+/** First job, RMO recruitment (briefcase). */
+export function IconBriefcase(p: IconProps) {
+  return (
+    <Svg {...p}>
+      <rect x="3" y="7" width="18" height="12" rx="2" />
+      <path d="M8 7V5.5A1.5 1.5 0 0 1 9.5 4h5A1.5 1.5 0 0 1 16 5.5V7M3 12h18" />
+    </Svg>
+  );
+}
+
 const PATHWAY_ICONS: Record<string, (p: IconProps) => JSX.Element> = {
   standard: IconExam,
   "competent-authority": IconGlobe,

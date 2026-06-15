@@ -14,6 +14,7 @@ const PRIMARY: NavLink[] = [
 ];
 
 const REQUIREMENTS: NavLink[] = [
+  { href: "/requirements", label: "All requirements" },
   { href: "/english", label: "English requirements" },
   { href: "/registration", label: "Registration types" },
   { href: "/visas", label: "Visas & immigration" },

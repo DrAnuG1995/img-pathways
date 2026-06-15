@@ -8,6 +8,7 @@ const STATIC_ROUTES = [
   "/finder",
   "/pathways",
   "/colleges",
+  "/requirements",
   "/checklists",
   "/english",
   "/registration",

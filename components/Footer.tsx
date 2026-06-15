@@ -16,6 +16,7 @@ const COLUMNS: { title: string; links: { href: string; label: string }[] }[] = [
   {
     title: "Requirements",
     links: [
+      { href: "/requirements", label: "All requirements" },
       { href: "/english", label: "English requirements" },
       { href: "/registration", label: "Registration types" },
       { href: "/visas", label: "Visas & immigration" },
