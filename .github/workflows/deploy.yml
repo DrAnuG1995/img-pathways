@@ -24,6 +24,8 @@ jobs:
           node-version: 20
           cache: npm
       - run: npm ci
+      - name: Run tests (house style, finder engine, content integrity)
+        run: npm test
       # Route handlers (the /api/lead → Notion endpoint) need a server and
       # aren't supported by static export. Remove them from the Pages build only;
       # the source keeps them for the Vercel deploy.
