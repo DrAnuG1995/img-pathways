@@ -27,27 +27,34 @@ export const metadata: Metadata = {
 };
 
 const PATHWAYS = [
-  { slug: "standard", name: "Standard", blurb: "AMC exams (CAT MCQ + clinical/WBA)" },
-  { slug: "competent-authority", name: "Competent Authority", blurb: "UK · Ireland · USA · Canada · NZ" },
-  { slug: "specialist", name: "Specialist", blurb: "College comparability assessment" },
-  { slug: "expedited-specialist", name: "Expedited Specialist", blurb: "Fast-track, accepted specialties" },
+  { slug: "standard", name: "Standard", blurb: "AMC CAT MCQ exam, then a clinical exam or workplace-based assessment." },
+  { slug: "competent-authority", name: "Competent Authority", blurb: "Trained in the UK, Ireland, USA, Canada or NZ. Usually no AMC exams." },
+  { slug: "specialist", name: "Specialist", blurb: "Overseas specialists, assessed by the relevant Australian college." },
+  { slug: "expedited-specialist", name: "Expedited Specialist", blurb: "A faster route for accepted specialist qualifications." },
+];
+
+const STATS = [
+  "4 registration pathways",
+  "15 specialist colleges",
+  "Every fact cited to its source",
+  "Free, no sign-up",
 ];
 
 const FEATURES = [
   {
     Icon: IconShieldCheck,
     title: "Cited to the source",
-    body: "Every key fact links to AHPRA, the AMC or the relevant government page, no vague claims.",
+    body: "Every key fact links to its official source: AHPRA, the AMC or the relevant government page.",
   },
   {
     Icon: IconCalendarCheck,
     title: "Dated, not stale",
-    body: "Each fact shows when we last verified it. Out-of-date items get flagged, not hidden.",
+    body: "Each fact shows when we last verified it. Anything out of date is flagged, not hidden.",
   },
   {
     Icon: IconSparkle,
-    title: "Independent & free",
-    body: "Read everything without signing up. Supported by StatDoctor, written to be useful first.",
+    title: "Independent and free",
+    body: "Read everything without signing up. Supported by StatDoctor, and written to be useful first.",
   },
 ];
 
@@ -66,10 +73,18 @@ export default function Home() {
               Find your pathway to practising medicine in Australia
             </h1>
             <p className="mx-auto mt-4 max-w-xl text-lg text-muted">
-              Answer a few questions. We'll point you to the registration pathway that fits and the
-              exact next steps, every fact checked against the official AHPRA, AMC and government
-              sources.
+              Answer a few questions and we'll point you to the registration pathway that fits, with
+              the exact next steps. Every fact is checked against the official AHPRA, AMC and
+              government sources.
             </p>
+            <ul className="mx-auto mt-6 flex max-w-2xl flex-wrap items-center justify-center gap-x-4 gap-y-2 text-sm text-ink/75">
+              {STATS.map((s) => (
+                <li key={s} className="flex items-center gap-2">
+                  <span aria-hidden className="h-1.5 w-1.5 rounded-full bg-teal" />
+                  {s}
+                </li>
+              ))}
+            </ul>
           </div>
 
           <div className="mt-10 rounded-3xl border border-line bg-white p-5 shadow-sm sm:p-8">
