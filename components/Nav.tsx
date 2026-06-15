@@ -19,6 +19,7 @@ const REQUIREMENTS: NavLink[] = [
   { href: "/visas", label: "Visas & immigration" },
   { href: "/medicare", label: "Medicare & the moratorium" },
   { href: "/where-you-can-work", label: "Where you can work" },
+  { href: "/rmo-recruitment", label: "First job (RMO campaigns)" },
   { href: "/costs-and-timelines", label: "Costs & timelines" },
 ];
 

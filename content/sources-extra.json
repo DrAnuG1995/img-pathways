@@ -365,5 +365,85 @@
     "lastVerified": "2026-06-15",
     "verifiedBy": "research-2026-06",
     "accessNote": "Verification of primary medical qualifications via ECFMG EPIC / MyIntealth"
+  },
+  "qld-rmo-campaign": {
+    "id": "qld-rmo-campaign",
+    "title": "Resident Medical Officer (RMO) and Registrar campaign",
+    "publisher": "Queensland Health",
+    "authority": "HEALTH_DEPT",
+    "url": "https://www.careers.health.qld.gov.au/medical-careers/resident-medical-officer-rmo-and-registrar-campaign",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Annual statewide RMO and Registrar campaign; 2027 applications close Monday 29 June 2026; preference up to 5 facilities"
+  },
+  "wa-rmo-campaign": {
+    "id": "wa-rmo-campaign",
+    "title": "Resident Medical Officers, MedCareersWA",
+    "publisher": "WA Health",
+    "authority": "HEALTH_DEPT",
+    "url": "https://medcareerswa.health.wa.gov.au/resident-medical-officers",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Centralised RMO and Service Medical Registrar recruitment for January 2027 commencement"
+  },
+  "sa-rmo-campaign": {
+    "id": "sa-rmo-campaign",
+    "title": "Postgraduate Year 2 and Beyond recruitment",
+    "publisher": "SA MET (SA Health)",
+    "authority": "HEALTH_DEPT",
+    "url": "https://samet.org.au/postgraduate-year-2-and-beyond-recruitment/",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Centralised PGY2 and beyond (RMO) recruitment; 2027 clinical year commences 11 January 2027"
+  },
+  "nt-rmo-campaign": {
+    "id": "nt-rmo-campaign",
+    "title": "Resident (RMO) positions, NT Health",
+    "publisher": "NT Health",
+    "authority": "HEALTH_DEPT",
+    "url": "https://health.nt.gov.au/careers/medical-officers/top-end-medical-officer-jobs/residents",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Separate Top End and Central Australia RMO campaigns; 2027 intake runs 1 to 28 June 2026"
+  },
+  "tas-rmo-campaign": {
+    "id": "tas-rmo-campaign",
+    "title": "2027 Statewide Resident Medical Officer applications",
+    "publisher": "Tasmanian Department of Health",
+    "authority": "HEALTH_DEPT",
+    "url": "https://www.health.tas.gov.au/careers/career-options/medical-careers/2027-statewide-resident-medical-officer-applications",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Statewide RMO applications for the 2027 clinical year"
+  },
+  "nsw-jmo-campaign": {
+    "id": "nsw-jmo-campaign",
+    "title": "NSW Health Junior Medical Officer recruitment, how to apply",
+    "publisher": "NSW Health",
+    "authority": "HEALTH_DEPT",
+    "url": "https://www.health.nsw.gov.au/jmo/Pages/job-seekers.aspx",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Statewide JMO eRecruit system; early and main recruitment rounds; see the JMO dates page for the 2027 schedule"
+  },
+  "act-jmo-campaign": {
+    "id": "act-jmo-campaign",
+    "title": "Junior Medical Officer careers, Canberra Health Services",
+    "publisher": "Canberra Health Services (ACT)",
+    "authority": "HEALTH_DEPT",
+    "url": "https://www.canberrahealthservices.act.gov.au/careers/junior-medical-officer-careers",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "ACT JMO and RMO recruitment, advertised by stream"
+  },
+  "vic-pmcv": {
+    "id": "vic-pmcv",
+    "title": "Postgraduate Medical Council of Victoria (PMCV), the Match",
+    "publisher": "Postgraduate Medical Council of Victoria",
+    "authority": "HEALTH_DEPT",
+    "url": "https://www.pmcv.com.au",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Victorian hospitals recruit RMOs individually; PMCV administers the computer-match allocation for many programs"
   }
 }

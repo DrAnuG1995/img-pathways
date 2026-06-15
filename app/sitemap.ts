@@ -14,6 +14,7 @@ const STATIC_ROUTES = [
   "/visas",
   "/medicare",
   "/where-you-can-work",
+  "/rmo-recruitment",
   "/costs-and-timelines",
   "/glossary",
   "/faq",

@@ -1,0 +1,41 @@
+{
+  "slug": "rmo-recruitment",
+  "collection": "topic",
+  "title": "Your first hospital job: state and territory RMO recruitment",
+  "eyebrow": "Standard pathway",
+  "metaTitle": "RMO recruitment 2027: apply direct, by state",
+  "metaDescription": "On the Standard Pathway, hospitals recruit your first RMO/JHO/SHO job directly through annual state and territory campaigns. Current 2027 campaign status and official links.",
+  "keywords": ["RMO recruitment Australia", "2027 RMO campaign", "junior doctor jobs Australia IMG", "JMO recruitment NSW", "resident medical officer campaign", "first hospital job IMG Standard Pathway"],
+  "summaryMarkdown": "On the [Standard Pathway](/pathways/standard), a common misconception is that a recruitment agency can secure your first resident medical officer (RMO, also called JHO or SHO) job in Australia. In reality, most hospitals recruit these roles directly through their annual campaigns and recruitment processes. [[cite:direct-recruitment]] If you are an AMC CAT MCQ candidate, the best move is to apply directly to the relevant state and territory campaigns.",
+  "sections": [
+    {
+      "heading": "Apply directly to the state and territory campaigns",
+      "bodyMarkdown": "Most public hospitals fill RMO, junior house officer and senior house officer positions through their own annual recruitment campaigns, not through agencies. [[cite:direct-recruitment]] For AMC MCQ candidates, focus on applying directly to the relevant state and territory campaigns. Each state and territory runs its own process, with its own application portal and closing dates.\n\nOnce you have established Australian clinical experience, a recruiter can often add value in helping you navigate future career opportunities. For doctors who have completed the AMC clinical examination, or who are progressing through the [Competent Authority Pathway](/pathways/competent-authority), agency support is available earlier."
+    },
+    {
+      "heading": "2027 RMO campaign status (as at 15 June 2026)",
+      "bodyMarkdown": "These are the live campaigns for the 2027 clinical year as at 15 June 2026. Several close within days, and dates change every year, so always confirm on the official campaign page before you apply.\n\n| State or territory | Status | Applications close | Official campaign |\n| --- | --- | --- | --- |\n| Queensland | Open now | 29 June 2026 | [Queensland Health RMO and Registrar campaign](https://www.careers.health.qld.gov.au/medical-careers/resident-medical-officer-rmo-and-registrar-campaign) |\n| Western Australia | Open now | 22 June 2026 | [MedCareersWA, Resident Medical Officers](https://medcareerswa.health.wa.gov.au/resident-medical-officers) |\n| South Australia | Open now | 1 July 2026 | [SA MET, PGY2 and Beyond recruitment](https://samet.org.au/postgraduate-year-2-and-beyond-recruitment/) |\n| Northern Territory | Open now | 28 June 2026 | [NT Health, Resident (RMO) positions](https://health.nt.gov.au/careers/medical-officers/top-end-medical-officer-jobs/residents) |\n| Tasmania | Open now | 22 June 2026 | [Tasmanian Health, statewide RMO applications](https://www.health.tas.gov.au/careers/career-options/medical-careers/2027-statewide-resident-medical-officer-applications) |\n| New South Wales | Opens 14 July 2026 | see official page | [NSW Health JMO recruitment](https://www.health.nsw.gov.au/jmo/Pages/job-seekers.aspx) |\n| ACT | Emergency Medicine open now (closes 28 June); other streams open 29 June | varies by stream | [Canberra Health Services JMO careers](https://www.canberrahealthservices.act.gov.au/careers/junior-medical-officer-careers) |\n| Victoria | Hospitals recruit individually | varies by hospital | [PMCV, the Match](https://www.pmcv.com.au) |\n\nConfirm every date on the official page. Campaigns, rounds and closing dates change each year, and some jurisdictions run more than one round."
+    }
+  ],
+  "claims": [
+    { "id": "direct-recruitment", "text": "Australian public hospitals recruit resident medical officers (RMOs, also called JHOs or SHOs) directly through annual state and territory campaigns and recruitment processes, rather than through agencies.", "sourceIds": ["qld-rmo-campaign", "nsw-jmo-campaign"] },
+    { "id": "qld-2027", "text": "Queensland Health's 2027 RMO and Registrar campaign is open, with applications closing on Monday 29 June 2026.", "sourceIds": ["qld-rmo-campaign"] },
+    { "id": "wa-2027", "text": "Western Australia runs a centralised RMO and Service Medical Registrar recruitment for January 2027 commencement, with applications advised to close 22 June 2026.", "sourceIds": ["wa-rmo-campaign"] },
+    { "id": "sa-2027", "text": "South Australia recruits Postgraduate Year 2 and beyond (RMO) doctors through a centralised SA MET process; the 2027 clinical year commences 11 January 2027 and applications are advised to close 1 July 2026.", "sourceIds": ["sa-rmo-campaign"] },
+    { "id": "nt-2027", "text": "The Northern Territory runs separate Top End and Central Australia RMO campaigns for the 2027 intake, running from 1 to 28 June 2026.", "sourceIds": ["nt-rmo-campaign"] },
+    { "id": "tas-2027", "text": "Tasmania accepts statewide RMO applications for the 2027 clinical year, advised to close 22 June 2026.", "sourceIds": ["tas-rmo-campaign"] },
+    { "id": "nsw-2027", "text": "New South Wales recruits Junior Medical Officers through a statewide eRecruit system in early and main rounds, with the 2027 main round advised to open 14 July 2026.", "sourceIds": ["nsw-jmo-campaign"] },
+    { "id": "act-2027", "text": "In the ACT, Canberra Health Services recruits Junior Medical Officers by stream, with Emergency Medicine open now (closing 28 June 2026) and other streams advised to open 29 June 2026.", "sourceIds": ["act-jmo-campaign"] },
+    { "id": "vic-individual", "text": "In Victoria, hospitals recruit RMOs individually, with the Postgraduate Medical Council of Victoria administering the computer-match allocation for many programs.", "sourceIds": ["vic-pmcv"] }
+  ],
+  "faq": [
+    { "question": "Do I need a recruitment agency to get my first RMO job in Australia?", "answerMarkdown": "Generally no. Public hospitals recruit RMO, JHO and SHO roles directly through annual state and territory campaigns, so AMC MCQ candidates should apply directly to the relevant campaigns. A recruiter can add more value later, once you have Australian clinical experience.", "sourceIds": ["qld-rmo-campaign", "nsw-jmo-campaign"] },
+    { "question": "When do the 2027 campaigns close?", "answerMarkdown": "As at 15 June 2026, several close within days: Western Australia and Tasmania around 22 June, the Northern Territory 28 June, Queensland 29 June, and South Australia 1 July. New South Wales opens its main round around 14 July. Always confirm the exact date on the official campaign page, as these change.", "sourceIds": ["qld-rmo-campaign", "wa-rmo-campaign", "sa-rmo-campaign", "nt-rmo-campaign", "tas-rmo-campaign", "nsw-jmo-campaign"] },
+    { "question": "How does Victoria work?", "answerMarkdown": "Victorian hospitals recruit RMOs individually rather than through a single statewide campaign, and the Postgraduate Medical Council of Victoria runs the computer-match allocation for many programs.", "sourceIds": ["vic-pmcv"] },
+    { "question": "When can a recruiter actually help?", "answerMarkdown": "Once you have established Australian clinical experience, recruiters can often help you navigate future career opportunities. For doctors who have completed the AMC clinical examination, or who are progressing through the Competent Authority Pathway, agency support is available earlier." }
+  ],
+  "relatedSlugs": [],
+  "disclaimerKind": "general",
+  "pageLastVerified": "2026-06-15",
+  "schemaType": "MedicalWebPage"
+}

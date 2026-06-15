@@ -21,6 +21,7 @@ const COLUMNS: { title: string; links: { href: string; label: string }[] }[] = [
       { href: "/visas", label: "Visas & immigration" },
       { href: "/medicare", label: "Medicare & moratorium" },
       { href: "/where-you-can-work", label: "Where you can work" },
+      { href: "/rmo-recruitment", label: "First job (RMO campaigns)" },
       { href: "/costs-and-timelines", label: "Costs & timelines" },
     ],
   },
