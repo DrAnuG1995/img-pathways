@@ -2,6 +2,7 @@
   "slug": "standard",
   "collection": "pathway",
   "order": 1,
+  "pathwayMeta": { "bestFor": "Doctors whose qualification is not from a recognised competent authority", "leadsTo": "General registration", "examsSummary": "AMC CAT MCQ, then the AMC clinical exam or a workplace-based assessment" },
   "eyebrow": "AMC Pathway",
   "title": "The Standard pathway",
   "metaTitle": "Standard pathway for IMGs in Australia: AMC exams, steps & timeline",

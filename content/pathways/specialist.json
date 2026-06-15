@@ -2,6 +2,7 @@
   "slug": "specialist",
   "collection": "pathway",
   "order": 3,
+  "pathwayMeta": { "bestFor": "Overseas-trained specialists seeking recognition by an Australian college", "leadsTo": "Specialist registration", "examsSummary": "College comparability assessment; exams or upskilling may apply" },
   "eyebrow": "AMC Pathway",
   "title": "The Specialist pathway",
   "metaTitle": "Specialist pathway for overseas-trained specialists (SIMGs) in Australia",

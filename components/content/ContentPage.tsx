@@ -81,6 +81,23 @@ export default function ContentPage({
             </div>
           </header>
 
+          {doc.pathwayMeta && (
+            <dl className="mt-5 grid divide-y divide-line overflow-hidden rounded-xl border border-line bg-white sm:grid-cols-3 sm:divide-x sm:divide-y-0">
+              <div className="p-4">
+                <dt className="text-[11px] font-semibold uppercase tracking-wide text-muted">Best for</dt>
+                <dd className="mt-1 text-sm text-ink">{doc.pathwayMeta.bestFor}</dd>
+              </div>
+              <div className="p-4">
+                <dt className="text-[11px] font-semibold uppercase tracking-wide text-muted">Leads to</dt>
+                <dd className="mt-1 text-sm text-ink">{doc.pathwayMeta.leadsTo}</dd>
+              </div>
+              <div className="p-4">
+                <dt className="text-[11px] font-semibold uppercase tracking-wide text-muted">What's involved</dt>
+                <dd className="mt-1 text-sm text-ink">{doc.pathwayMeta.examsSummary}</dd>
+              </div>
+            </dl>
+          )}
+
           {doc.collegeMeta && (
             <div className="mt-5 flex flex-wrap items-center gap-4 rounded-xl border border-line bg-white p-4">
               <span className="grid h-16 w-28 shrink-0 place-items-center overflow-hidden rounded-lg border border-line bg-white p-2">
@@ -148,6 +165,19 @@ export default function ContentPage({
               </ul>
             </section>
           ) : null}
+
+          {doc.collection === "pathway" && (
+            <section className="mt-12 rounded-2xl border border-line bg-primary-soft p-6 text-center">
+              <p className="font-display text-lg font-semibold text-ink">Not sure this is your pathway?</p>
+              <p className="mt-1 text-sm text-muted">The finder narrows it down in under a minute.</p>
+              <Link
+                href="/finder"
+                className="mt-4 inline-flex rounded-lg bg-primary px-5 py-2.5 text-sm font-semibold text-white hover:bg-primary-deep"
+              >
+                Find your pathway →
+              </Link>
+            </section>
+          )}
         </article>
 
         <aside className="hidden lg:block">

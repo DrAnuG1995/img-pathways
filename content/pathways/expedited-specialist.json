@@ -2,6 +2,7 @@
   "slug": "expedited-specialist",
   "collection": "pathway",
   "order": 4,
+  "pathwayMeta": { "bestFor": "Specialists whose qualification is on the Board's accepted list", "leadsTo": "Specialist registration", "examsSummary": "No comparability assessment, six months supervised practice" },
   "eyebrow": "AMC Pathway · Newest route",
   "title": "The Expedited Specialist pathway",
   "metaTitle": "Expedited Specialist pathway 2026: specialties, eligibility & steps",

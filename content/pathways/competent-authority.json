@@ -2,6 +2,7 @@
   "slug": "competent-authority",
   "collection": "pathway",
   "order": 2,
+  "pathwayMeta": { "bestFor": "Doctors trained and certified in the UK, Ireland, USA, Canada or New Zealand", "leadsTo": "General registration", "examsSummary": "Usually no AMC exams, with a period of supervised practice" },
   "eyebrow": "AMC Pathway",
   "title": "The Competent Authority pathway",
   "metaTitle": "Competent Authority pathway: skip the AMC exams (UK, Ireland, USA, Canada, NZ)",

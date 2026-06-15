@@ -26,12 +26,15 @@ export default function ResultCard({
   return (
     <div className="space-y-6">
       <div className="rounded-2xl border border-line bg-white p-6 sm:p-8">
-        <div className="flex flex-wrap items-center gap-3">
+        <div className="flex flex-wrap items-center justify-between gap-3">
           <span className={`rounded-full px-3 py-1 text-xs font-semibold ${conf.cls}`}>
             {conf.label}
           </span>
-          <button onClick={onReset} className="text-xs text-muted underline hover:text-primary">
-            Start over
+          <button
+            onClick={onReset}
+            className="rounded-md px-2.5 py-1.5 text-xs font-medium text-muted hover:bg-primary-soft hover:text-primary"
+          >
+            ↺ Start again
           </button>
         </div>
 
