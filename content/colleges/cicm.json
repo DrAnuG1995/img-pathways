@@ -1,0 +1,49 @@
+{
+  "slug": "cicm",
+  "order": 13,
+  "collection": "college",
+  "title": "College of Intensive Care Medicine of Australia and New Zealand (CICM)",
+  "eyebrow": "Specialist college",
+  "metaTitle": "CICM SIMG pathway, intensive care medicine",
+  "metaDescription": "How the College of Intensive Care Medicine (CICM) assesses overseas-trained intensive care specialists (SIMGs) for fellowship and specialist registration in Australia.",
+  "keywords": ["CICM", "FCICM", "intensive care medicine", "specialist international medical graduate", "SIMG assessment", "specialist pathway Australia"],
+  "collegeMeta": {
+    "abbr": "CICM",
+    "fullName": "College of Intensive Care Medicine of Australia and New Zealand",
+    "website": "https://cicm.org.au",
+    "specialties": ["Intensive care medicine"]
+  },
+  "summaryMarkdown": "The College of Intensive Care Medicine of Australia and New Zealand (CICM) is the body that trains and certifies intensive care specialists and confers the FCICM fellowship. Overseas-trained intensive care specialists seeking recognition in Australia apply to CICM as a specialist international medical graduate (SIMG), and CICM assesses how comparable their training and experience are to a CICM fellow. Intensive care medicine is not currently on the Medical Board of Australia expedited specialist pathway, so these applicants use the standard [specialist pathway](/pathways/specialist).",
+  "sections": [
+    {
+      "heading": "How CICM assesses SIMGs",
+      "bodyMarkdown": "A SIMG is a doctor who has completed specialist training and examinations in intensive care medicine in another country and wants specialist recognition in Australia or Aotearoa New Zealand. CICM begins with a paper-based preliminary review by its SIMG Committee, which may be followed by an interview, and the committee determines how comparable the applicant's qualifications, training and experience are to those of a newly graduated CICM fellow. In Australia the applicant applies directly to CICM, and CICM carries out the assessment on behalf of the Medical Board of Australia."
+    },
+    {
+      "heading": "Comparability outcomes and supervised practice",
+      "bodyMarkdown": "CICM assigns one of three comparability outcomes. An applicant assessed as substantially comparable can reach comparability within a 12-month full-time-equivalent period of supervised clinical practice, with possible completion of College assessments. An applicant assessed as partially comparable can reach comparability within a 24-month full-time-equivalent period of supervised practice with completion of College assessments, while not comparable means the applicant is not expected to reach comparability within 24 months full-time equivalent. Each applicant is then prescribed a specific set of requirements to complete before being awarded fellowship. Confirm current requirements with CICM."
+    },
+    {
+      "heading": "Standard specialist pathway, not expedited",
+      "bodyMarkdown": "The Medical Board of Australia expedited specialist pathway lets eligible SIMGs in selected specialties apply directly to Ahpra and the Board. As of the 29 January 2026 expansion, that pathway covered general practice, anaesthetics, obstetrics and gynaecology, psychiatry, general medicine and general paediatrics, and it did not include intensive care medicine. Intensive care SIMGs therefore use the standard specialist pathway for specialist recognition, in which the relevant college assesses comparability to an Australian-trained specialist."
+    }
+  ],
+  "claims": [
+    { "id": "c1", "text": "CICM is the College of Intensive Care Medicine of Australia and New Zealand and confers the FCICM fellowship in intensive care medicine.", "sourceIds": ["cicm-home"] },
+    { "id": "c2", "text": "A SIMG is a doctor who has completed specialist training and examinations in intensive care medicine in another country and seeks specialist recognition in Australia or Aotearoa New Zealand.", "sourceIds": ["cicm-simg"] },
+    { "id": "c3", "text": "CICM's assessment starts with a paper-based preliminary review by the SIMG Committee, may include an interview, and determines comparability to a newly graduated CICM fellow.", "sourceIds": ["cicm-simg"] },
+    { "id": "c4", "text": "In Australia an applicant applies directly to CICM, which assesses on behalf of the Medical Board of Australia.", "sourceIds": ["cicm-simg"] },
+    { "id": "c5", "text": "CICM assigns one of three comparability outcomes: substantially comparable (within 12 months full-time-equivalent supervised practice), partially comparable (within 24 months), or not comparable (not within 24 months), each leading to prescribed requirements before fellowship.", "sourceIds": ["cicm-simg"] },
+    { "id": "c6", "text": "As of the 29 January 2026 expansion the Medical Board of Australia expedited specialist pathway covered general practice, anaesthetics, obstetrics and gynaecology, psychiatry, general medicine and general paediatrics, and did not include intensive care medicine.", "sourceIds": ["ahpra-expedited-2026"] },
+    { "id": "c7", "text": "Intensive care SIMGs use the standard specialist pathway for specialist recognition, in which the relevant college assesses comparability to an Australian-trained specialist.", "sourceIds": ["mba-specialist-recognition"] }
+  ],
+  "faq": [
+    { "question": "Is intensive care medicine on the Medical Board of Australia expedited specialist pathway?", "answerMarkdown": "No. As of the 29 January 2026 expansion the expedited pathway covered general practice, anaesthetics, obstetrics and gynaecology, psychiatry, general medicine and general paediatrics, but not intensive care medicine. Intensive care SIMGs use the standard [specialist pathway](/pathways/specialist).", "sourceIds": ["ahpra-expedited-2026", "mba-specialist-recognition"] },
+    { "question": "How does CICM assess an overseas-trained intensive care specialist?", "answerMarkdown": "CICM's SIMG Committee starts with a paper-based preliminary review, which may be followed by an interview, and determines how comparable the applicant's qualifications, training and experience are to a newly graduated CICM fellow. The outcome is substantially comparable, partially comparable or not comparable, each carrying a prescribed set of requirements before fellowship.", "sourceIds": ["cicm-simg"] },
+    { "question": "What does a substantially comparable outcome mean for supervised practice?", "answerMarkdown": "A substantially comparable applicant is one who can reach comparability within a 12-month full-time-equivalent period of supervised clinical practice, with possible completion of College assessments. Confirm current requirements with CICM.", "sourceIds": ["cicm-simg"] }
+  ],
+  "relatedSlugs": [],
+  "disclaimerKind": "medical",
+  "pageLastVerified": "2026-06-15",
+  "schemaType": "MedicalWebPage"
+}

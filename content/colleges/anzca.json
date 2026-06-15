@@ -1,0 +1,47 @@
+{
+  "slug": "anzca",
+  "order": 5,
+  "collection": "college",
+  "title": "Australian and New Zealand College of Anaesthetists (ANZCA)",
+  "eyebrow": "Specialist college",
+  "metaTitle": "ANZCA: pathways for overseas anaesthetists",
+  "metaDescription": "How ANZCA assesses overseas-trained specialist anaesthetists for FANZCA, plus the Medical Board expedited specialist pathway and the Faculty of Pain Medicine.",
+  "keywords": ["ANZCA", "FANZCA", "specialist international medical graduate", "anaesthesia", "expedited specialist pathway", "Faculty of Pain Medicine"],
+  "collegeMeta": {
+    "abbr": "ANZCA",
+    "fullName": "Australian and New Zealand College of Anaesthetists",
+    "website": "https://www.anzca.edu.au",
+    "specialties": ["Anaesthesia", "Pain medicine"]
+  },
+  "summaryMarkdown": "The Australian and New Zealand College of Anaesthetists (ANZCA) trains, assesses and sets standards for specialist anaesthetists and specialist pain medicine physicians in Australia and New Zealand. [[cite:anzca-home]] Overseas-trained specialists are assessed through the college's specialist international medical graduate (SIMG) process, which checks whether their training and experience are comparable to a fellow of ANZCA (FANZCA) or the Faculty of Pain Medicine (FFPMANZCA). [[cite:anzca-simg]] Eligible anaesthetists may also use the Medical Board of Australia expedited specialist pathway, so it is worth reading both the [specialist pathway](/pathways/specialist) and [expedited specialist pathway](/pathways/expedited-specialist) overviews.",
+  "sections": [
+    {
+      "heading": "How ANZCA assesses overseas-trained specialists",
+      "bodyMarkdown": "ANZCA's SIMG process evaluates whether a specialist can practise unsupervised at a standard comparable to that of a FANZCA or FFPMANZCA fellow. [[cite:anzca-simg]] Applicants first have their primary and specialist qualifications verified, then ANZCA conducts a preliminary review that compares their training against college criteria and documents any gaps. [[cite:anzca-process]] Eligible applicants are interviewed and, if they progress, complete an individual program of requirements that can include a supervised clinical practice assessment period and a specialty examination or performance assessment before they become eligible to apply for fellowship. [[cite:anzca-process]] Timelines and fees vary by applicant, so confirm current requirements with ANZCA."
+    },
+    {
+      "heading": "Expedited specialist pathway for anaesthesia",
+      "bodyMarkdown": "Anaesthesia is one of the specialties on the Medical Board of Australia expedited specialist pathway, with approved overseas anaesthesia qualifications added from 23 December 2024. [[cite:anzca-expedited]] ANZCA notes that the Medical Board expedited pathway does not by itself lead to ANZCA fellowship (FANZCA), and recommends eligible specialists also pursue the college's parallel pathway to fellowship. [[cite:anzca-expedited]]"
+    },
+    {
+      "heading": "Pain medicine is a separate Faculty",
+      "bodyMarkdown": "Pain medicine sits within ANZCA but is governed by its own body, the Faculty of Pain Medicine (FPM), which trains and accredits specialist pain medicine physicians and awards the FFPMANZCA fellowship. [[cite:anzca-fpm]] Overseas-trained pain medicine specialists are assessed for comparability to a FFPMANZCA fellow rather than to a FANZCA fellow. [[cite:anzca-simg]] Pain medicine is a post-specialist qualification, so confirm current entry requirements with ANZCA and the Faculty of Pain Medicine."
+    }
+  ],
+  "claims": [
+    { "id": "anzca-home", "text": "ANZCA is responsible for training, assessing and setting standards for specialist anaesthetists and specialist pain medicine physicians who wish to practise in Australia and New Zealand.", "sourceIds": ["anzca-home"] },
+    { "id": "anzca-simg", "text": "ANZCA's SIMG process assesses whether an overseas-trained specialist can practise unsupervised at a standard comparable to a fellow of ANZCA (FANZCA) or a fellow of the Faculty of Pain Medicine (FFPMANZCA).", "sourceIds": ["anzca-simg"] },
+    { "id": "anzca-process", "text": "The SIMG assessment involves qualification verification, a preliminary comparability review documenting any gaps, an interview, and an individual program of requirements that can include a supervised clinical practice assessment period and a specialty examination or performance assessment before fellowship eligibility.", "sourceIds": ["anzca-process"] },
+    { "id": "anzca-expedited", "text": "Anaesthesia is included on the Medical Board of Australia expedited specialist pathway, with approved overseas anaesthesia qualifications added from 23 December 2024, and ANZCA notes the expedited pathway does not by itself lead to FANZCA.", "sourceIds": ["anzca-expedited", "mba-expedited-specialist"] },
+    { "id": "anzca-fpm", "text": "The Faculty of Pain Medicine is a faculty of ANZCA with its own board that trains and accredits specialist pain medicine physicians and awards the FFPMANZCA fellowship.", "sourceIds": ["anzca-fpm"] }
+  ],
+  "faq": [
+    { "question": "How does ANZCA assess overseas-trained specialist anaesthetists?", "answerMarkdown": "ANZCA uses its specialist international medical graduate process, which checks whether your training and experience are comparable to a FANZCA fellow. After qualification verification and a preliminary comparability review, eligible applicants are interviewed and complete an individual program that can include supervised clinical practice and a specialty examination or performance assessment.", "sourceIds": ["anzca-simg", "anzca-process"] },
+    { "question": "Is anaesthesia on the expedited specialist pathway?", "answerMarkdown": "Yes. Anaesthesia is on the Medical Board of Australia expedited specialist pathway, with approved overseas anaesthesia qualifications added from 23 December 2024. ANZCA notes that this pathway does not by itself lead to FANZCA, so it recommends also pursuing the college's parallel pathway to fellowship. Confirm current eligibility with ANZCA.", "sourceIds": ["anzca-expedited", "mba-expedited-specialist"] },
+    { "question": "Is pain medicine assessed the same way as anaesthesia?", "answerMarkdown": "No. Pain medicine is governed by the Faculty of Pain Medicine, a faculty of ANZCA that awards the FFPMANZCA fellowship. Overseas-trained pain medicine specialists are assessed for comparability to a FFPMANZCA fellow rather than a FANZCA fellow.", "sourceIds": ["anzca-fpm", "anzca-simg"] }
+  ],
+  "relatedSlugs": [],
+  "disclaimerKind": "medical",
+  "pageLastVerified": "2026-06-15",
+  "schemaType": "MedicalWebPage"
+}

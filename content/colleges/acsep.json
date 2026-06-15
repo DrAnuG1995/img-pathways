@@ -1,0 +1,49 @@
+{
+  "slug": "acsep",
+  "order": 15,
+  "collection": "college",
+  "title": "Australasian College of Sport and Exercise Physicians (ACSEP)",
+  "eyebrow": "Specialist college",
+  "metaTitle": "ACSEP SIMG pathway, sport and exercise medicine",
+  "metaDescription": "How ACSEP assesses overseas-trained sport and exercise physicians (SIMGs) for comparability, plus the standard specialist pathway to FACSEP in Australia.",
+  "keywords": ["ACSEP", "FACSEP", "sport and exercise medicine", "SIMG", "specialist international medical graduate", "specialist pathway"],
+  "collegeMeta": {
+    "abbr": "ACSEP",
+    "fullName": "Australasian College of Sport and Exercise Physicians",
+    "website": "https://www.acsep.org.au",
+    "specialties": ["Sport and exercise medicine"]
+  },
+  "summaryMarkdown": "The Australasian College of Sport and Exercise Physicians (ACSEP) is the only organisation in Australasia accredited to provide training in the specialty of sport and exercise medicine. [[cite:acsep-stp]] Overseas-trained sport and exercise physicians apply to ACSEP for an individualised comparability assessment as a specialist international medical graduate (SIMG) before they can work towards recognition as a specialist in Australia or New Zealand. [[cite:acsep-simg]] This is the standard [specialist pathway](/pathways/specialist), as sport and exercise medicine is not currently a specialty on the Medical Board's expedited specialist pathway. [[cite:acsep-simg]]",
+  "sections": [
+    {
+      "heading": "How ACSEP assesses SIMGs",
+      "bodyMarkdown": "Every overseas-trained applicant receives an individualised assessment of comparability to an Australian and New Zealand trained sport and exercise medicine physician, carried out by the ACSEP SIMG committee. [[cite:acsep-simg]] For Australia the assessment results in one of three outcomes: substantially comparable, partially comparable, or not comparable. Applicants deemed substantially comparable or partially comparable are eligible to commence on the SIMG pathway, while those deemed not comparable are not eligible to commence. [[cite:acsep-outcomes]] Australian applicants must first be assessed by the Australian Medical Council (AMC) and provide their AMC confirmation number or EIS number to ACSEP. [[cite:acsep-amc]]"
+    },
+    {
+      "heading": "From assessment to FACSEP",
+      "bodyMarkdown": "Applicants assessed as substantially or partially comparable complete the requirements recommended by ACSEP, after which SIMG pathway trainees may apply for ACSEP fellowship (FACSEP). [[cite:acsep-fellowship]] The ACSEP specialist training program is the only accredited training pathway to becoming a sport and exercise physician in Australasia, so SIMG requirements are set against the same college standards. [[cite:acsep-stp]] Applicants must also demonstrate the English language skills required for registration with the Australian Health Practitioner Regulation Agency (Ahpra). [[cite:acsep-english]] Fees and current timelines change, so confirm current requirements with ACSEP."
+    },
+    {
+      "heading": "How to start a SIMG application",
+      "bodyMarkdown": "Applicants who want to begin should contact ACSEP at simg@acsep.org.au and include a copy of their CV to request the SIMG application form. [[cite:acsep-apply]] Because sport and exercise medicine is not on the Medical Board's expedited specialist pathway, SIMGs use the standard [specialist pathway](/pathways/specialist), which combines AMC verification with the ACSEP comparability assessment. [[cite:acsep-simg]] Confirm current requirements with ACSEP before applying."
+    }
+  ],
+  "claims": [
+    { "id": "acsep-stp", "text": "ACSEP is the only organisation in Australasia accredited to provide training in the specialty of sport and exercise medicine.", "sourceIds": ["acsep-stp-page"] },
+    { "id": "acsep-simg", "text": "Overseas-trained sport and exercise physicians apply to ACSEP for an individualised comparability assessment as a specialist international medical graduate (SIMG), and sport and exercise medicine is not currently on the Medical Board's expedited specialist pathway, so SIMGs use the standard specialist pathway.", "sourceIds": ["acsep-simg-page"] },
+    { "id": "acsep-outcomes", "text": "For Australia the ACSEP comparability assessment results in one of three outcomes, substantially comparable, partially comparable, or not comparable, and only applicants deemed substantially or partially comparable are eligible to commence on the SIMG pathway.", "sourceIds": ["acsep-simg-page"] },
+    { "id": "acsep-amc", "text": "Australian applicants must first be assessed by the Australian Medical Council and provide their AMC confirmation number or EIS number in their application to ACSEP.", "sourceIds": ["acsep-simg-page"] },
+    { "id": "acsep-fellowship", "text": "Following completion of the requirements recommended by ACSEP, SIMG pathway trainees may apply for ACSEP fellowship (FACSEP).", "sourceIds": ["acsep-simg-page"] },
+    { "id": "acsep-english", "text": "SIMG applicants must demonstrate the English language skills required for registration with the Australian Health Practitioner Regulation Agency (Ahpra).", "sourceIds": ["acsep-simg-page"] },
+    { "id": "acsep-apply", "text": "Applicants wishing to apply should contact ACSEP at simg@acsep.org.au and include a copy of their CV to request the SIMG application form.", "sourceIds": ["acsep-simg-page"] }
+  ],
+  "faq": [
+    { "question": "How does ACSEP assess overseas-trained sport and exercise physicians?", "answerMarkdown": "ACSEP carries out an individualised assessment of how comparable the applicant is to an Australian and New Zealand trained sport and exercise medicine physician. For Australia the outcome is substantially comparable, partially comparable, or not comparable, and only the first two outcomes allow an applicant to commence on the SIMG pathway.", "sourceIds": ["acsep-simg-page"] },
+    { "question": "Is sport and exercise medicine on the expedited specialist pathway?", "answerMarkdown": "No. Sport and exercise medicine is not currently a specialty on the Medical Board's expedited specialist pathway, so overseas-trained sport and exercise physicians use the standard [specialist pathway](/pathways/specialist) with an ACSEP comparability assessment.", "sourceIds": ["acsep-simg-page"] },
+    { "question": "How do I start an ACSEP SIMG application?", "answerMarkdown": "Contact ACSEP at simg@acsep.org.au and include a copy of your CV to request the SIMG application form. Australian applicants must also be assessed by the AMC first. Confirm current requirements with ACSEP before you apply.", "sourceIds": ["acsep-simg-page"] }
+  ],
+  "relatedSlugs": [],
+  "disclaimerKind": "medical",
+  "pageLastVerified": "2026-06-15",
+  "schemaType": "MedicalWebPage"
+}

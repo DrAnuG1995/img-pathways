@@ -1,5 +1,6 @@
 {
   "slug": "racp",
+  "order": 3,
   "collection": "college",
   "title": "Royal Australasian College of Physicians (RACP)",
   "eyebrow": "Specialist college",

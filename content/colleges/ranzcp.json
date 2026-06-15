@@ -1,0 +1,51 @@
+{
+  "slug": "ranzcp",
+  "order": 7,
+  "collection": "college",
+  "title": "Royal Australian and New Zealand College of Psychiatrists (RANZCP)",
+  "eyebrow": "Specialist college",
+  "metaTitle": "RANZCP: SIMG and psychiatry pathways",
+  "metaDescription": "How RANZCP assesses overseas-trained psychiatrists for FRANZCP, comparability outcomes, the accelerated pathway, and the Medical Board expedited specialist pathway.",
+  "keywords": ["RANZCP", "FRANZCP", "psychiatry SIMG", "specialist assessment", "expedited specialist pathway", "overseas-trained psychiatrist"],
+  "collegeMeta": {
+    "abbr": "RANZCP",
+    "fullName": "Royal Australian and New Zealand College of Psychiatrists",
+    "website": "https://www.ranzcp.org",
+    "specialties": ["Psychiatry"]
+  },
+  "summaryMarkdown": "The Royal Australian and New Zealand College of Psychiatrists (RANZCP) assesses overseas-trained psychiatrists for Fellowship (FRANZCP) and recognition as a specialist in Australia. [[cite:ranzcp-intl-specialists]] Most international psychiatrists apply through the college's [specialist assessment](/pathways/specialist), which compares their training and experience against the Australian standard. [[cite:ranzcp-specialist-assessment]] Since late 2024, some psychiatrists with eligible qualifications can instead apply directly to the Medical Board through the [expedited specialist pathway](/pathways/expedited-specialist) rather than being individually assessed by the college. [[cite:mba-expedited-pathway]]",
+  "sections": [
+    {
+      "heading": "How RANZCP assesses overseas-trained psychiatrists",
+      "bodyMarkdown": "RANZCP's specialist assessment is the pathway for international specialists to gain Fellowship of the RANZCP. [[cite:ranzcp-intl-specialists]] Applicants need primary source verification of their qualifications through the Australian Medical Council, specialist registration as a psychiatrist in their home country, and evidence of English language proficiency. [[cite:ranzcp-specialist-assessment]] The college reviews each application against the Australian training standard and reaches one of three comparability outcomes: substantially comparable, partially comparable, or not comparable. [[cite:ranzcp-comparability-outcomes]] Applicants found substantially or partially comparable complete a supervised comparability placement before they are eligible for Fellowship, and comparability status is time limited. [[cite:ranzcp-comparability-placement]] You do not need a job offer to apply for assessment, but a confirmed offer is needed to start a placement. [[cite:ranzcp-no-job-offer]] Confirm current requirements with the RANZCP, as fees and timelines change."
+    },
+    {
+      "heading": "Accelerated pathway for some UK-trained psychiatrists",
+      "bodyMarkdown": "RANZCP runs an accelerated pathway for international psychiatrists who hold the MRCPsych (UK) together with a CCT or CCST. [[cite:ranzcp-accelerated-pathway]] Eligible applicants are not required to attend an interview, and the specialist assessment fee for new accelerated pathway applicants is waived, though an administrative fee still applies. [[cite:ranzcp-accelerated-pathway]] This is separate from, but related to, the Medical Board's expedited specialist pathway. [[cite:mba-expedited-pathway]]"
+    },
+    {
+      "heading": "Expedited specialist pathway and psychiatry",
+      "bodyMarkdown": "Psychiatry was added to the Medical Board of Australia's expedited specialist pathway accepted qualifications list in late 2024. [[cite:mba-expedited-psychiatry]] Under this pathway, specialists whose qualification is on the accepted list can apply directly to the Medical Board and Ahpra for specialist registration, rather than being assessed individually by a specialist college. [[cite:mba-expedited-pathway]] Specialists on the pathway must still meet the same registration standards as all other specialists, and each is supervised for six months by an Australian-registered specialist, completes an orientation to Australia's health system, and undertakes mandatory cultural safety education. [[cite:mba-expedited-supervision]]"
+    }
+  ],
+  "claims": [
+    { "id": "ranzcp-intl-specialists", "text": "RANZCP specialist assessment is the pathway for international specialists to gain Fellowship of the RANZCP in Australia and Aotearoa New Zealand.", "sourceIds": ["ranzcp-intl-specialists"] },
+    { "id": "ranzcp-specialist-assessment", "text": "Applicants for RANZCP specialist assessment need primary source verification of their qualifications through the Australian Medical Council, specialist registration as a psychiatrist in their home country, and evidence of English language proficiency.", "sourceIds": ["ranzcp-specialist-assessment"] },
+    { "id": "ranzcp-comparability-outcomes", "text": "RANZCP assesses applicants as substantially comparable, partially comparable, or not comparable against the Australian standard.", "sourceIds": ["ranzcp-specialist-assessment"] },
+    { "id": "ranzcp-comparability-placement", "text": "Applicants found substantially or partially comparable complete a supervised comparability placement before becoming eligible for Fellowship, and comparability status is time limited.", "sourceIds": ["ranzcp-specialist-assessment", "ranzcp-intl-specialists"] },
+    { "id": "ranzcp-no-job-offer", "text": "A job offer is not required to apply for RANZCP specialist assessment, but a confirmed offer is needed to start a placement.", "sourceIds": ["ranzcp-intl-specialists"] },
+    { "id": "ranzcp-accelerated-pathway", "text": "RANZCP offers an accelerated pathway for psychiatrists holding the MRCPsych (UK) with a CCT or CCST, which removes the interview requirement and waives the specialist assessment fee for new accelerated pathway applicants.", "sourceIds": ["ranzcp-accelerated-pathway"] },
+    { "id": "mba-expedited-pathway", "text": "Under the Medical Board of Australia expedited specialist pathway, specialists whose qualification is on the accepted qualifications list can apply directly to the Medical Board and Ahpra for specialist registration rather than being assessed individually by a specialist college.", "sourceIds": ["mba-expedited-specialist"] },
+    { "id": "mba-expedited-psychiatry", "text": "Psychiatry was added to the Medical Board of Australia expedited specialist pathway accepted qualifications list in late 2024.", "sourceIds": ["mba-expedited-specialist", "mba-expedited-accepted-list"] },
+    { "id": "mba-expedited-supervision", "text": "Each specialist on the expedited specialist pathway must meet the same registration standards as other specialists and is supervised for six months by an Australian-registered specialist, completes an orientation to Australia's health system, and undertakes mandatory cultural safety education.", "sourceIds": ["mba-expedited-specialist"] }
+  ],
+  "faq": [
+    { "question": "How does RANZCP assess overseas-trained psychiatrists?", "answerMarkdown": "RANZCP compares an applicant's training and experience against the Australian standard through its specialist assessment and reaches one of three outcomes: substantially comparable, partially comparable, or not comparable. Those found comparable complete a supervised comparability placement before they are eligible for FRANZCP.", "sourceIds": ["ranzcp-specialist-assessment", "ranzcp-intl-specialists"] },
+    { "question": "Is psychiatry on the expedited specialist pathway?", "answerMarkdown": "Yes. Psychiatry was added to the Medical Board of Australia's expedited specialist pathway accepted qualifications list in late 2024, allowing specialists with an accepted qualification to apply directly to the Medical Board and Ahpra rather than through the college.", "sourceIds": ["mba-expedited-specialist", "mba-expedited-accepted-list"] },
+    { "question": "What are the fees and timelines for RANZCP assessment?", "answerMarkdown": "Fees and timelines vary by pathway and change over time, and an accelerated pathway exists for some UK-trained psychiatrists. Confirm current requirements with the RANZCP before applying.", "sourceIds": ["ranzcp-accelerated-pathway", "ranzcp-specialist-assessment"] }
+  ],
+  "relatedSlugs": [],
+  "disclaimerKind": "medical",
+  "pageLastVerified": "2026-06-15",
+  "schemaType": "MedicalWebPage"
+}

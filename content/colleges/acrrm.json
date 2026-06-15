@@ -1,0 +1,44 @@
+{
+  "slug": "acrrm",
+  "order": 2,
+  "collection": "college",
+  "title": "Australian College of Rural and Remote Medicine (ACRRM)",
+  "eyebrow": "Specialist college",
+  "metaTitle": "ACRRM (FACRRM): SIMG and IMG pathways",
+  "metaDescription": "How the Australian College of Rural and Remote Medicine assesses overseas-trained GPs for FACRRM and specialist registration, plus the expedited specialist pathway.",
+  "keywords": ["ACRRM", "FACRRM", "rural generalist", "SIMG general practice", "expedited specialist pathway", "specialist pathway"],
+  "collegeMeta": {
+    "abbr": "ACRRM",
+    "fullName": "Australian College of Rural and Remote Medicine",
+    "website": "https://www.acrrm.org.au",
+    "specialties": ["General practice (rural generalist)"]
+  },
+  "summaryMarkdown": "The Australian College of Rural and Remote Medicine (ACRRM) is the AMC-accredited specialist college for rural generalist medicine within general practice, and its Fellowship is FACRRM. [[cite:acrrm-rg-college]] Overseas-trained GPs are assessed through the [specialist pathway](/pathways/specialist), where ACRRM judges whether their training and experience are comparable to an Australian Fellow. [[cite:specialist-pathway-comparability]] Because general practice is on the Medical Board's accepted qualifications list, many overseas GPs can instead use the faster [expedited specialist pathway](/pathways/expedited-specialist) without a college comparability assessment. [[cite:gp-on-expedited-list]]",
+  "sections": [
+    {
+      "heading": "How ACRRM assesses overseas-trained GPs",
+      "bodyMarkdown": "ACRRM's specialist pathway leads to specialist registration in general practice with the Medical Board of Australia and to Fellowship of ACRRM (FACRRM). [[cite:specialist-pathway-outcome]] The college runs a comparability assessment that judges an applicant's training and experience against the standards of an Australian Fellow, using the eight domains of the Rural Generalist Curriculum, and applicants are usually rated substantially comparable, partially comparable or not comparable. [[cite:specialist-pathway-comparability]] Applicants generally need a minimum of three years of clinical care provided away from ready access to specialist, diagnostic and allied health services since gaining their specialist qualification. [[cite:specialist-pathway-experience]] Confirm current requirements, fees and timelines with ACRRM before applying."
+    },
+    {
+      "heading": "The expedited specialist pathway for GPs",
+      "bodyMarkdown": "The Medical Board of Australia runs an expedited specialist pathway for international medical graduates whose specialist qualification appears on the Board's accepted qualifications list, and general practice is currently on that list. [[cite:gp-on-expedited-list]] The current specialties also include anaesthesia, obstetrics and gynaecology, general paediatrics, general medicine and psychiatry, with diagnostic radiology being considered next. [[cite:expedited-current-specialties]] This route lets eligible overseas GPs apply directly to the Board for specialist registration without a college comparability assessment, so it is worth checking eligibility before starting a college pathway. [[cite:gp-on-expedited-list]]"
+    }
+  ],
+  "claims": [
+    { "id": "acrrm-rg-college", "text": "ACRRM is the AMC-accredited specialist college for rural generalist medicine within general practice, and its Fellowship qualification is FACRRM.", "sourceIds": ["acrrm-rural-generalist"] },
+    { "id": "specialist-pathway-outcome", "text": "ACRRM's specialist pathway leads to specialist registration in general practice with the Medical Board of Australia and to Fellowship of ACRRM (FACRRM).", "sourceIds": ["acrrm-specialist-pathway"] },
+    { "id": "specialist-pathway-comparability", "text": "ACRRM assesses whether an overseas applicant's training and experience are comparable to an Australian Fellow against the eight domains of the Rural Generalist Curriculum, with outcomes of substantially comparable, partially comparable or not comparable.", "sourceIds": ["acrrm-specialist-pathway"] },
+    { "id": "specialist-pathway-experience", "text": "Applicants for ACRRM's specialist pathway generally need a minimum of three years of clinical care provided away from ready access to specialist, diagnostic and allied health services since gaining their specialist qualification.", "sourceIds": ["acrrm-specialist-pathway"] },
+    { "id": "gp-on-expedited-list", "text": "General practice is on the Medical Board of Australia's accepted qualifications list for the expedited specialist pathway, allowing eligible overseas GPs to apply directly to the Board for specialist registration without a college comparability assessment.", "sourceIds": ["mba-expedited-specialist"] },
+    { "id": "expedited-current-specialties", "text": "The current specialties on the Medical Board's expedited specialist pathway include anaesthesia, general practice, obstetrics and gynaecology, general paediatrics, general medicine and psychiatry, with diagnostic radiology being considered next.", "sourceIds": ["mba-expedited-specialist", "ahpra-expedited-2026"] }
+  ],
+  "faq": [
+    { "question": "What Fellowship does ACRRM award?", "answerMarkdown": "ACRRM awards Fellowship of the Australian College of Rural and Remote Medicine (FACRRM), the AMC-accredited qualification for rural generalist medicine within general practice.", "sourceIds": ["acrrm-rural-generalist"] },
+    { "question": "How does ACRRM assess overseas-trained GPs?", "answerMarkdown": "Through its specialist pathway, ACRRM runs a comparability assessment of an applicant's training and experience against the standards of an Australian Fellow, with outcomes of substantially comparable, partially comparable or not comparable. Confirm current requirements with ACRRM.", "sourceIds": ["acrrm-specialist-pathway"] },
+    { "question": "Is general practice on the expedited specialist pathway?", "answerMarkdown": "Yes. General practice is on the Medical Board of Australia's accepted qualifications list for the expedited specialist pathway, so eligible overseas GPs may apply directly to the Board for specialist registration.", "sourceIds": ["mba-expedited-specialist"] }
+  ],
+  "relatedSlugs": [],
+  "disclaimerKind": "medical",
+  "pageLastVerified": "2026-06-15",
+  "schemaType": "MedicalWebPage"
+}

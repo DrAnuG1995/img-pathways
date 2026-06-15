@@ -1,0 +1,49 @@
+{
+  "slug": "ranzcr",
+  "order": 9,
+  "collection": "college",
+  "title": "Royal Australian and New Zealand College of Radiologists (RANZCR)",
+  "eyebrow": "Specialist college",
+  "metaTitle": "RANZCR SIMG pathway, radiology and oncology",
+  "metaDescription": "How RANZCR assesses overseas trained clinical radiologists and radiation oncologists for specialist recognition in Australia, plus the FRANZCR comparability outcomes.",
+  "keywords": ["RANZCR", "FRANZCR", "clinical radiology specialist Australia", "radiation oncology SIMG", "specialist international medical graduate radiology", "RANZCR comparability assessment"],
+  "collegeMeta": {
+    "abbr": "RANZCR",
+    "fullName": "Royal Australian and New Zealand College of Radiologists",
+    "website": "https://www.ranzcr.com",
+    "specialties": ["Clinical radiology", "Radiation oncology"]
+  },
+  "summaryMarkdown": "The Royal Australian and New Zealand College of Radiologists (RANZCR) is accredited by the Australian Medical Council to assess international medical graduates in clinical radiology and radiation oncology on behalf of the Medical Board of Australia. If you trained as a radiologist or radiation oncologist overseas, your training, qualifications and experience are assessed for comparability to a RANZCR trained specialist as part of the [specialist pathway](/pathways/specialist). As of June 2026, diagnostic radiology was being assessed for the Medical Board's [expedited specialist pathway](/pathways/expedited-specialist) and was not yet open, while radiation oncology was not on the expedited list.",
+  "sections": [
+    {
+      "heading": "How RANZCR assesses overseas trained specialists",
+      "bodyMarkdown": "RANZCR is accredited by the Australian Medical Council to conduct assessments of international medical graduates on behalf of the Medical Board of Australia for clinical radiology and radiation oncology. To register and practise as a specialist, you apply for the specialist recognition assessment through the college, whose purpose is to determine the comparability of your training, qualifications and experience to a RANZCR trained specialist. To be eligible you must have completed specialty training in either clinical radiology or radiation oncology overseas and be recognised as a consultant specialist in your country of training. The assessment includes an interview conducted by two Fellows of the college who are trained assessors, which helps determine your level of comparability with an Australian or Aotearoa New Zealand trained specialist."
+    },
+    {
+      "heading": "Comparability outcomes and what follows",
+      "bodyMarkdown": "RANZCR determines one of three outcomes, substantially comparable, partially comparable, or not comparable. Applicants found substantially comparable will require up to 12 months' peer review in a RANZCR accredited training site. Applicants found partially comparable are required to undergo up to 24 months' upskilling before sitting RANZCR's Part or Phase 2 examinations. Applicants found not comparable are referred to the Medical Board of Australia for other options to achieve medical registration. Upskilling and peer review positions are competitive and the college is not involved with appointments, so you apply directly to hospitals or sites and must have the position and training plan approved by the college before you start. Please confirm current requirements, fees and timelines with the RANZCR before you apply."
+    },
+    {
+      "heading": "Expedited specialist pathway status",
+      "bodyMarkdown": "The Medical Board of Australia's expedited specialist pathway lets eligible specialist international medical graduates from comparable health systems apply directly for specialist registration without college comparability assessment, but only for specialties on the Board's accepted qualifications list. As of June 2026, the specialties on that list were anaesthesia, general practice, obstetrics and gynaecology, general paediatrics, general medicine and psychiatry, and diagnostic radiology was listed as a priority specialty being considered next, not yet open. Ahpra confirmed in January 2026 that diagnostic radiology qualifications were then being assessed. Radiation oncology was not on the current or next priority expedited lists, so radiation oncologists used the RANZCR specialist pathway. Confirm current requirements with the RANZCR and the Medical Board of Australia, as the lists are updated over time."
+    }
+  ],
+  "claims": [
+    { "id": "ranzcr-accreditation", "text": "RANZCR is accredited by the Australian Medical Council to conduct assessments of international medical graduates on behalf of the Medical Board of Australia for the specialties of clinical radiology and radiation oncology.", "sourceIds": ["ranzcr-recognition"] },
+    { "id": "ranzcr-purpose", "text": "The purpose of the specialist recognition assessment is to determine the comparability of an applicant's training, qualifications and experience to a RANZCR trained specialist.", "sourceIds": ["ranzcr-recognition"] },
+    { "id": "ranzcr-eligibility", "text": "To be eligible an applicant must have completed specialty training in clinical radiology or radiation oncology overseas and be recognised as a consultant specialist in their country of training.", "sourceIds": ["ranzcr-recognition"] },
+    { "id": "ranzcr-interview-claim", "text": "The assessment includes an interview conducted by two Fellows of the college who are trained assessors, which helps determine the applicant's level of comparability with an Australian or Aotearoa New Zealand trained specialist.", "sourceIds": ["ranzcr-recognition"] },
+    { "id": "ranzcr-outcomes-claim", "text": "RANZCR determines one of three outcomes: substantially comparable (up to 12 months' peer review in an accredited training site), partially comparable (up to 24 months' upskilling before sitting Part or Phase 2 examinations), or not comparable (referred to the Medical Board of Australia for other options).", "sourceIds": ["ranzcr-recognition"] },
+    { "id": "mba-expedited-claim", "text": "The Medical Board of Australia's expedited specialist pathway accepted qualifications list as of June 2026 covered anaesthesia, general practice, obstetrics and gynaecology, general paediatrics, general medicine and psychiatry, with diagnostic radiology named as a priority specialty being considered next and radiation oncology not on the current or next priority lists.", "sourceIds": ["mba-expedited-specialist"] },
+    { "id": "ahpra-radiology-assessing", "text": "As at January 2026, Ahpra stated that diagnostic radiology qualifications were currently being assessed for the expedited specialist pathway.", "sourceIds": ["ahpra-expedited-2026"] }
+  ],
+  "faq": [
+    { "question": "Who assesses overseas trained radiologists and radiation oncologists in Australia?", "answerMarkdown": "RANZCR is accredited by the Australian Medical Council to assess international medical graduates in clinical radiology and radiation oncology on behalf of the Medical Board of Australia. You apply through the college for a specialist recognition assessment of your training, qualifications and experience.", "sourceIds": ["ranzcr-recognition"] },
+    { "question": "What comparability outcomes can RANZCR give?", "answerMarkdown": "The college determines that you are substantially comparable, partially comparable, or not comparable. Substantially comparable applicants undergo up to 12 months' peer review in an accredited training site, partially comparable applicants undergo up to 24 months' upskilling before sitting Part or Phase 2 examinations, and not comparable applicants are referred to the Medical Board of Australia for other options. Confirm current requirements with the RANZCR.", "sourceIds": ["ranzcr-recognition"] },
+    { "question": "Can radiologists use the expedited specialist pathway yet?", "answerMarkdown": "Not as at June 2026. Diagnostic radiology was named as a priority specialty being considered next for the Medical Board's expedited specialist pathway and was not yet open, and Ahpra stated in January 2026 that diagnostic radiology qualifications were being assessed. Radiation oncology was not on the expedited list, so radiation oncologists used the RANZCR specialist pathway. Confirm current requirements with the RANZCR and the Medical Board of Australia.", "sourceIds": ["mba-expedited-specialist", "ahpra-expedited-2026"] }
+  ],
+  "relatedSlugs": [],
+  "disclaimerKind": "medical",
+  "pageLastVerified": "2026-06-15",
+  "schemaType": "MedicalWebPage"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "acd",
+  "order": 12,
+  "collection": "college",
+  "title": "Australasian College of Dermatologists (ACD)",
+  "eyebrow": "Specialist college",
+  "metaTitle": "ACD (FACD): SIMG pathway for dermatologists",
+  "metaDescription": "How the Australasian College of Dermatologists assesses overseas-trained dermatologists for specialist recognition in Australia, and the role of the Medical Board.",
+  "keywords": ["Australasian College of Dermatologists", "ACD SIMG", "FACD", "overseas trained dermatologist Australia", "specialist recognition dermatology", "comparability assessment"],
+  "collegeMeta": {
+    "abbr": "ACD",
+    "fullName": "Australasian College of Dermatologists",
+    "website": "https://www.dermcoll.edu.au",
+    "specialties": ["Dermatology"]
+  },
+  "summaryMarkdown": "The Australasian College of Dermatologists (ACD) is the body that assesses overseas-trained dermatologists who want to practise in Australia. The Medical Board of Australia requires international medical graduates to apply directly to the ACD for an assessment of their comparability to an Australian-trained specialist. Dermatology is not currently on the Medical Board's expedited specialist pathway, so overseas-trained dermatologists use the standard [specialist pathway](/pathways/specialist) and a college comparability assessment.",
+  "sections": [
+    {
+      "heading": "How the ACD assesses overseas-trained dermatologists",
+      "bodyMarkdown": "International medical graduates who are recognised dermatologists in their country of training apply to the ACD under the Specialist Recognition Assessment Pathway to obtain specialist registration and practise independently in Australia. Before applying to the ACD, applicants must first obtain primary source verification of their qualifications through the Australian Medical Council and an EPIC number. To be eligible, applicants must have completed a minimum of four years of specialist dermatology training. The Medical Board requires all international medical graduates to apply directly to the ACD for assessment of their comparability to an Australian-trained specialist."
+    },
+    {
+      "heading": "Comparability outcomes and the Medical Board's role",
+      "bodyMarkdown": "Under the Medical Board's specialist pathway, the relevant specialist college assesses an applicant and reports the outcome as substantially comparable, partially comparable or not comparable. The specialist college sends the outcome to both the applicant and the Medical Board, which makes the registration decision. The ACD assessment may include an interview, and fees apply. Applicants should confirm current requirements with the ACD before applying."
+    },
+    {
+      "heading": "Dermatology and the expedited specialist pathway",
+      "bodyMarkdown": "The expedited specialist pathway lets eligible specialists apply directly to the Medical Board where their qualification is on the Board's accepted qualifications list. As at the page-verified date, the specialties on that list are anaesthesia, general practice, obstetrics and gynaecology, paediatrics and child health, physician general medicine, and psychiatry; dermatology is listed only among priority specialties the Board will consider next. Until dermatology is added, overseas-trained dermatologists use the standard specialist pathway and the ACD comparability assessment."
+    }
+  ],
+  "claims": [
+    { "id": "c1", "text": "The Australasian College of Dermatologists assesses international medical graduates who hold dermatology qualifications obtained outside Australia and wish to practise dermatology in Australia.", "sourceIds": ["acd-overseas"] },
+    { "id": "c2", "text": "The Medical Board of Australia requires international medical graduates to apply directly to the ACD for assessment of their comparability to an Australian-trained specialist.", "sourceIds": ["acd-overseas"] },
+    { "id": "c3", "text": "Under the ACD Specialist Recognition Assessment Pathway, applicants must first obtain primary source verification of their qualifications through the Australian Medical Council and an EPIC number, and must have completed a minimum of four years of specialist dermatology training.", "sourceIds": ["acd-recognition"] },
+    { "id": "c4", "text": "Under the Medical Board's specialist pathway, the relevant specialist college assesses the applicant and reports the outcome as substantially comparable, partially comparable or not comparable, with the college sending the outcome to both the applicant and the Medical Board.", "sourceIds": ["mba-specialist-recognition"] },
+    { "id": "c5", "text": "The ACD Specialist Recognition assessment may require an interview, and fees apply.", "sourceIds": ["acd-recognition"] },
+    { "id": "c6", "text": "Dermatology is not on the Medical Board's expedited specialist pathway accepted qualifications list, which currently lists anaesthesia, general practice, obstetrics and gynaecology, paediatrics and child health, physician general medicine, and psychiatry, with dermatology named only among priority specialties the Board will consider next.", "sourceIds": ["mba-expedited-specialist"] },
+    { "id": "c7", "text": "Specialist international medical graduates whose qualification is not on the expedited specialist pathway list apply to the relevant specialist medical college for a comparability assessment leading to specialist registration.", "sourceIds": ["mba-specialist-recognition"] }
+  ],
+  "faq": [
+    { "question": "Who assesses overseas-trained dermatologists who want to work in Australia?", "answerMarkdown": "The Australasian College of Dermatologists assesses overseas-trained dermatologists, and the Medical Board of Australia requires international medical graduates to apply directly to the ACD for assessment of their comparability to an Australian-trained specialist.", "sourceIds": ["acd-overseas"] },
+    { "question": "Is dermatology on the expedited specialist pathway?", "answerMarkdown": "No. Dermatology is not currently on the Medical Board's expedited specialist pathway accepted qualifications list; it is named only among the priority specialties the Board will consider next, so overseas-trained dermatologists use the standard specialist pathway and an ACD comparability assessment.", "sourceIds": ["mba-expedited-specialist", "mba-specialist-recognition"] },
+    { "question": "What are the possible outcomes of the comparability assessment?", "answerMarkdown": "Under the Medical Board's specialist pathway, the specialist college reports the outcome as substantially comparable, partially comparable or not comparable, and sends the result to both the applicant and the Medical Board. Applicants should confirm current requirements and fees with the ACD.", "sourceIds": ["mba-specialist-recognition"] }
+  ],
+  "relatedSlugs": [],
+  "disclaimerKind": "medical",
+  "pageLastVerified": "2026-06-15",
+  "schemaType": "MedicalWebPage"
+}

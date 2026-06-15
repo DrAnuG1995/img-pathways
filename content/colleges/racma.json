@@ -1,0 +1,49 @@
+{
+  "slug": "racma",
+  "order": 14,
+  "collection": "college",
+  "title": "Royal Australasian College of Medical Administrators (RACMA)",
+  "eyebrow": "Specialist college",
+  "metaTitle": "RACMA SIMG pathway, medical administration",
+  "metaDescription": "How RACMA assesses specialist international medical graduates in medical administration for comparability, Fellowship (FRACMA) and specialist registration in Australia.",
+  "keywords": ["RACMA", "FRACMA", "medical administration", "specialist international medical graduate", "comparability assessment", "specialist pathway"],
+  "collegeMeta": {
+    "abbr": "RACMA",
+    "fullName": "Royal Australasian College of Medical Administrators",
+    "website": "https://racma.edu.au",
+    "specialties": ["Medical administration"]
+  },
+  "summaryMarkdown": "The Royal Australasian College of Medical Administrators (RACMA) is the accredited specialist college for medical administration in Australia and New Zealand, and it awards Fellowship (FRACMA). A specialist international medical graduate (SIMG) who wants specialist recognition in medical administration applies to RACMA for an assessment of how comparable their training and experience are to an Australasian Fellow. Medical administration is not on the Medical Board's expedited specialist pathway, so SIMGs use the standard [specialist pathway](/pathways/specialist).",
+  "sections": [
+    {
+      "heading": "How RACMA assesses SIMGs",
+      "bodyMarkdown": "SIMGs who want to practise as specialist medical administrators apply directly to RACMA for an assessment of comparability against an Australasian trained medical administrator. A RACMA SIMG assessment panel reviews the applicant's training, qualifications and experience and decides the outcome. Under the Medical Board's standard specialist pathway, the college reports one of three outcomes to the applicant and the Board: substantially comparable, partially comparable or not comparable. Applicants who do not have postgraduate management qualifications, training and experience are not eligible for specialist pathway assessment by RACMA. Confirm current requirements with RACMA, as fees and timelines can change."
+    },
+    {
+      "heading": "Comparability outcomes and next steps",
+      "bodyMarkdown": "If you are assessed as substantially or partially comparable, RACMA can set further requirements before specialist recognition, which may include a period of oversight or further training as determined by the panel. Recognition as a specialist medical administrator leads to Fellowship of the college (FRACMA) and specialist registration with the Medical Board. The exact conditions depend on your individual assessment, so confirm current requirements with RACMA."
+    },
+    {
+      "heading": "Why medical administration uses the standard pathway",
+      "bodyMarkdown": "The Medical Board's expedited specialist pathway is open only to listed specialties, currently anaesthesia, general practice, obstetrics and gynaecology, general paediatrics, general medicine and psychiatry. Medical administration is not on that list, so SIMGs in medical administration use the standard specialist pathway with college assessment by RACMA."
+    }
+  ],
+  "claims": [
+    { "id": "c-racma-college", "text": "RACMA is the accredited specialist college for medical administration in Australia and New Zealand and awards Fellowship (FRACMA).", "sourceIds": ["racma-home"] },
+    { "id": "c-simg-apply", "text": "A specialist international medical graduate seeking specialist recognition in medical administration applies to RACMA for an assessment of comparability against an Australasian trained medical administrator.", "sourceIds": ["racma-simg"] },
+    { "id": "c-assessment-panel", "text": "A RACMA SIMG assessment panel reviews the applicant's training, qualifications and experience to determine comparability.", "sourceIds": ["racma-simg"] },
+    { "id": "c-three-outcomes", "text": "Under the standard specialist pathway, the college reports one of three outcomes to the applicant and the Medical Board: substantially comparable, partially comparable or not comparable.", "sourceIds": ["mba-specialist-recognition"] },
+    { "id": "c-eligibility", "text": "Applicants without postgraduate management qualifications, training and experience are not eligible for specialist pathway assessment by RACMA.", "sourceIds": ["racma-simg"] },
+    { "id": "c-recognition-fellowship", "text": "Specialist recognition in medical administration leads to Fellowship of RACMA (FRACMA) and specialist registration with the Medical Board.", "sourceIds": ["racma-home", "mba-specialist-recognition"] },
+    { "id": "c-not-expedited", "text": "Medical administration is not on the Medical Board's expedited specialist pathway, so SIMGs use the standard specialist pathway with assessment by RACMA.", "sourceIds": ["mba-expedited-specialist", "mba-specialist-recognition"] }
+  ],
+  "faq": [
+    { "question": "Which college assesses overseas-trained medical administrators in Australia?", "answerMarkdown": "RACMA assesses specialist international medical graduates in medical administration. You apply to RACMA for an assessment of how comparable your training and experience are to an Australasian Fellow.", "sourceIds": ["racma-simg"] },
+    { "question": "Can medical administrators use the expedited specialist pathway?", "answerMarkdown": "No. The expedited specialist pathway currently covers anaesthesia, general practice, obstetrics and gynaecology, general paediatrics, general medicine and psychiatry. Medical administration is not listed, so you use the standard specialist pathway.", "sourceIds": ["mba-expedited-specialist", "mba-specialist-recognition"] },
+    { "question": "What outcomes can a RACMA comparability assessment have?", "answerMarkdown": "Under the standard specialist pathway the outcome is substantially comparable, partially comparable or not comparable. Outcomes other than substantially comparable can carry further requirements, so confirm current requirements with RACMA.", "sourceIds": ["mba-specialist-recognition", "racma-simg"] }
+  ],
+  "relatedSlugs": [],
+  "disclaimerKind": "medical",
+  "pageLastVerified": "2026-06-15",
+  "schemaType": "MedicalWebPage"
+}

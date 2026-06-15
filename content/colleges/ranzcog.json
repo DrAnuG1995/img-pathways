@@ -1,0 +1,49 @@
+{
+  "slug": "ranzcog",
+  "order": 8,
+  "collection": "college",
+  "title": "Royal Australian and New Zealand College of Obstetricians and Gynaecologists (RANZCOG)",
+  "eyebrow": "Specialist college",
+  "metaTitle": "RANZCOG SIMG pathway for O&G specialists",
+  "metaDescription": "How RANZCOG assesses overseas-trained obstetrics and gynaecology specialists (SIMGs) for Australia, plus the new expedited specialist pathway for O&G.",
+  "keywords": ["RANZCOG", "FRANZCOG", "SIMG obstetrics and gynaecology", "specialist international medical graduate", "expedited specialist pathway", "overseas-trained O&G specialist"],
+  "collegeMeta": {
+    "abbr": "RANZCOG",
+    "fullName": "Royal Australian and New Zealand College of Obstetricians and Gynaecologists",
+    "website": "https://ranzcog.edu.au",
+    "specialties": ["Obstetrics and gynaecology"]
+  },
+  "summaryMarkdown": "RANZCOG is the body that assesses overseas-trained obstetrics and gynaecology specialists who want recognition in Australia. If you trained outside Australia or Aotearoa New Zealand, you apply to RANZCOG for a comparability assessment of your training, qualifications and experience through a specialist international medical graduate (SIMG) pathway. From 5 March 2025 the Medical Board of Australia also opened its expedited specialist pathway to eligible obstetricians and gynaecologists, who apply directly to Ahpra and the Medical Board. Learn more about the broader [specialist pathway](/pathways/specialist) and the [expedited specialist pathway](/pathways/expedited-specialist).",
+  "sections": [
+    {
+      "heading": "How RANZCOG assesses SIMGs",
+      "bodyMarkdown": "If you completed specialist qualifications outside Australia or Aotearoa New Zealand, you apply to RANZCOG for a comparability assessment of your overseas training, qualifications, experience and continuing professional development. The assessment also considers your understanding of the Australian healthcare system. RANZCOG sets out the SIMG pathways and eligibility requirements on its dedicated SIMG pages, and the specialist qualification it awards in this field is the Fellowship, FRANZCOG. Fees and timeframes change, so confirm current requirements with the RANZCOG before you apply."
+    },
+    {
+      "heading": "Outcomes, supervised practice and exams",
+      "bodyMarkdown": "An overseas-trained specialist who is found comparable typically completes a period of supervised practice in Australia, with assessments of professional competence, before becoming eligible for Fellowship. Where comparability is partial, RANZCOG may require a longer period of supervised practice together with further training or examinations. Because the exact conditions depend on each applicant, confirm current requirements with the RANZCOG."
+    },
+    {
+      "heading": "Expedited specialist pathway for O&G",
+      "bodyMarkdown": "On 5 March 2025 the Medical Board of Australia opened its expedited specialist pathway to eligible internationally qualified obstetricians and gynaecologists. Doctors who meet the specified qualification criteria apply for registration directly to Ahpra and the Medical Board of Australia rather than through the standard college assessment. The eligible qualifications include the UK MRCOG with a Certificate of Completion of Training, and the Irish MRCPI with a Certificate of Satisfactory Completion of Specialist Training. The expedited specialist pathway is administered by the Medical Board of Australia, and obstetrics and gynaecology is one of the listed specialties."
+    }
+  ],
+  "claims": [
+    { "id": "claim-comparability", "text": "Overseas-trained obstetrics and gynaecology specialists apply to RANZCOG for a comparability assessment of their training, qualifications, experience and continuing professional development through a SIMG pathway.", "sourceIds": ["ranzcog-simg-au"] },
+    { "id": "claim-healthcare-understanding", "text": "The RANZCOG SIMG assessment also considers the applicant's understanding of the Australian healthcare system.", "sourceIds": ["ranzcog-simg-au"] },
+    { "id": "claim-supervised-practice", "text": "A SIMG found comparable typically completes a period of supervised practice in Australia, with assessment of professional competence, before becoming eligible for Fellowship.", "sourceIds": ["ranzcog-simg-au"] },
+    { "id": "claim-partial-comparable", "text": "Where comparability is partial, RANZCOG may require a longer period of supervised practice together with further training or examinations.", "sourceIds": ["ranzcog-simg-au"] },
+    { "id": "claim-franzcog", "text": "FRANZCOG is the specialist Fellowship RANZCOG awards in obstetrics and gynaecology, and the college sets out its SIMG pathways for recognition of international training.", "sourceIds": ["ranzcog-recognition"] },
+    { "id": "claim-expedited-open", "text": "On 5 March 2025 the Medical Board of Australia opened its expedited specialist pathway to eligible internationally qualified obstetricians and gynaecologists, who apply directly to Ahpra and the Medical Board of Australia.", "sourceIds": ["mba-obgyn-expedited-2025"] },
+    { "id": "claim-expedited-quals", "text": "Eligible qualifications for the expedited O&G pathway include the UK MRCOG with a Certificate of Completion of Training and the Irish MRCPI with a Certificate of Satisfactory Completion of Specialist Training.", "sourceIds": ["mba-obgyn-expedited-2025", "mba-expedited-specialist"] }
+  ],
+  "faq": [
+    { "question": "Who assesses overseas-trained obstetrics and gynaecology specialists in Australia?", "answerMarkdown": "RANZCOG assesses specialist international medical graduates in obstetrics and gynaecology. You apply to the college for a comparability assessment of your overseas training, qualifications, experience and continuing professional development through a SIMG pathway.", "sourceIds": ["ranzcog-simg-au"] },
+    { "question": "Is obstetrics and gynaecology on the expedited specialist pathway?", "answerMarkdown": "Yes. The Medical Board of Australia opened its expedited specialist pathway to eligible obstetricians and gynaecologists on 5 March 2025, and applicants apply directly to Ahpra and the Medical Board.", "sourceIds": ["mba-obgyn-expedited-2025", "mba-expedited-specialist"] },
+    { "question": "What does a SIMG do after RANZCOG finds them comparable?", "answerMarkdown": "A SIMG found comparable usually completes a period of supervised practice in Australia, with assessment of professional competence, before becoming eligible for Fellowship. Conditions vary by applicant, so confirm current requirements with the RANZCOG.", "sourceIds": ["ranzcog-simg-au"] }
+  ],
+  "relatedSlugs": [],
+  "disclaimerKind": "medical",
+  "pageLastVerified": "2026-06-15",
+  "schemaType": "MedicalWebPage"
+}

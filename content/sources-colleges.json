@@ -178,5 +178,265 @@
     "lastVerified": "2026-06-15",
     "verifiedBy": "research-2026-06",
     "accessNote": "Paper assessment, interview eligibility, eight curriculum domains, comparability outcomes, supervised practice"
+  },
+  "mba-obgyn-expedited-2025": {
+    "id": "mba-obgyn-expedited-2025",
+    "title": "Expedited pathway opens to obstetricians and gynaecologists",
+    "publisher": "AHPRA / Medical Board of Australia",
+    "authority": "AHPRA",
+    "url": "https://www.medicalboard.gov.au/News/2025-03-05-Expedited-pathway-opens-to-obgyn.aspx",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "5 March 2025 news: expedited pathway opens to eligible O&G specialists; eligible UK and Irish qualifications; apply direct to Ahpra and the Board"
+  },
+  "mba-expedited-accepted-list": {
+    "id": "mba-expedited-accepted-list",
+    "title": "Expedited Specialist pathway: accepted qualification list",
+    "publisher": "AHPRA / Medical Board of Australia",
+    "authority": "AHPRA",
+    "url": "https://www.medicalboard.gov.au/Registration/International-Medical-Graduates/Expedited-specialist-pathway/Expedited-Specialist-pathway-accepted-qualification-list.aspx",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "The Board's accepted qualifications list for the expedited specialist pathway, by specialty"
+  },
+  "acrrm-rural-generalist": {
+    "id": "acrrm-rural-generalist",
+    "title": "Rural Generalist Medicine",
+    "publisher": "Australian College of Rural and Remote Medicine",
+    "authority": "COLLEGE",
+    "url": "https://www.acrrm.org.au/about-us/about-the-college/rural-generalist-medicine",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "ACRRM is the AMC-accredited college for rural generalist medicine within general practice; Fellowship is FACRRM"
+  },
+  "acrrm-specialist-pathway": {
+    "id": "acrrm-specialist-pathway",
+    "title": "Specialist Pathway",
+    "publisher": "Australian College of Rural and Remote Medicine",
+    "authority": "COLLEGE",
+    "url": "https://www.acrrm.org.au/international-graduates/pathway-options/specialist-pathway",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Specialist pathway outcome (specialist registration plus FACRRM), comparability outcomes, and the minimum three years of rural clinical experience"
+  },
+  "anzca-home": {
+    "id": "anzca-home",
+    "title": "Australian and New Zealand College of Anaesthetists",
+    "publisher": "Australian and New Zealand College of Anaesthetists",
+    "authority": "COLLEGE",
+    "url": "https://www.anzca.edu.au",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "ANZCA trains and sets standards for specialist anaesthetists and pain medicine physicians"
+  },
+  "anzca-simg": {
+    "id": "anzca-simg",
+    "title": "Specialist international medical graduates (SIMGs)",
+    "publisher": "Australian and New Zealand College of Anaesthetists",
+    "authority": "COLLEGE",
+    "url": "https://www.anzca.edu.au/education-and-training/specialist-international-medical-graduates",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Assessment to a standard comparable to FANZCA or FFPMANZCA"
+  },
+  "anzca-process": {
+    "id": "anzca-process",
+    "title": "SIMG assessment process",
+    "publisher": "Australian and New Zealand College of Anaesthetists",
+    "authority": "COLLEGE",
+    "url": "https://www.anzca.edu.au/education-and-training/specialist-international-medical-graduates/simg-assessment-process",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Verification, preliminary comparability review, interview, supervised clinical practice assessment and examination or performance assessment"
+  },
+  "anzca-expedited": {
+    "id": "anzca-expedited",
+    "title": "Medical Board expedited specialist pathway (ANZCA)",
+    "publisher": "Australian and New Zealand College of Anaesthetists",
+    "authority": "COLLEGE",
+    "url": "https://www.anzca.edu.au/education-and-training/specialist-international-medical-graduates/medical-board-of-australia-expedited-specialist-pathway",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Anaesthesia included from 23 December 2024; the expedited pathway does not by itself lead to FANZCA"
+  },
+  "anzca-fpm": {
+    "id": "anzca-fpm",
+    "title": "Faculty of Pain Medicine (FPM)",
+    "publisher": "Australian and New Zealand College of Anaesthetists",
+    "authority": "COLLEGE",
+    "url": "https://www.anzca.edu.au/faculty-of-pain-medicine",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "FPM is a faculty of ANZCA that trains specialist pain medicine physicians (FFPMANZCA)"
+  },
+  "ranzcp-intl-specialists": {
+    "id": "ranzcp-intl-specialists",
+    "title": "Assessment of international specialists",
+    "publisher": "Royal Australian and New Zealand College of Psychiatrists",
+    "authority": "COLLEGE",
+    "url": "https://www.ranzcp.org/become-a-psychiatrist/international-specialists",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Specialist assessment as the pathway to FRANZCP for international specialists"
+  },
+  "ranzcp-specialist-assessment": {
+    "id": "ranzcp-specialist-assessment",
+    "title": "Applying for specialist assessment",
+    "publisher": "Royal Australian and New Zealand College of Psychiatrists",
+    "authority": "COLLEGE",
+    "url": "https://www.ranzcp.org/become-a-psychiatrist/international-specialists/applying-for-specialist-assessment",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "AMC primary source verification, home-country specialist registration, English requirement, three comparability outcomes"
+  },
+  "ranzcp-accelerated-pathway": {
+    "id": "ranzcp-accelerated-pathway",
+    "title": "Accelerated pathway",
+    "publisher": "Royal Australian and New Zealand College of Psychiatrists",
+    "authority": "COLLEGE",
+    "url": "https://www.ranzcp.org/become-a-psychiatrist/international-specialists/applying-for-specialist-assessment/accelerated-pathway",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Accelerated pathway for MRCPsych (UK) with CCT or CCST; interview not required and specialist assessment fee waived for new applicants"
+  },
+  "ranzcog-simg-au": {
+    "id": "ranzcog-simg-au",
+    "title": "SIMGs in Australia",
+    "publisher": "Royal Australian and New Zealand College of Obstetricians and Gynaecologists",
+    "authority": "COLLEGE",
+    "url": "https://ranzcog.edu.au/training/international-medical-graduates/simg-australia/",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Comparability assessment, supervised practice and assessment of professional competence"
+  },
+  "ranzcog-recognition": {
+    "id": "ranzcog-recognition",
+    "title": "Recognition of international training",
+    "publisher": "Royal Australian and New Zealand College of Obstetricians and Gynaecologists",
+    "authority": "COLLEGE",
+    "url": "https://ranzcog.edu.au/training-topics/prospective-trainees-recognition-of-international-training/",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "SIMG pathways; FRANZCOG is the specialist Fellowship in obstetrics and gynaecology"
+  },
+  "ranzcr-recognition": {
+    "id": "ranzcr-recognition",
+    "title": "Recognition for IMG, Australia",
+    "publisher": "Royal Australian and New Zealand College of Radiologists",
+    "authority": "COLLEGE",
+    "url": "https://www.ranzcr.com/join-our-professions/img/recognition-for-img",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Accreditation, eligibility, interview, comparability outcomes, peer review and upskilling periods, Part or Phase 2 examinations"
+  },
+  "rcpa-simg": {
+    "id": "rcpa-simg",
+    "title": "Specialist International Medical Graduates",
+    "publisher": "Royal College of Pathologists of Australasia",
+    "authority": "COLLEGE",
+    "url": "https://www.rcpa.edu.au/Trainees/Specialist-International-Medical-Graduates",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "EPIC and AMC verification, specialist assessment, comparison to an Australian trained specialist commencing practice"
+  },
+  "rcpa-exam-exemptions": {
+    "id": "rcpa-exam-exemptions",
+    "title": "RCPA examination exemptions",
+    "publisher": "Royal College of Pathologists of Australasia",
+    "authority": "COLLEGE",
+    "url": "https://www.rcpa.edu.au/Trainees/Exams/Exam-Exemptions",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Examination exemption tables indicating which examinations a SIMG may need to complete"
+  },
+  "ranzco-simg": {
+    "id": "ranzco-simg",
+    "title": "Specialist International Medical Graduate (SIMG)",
+    "publisher": "Royal Australian and New Zealand College of Ophthalmologists",
+    "authority": "COLLEGE",
+    "url": "https://ranzco.edu/home/future-ophthalmologists/specialist-international-medical-graduate/",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Comparability on behalf of the MBA and MCNZ, three outcomes, newly qualified Fellow standard, full scope of practice, 1 February to 1 September application window"
+  },
+  "acd-overseas": {
+    "id": "acd-overseas",
+    "title": "Specialist Pathway for Overseas Dermatologists",
+    "publisher": "Australasian College of Dermatologists",
+    "authority": "COLLEGE",
+    "url": "https://www.dermcoll.edu.au/health-professionals/becoming-a-dermatologist/specialist-pathway-overseas-dermatologists/",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "MBA requires IMGs to apply to the ACD for a comparability assessment; AMC primary source verification first"
+  },
+  "acd-recognition": {
+    "id": "acd-recognition",
+    "title": "Specialist Recognition (ACD)",
+    "publisher": "Australasian College of Dermatologists",
+    "authority": "COLLEGE",
+    "url": "https://www.dermcoll.edu.au/health-professionals/becoming-a-dermatologist/specialist-pathway-overseas-dermatologists/specialist-recognition/",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Eligibility, AMC and EPIC verification, minimum four years specialist training, interviews and fees"
+  },
+  "cicm-home": {
+    "id": "cicm-home",
+    "title": "College of Intensive Care Medicine of Australia and New Zealand",
+    "publisher": "College of Intensive Care Medicine of Australia and New Zealand",
+    "authority": "COLLEGE",
+    "url": "https://cicm.org.au/",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "CICM trains and certifies intensive care specialists and confers FCICM"
+  },
+  "cicm-simg": {
+    "id": "cicm-simg",
+    "title": "Specialist International Medical Graduate (CICM)",
+    "publisher": "College of Intensive Care Medicine of Australia and New Zealand",
+    "authority": "COLLEGE",
+    "url": "https://cicm.org.au/Web/Web/IMGs/Specialist-International-Medical-Graduate.aspx",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Preliminary review, SIMG Committee assessment, three comparability outcomes with 12 and 24 month supervised-practice timeframes"
+  },
+  "racma-home": {
+    "id": "racma-home",
+    "title": "Royal Australasian College of Medical Administrators",
+    "publisher": "Royal Australasian College of Medical Administrators",
+    "authority": "COLLEGE",
+    "url": "https://racma.edu.au/",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "RACMA trains and awards Fellowship (FRACMA) in medical administration"
+  },
+  "racma-simg": {
+    "id": "racma-simg",
+    "title": "Specialist International Medical Graduates (RACMA)",
+    "publisher": "Royal Australasian College of Medical Administrators",
+    "authority": "COLLEGE",
+    "url": "https://racma.edu.au/training/specialist-international-medical-graduates/",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Comparability assessment, SIMG assessment panel, three comparability outcomes and eligibility"
+  },
+  "acsep-stp-page": {
+    "id": "acsep-stp-page",
+    "title": "ACSEP Specialist Training Program",
+    "publisher": "Australasian College of Sport and Exercise Physicians",
+    "authority": "COLLEGE",
+    "url": "https://www.acsep.org.au/page/about/acsep-specialist-training-program",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "ACSEP is the only organisation in Australasia accredited to provide training in sport and exercise medicine"
+  },
+  "acsep-simg-page": {
+    "id": "acsep-simg-page",
+    "title": "Specialist International Medical Graduates (SIMG)",
+    "publisher": "Australasian College of Sport and Exercise Physicians",
+    "authority": "COLLEGE",
+    "url": "https://www.acsep.org.au/page/about/specialist-international-medical-graduates",
+    "lastVerified": "2026-06-15",
+    "verifiedBy": "research-2026-06",
+    "accessNote": "Individualised comparability assessment, three Australian outcomes, AMC and Ahpra requirements, route to fellowship, application contact"
   }
 }

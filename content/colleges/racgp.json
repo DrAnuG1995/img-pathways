@@ -1,5 +1,6 @@
 {
   "slug": "racgp",
+  "order": 1,
   "collection": "college",
   "title": "Royal Australian College of General Practitioners (RACGP)",
   "eyebrow": "Specialist college",

@@ -1,0 +1,45 @@
+{
+  "slug": "rcpa",
+  "order": 10,
+  "collection": "college",
+  "title": "Royal College of Pathologists of Australasia (RCPA)",
+  "eyebrow": "Specialist college",
+  "metaTitle": "RCPA SIMG pathway for pathologists",
+  "metaDescription": "How the Royal College of Pathologists of Australasia (RCPA) assesses specialist international medical graduates in pathology through the specialist pathway and comparability assessment.",
+  "keywords": ["RCPA", "FRCPA", "pathology SIMG", "specialist pathway", "overseas trained pathologist", "comparability assessment"],
+  "collegeMeta": {
+    "abbr": "RCPA",
+    "fullName": "Royal College of Pathologists of Australasia",
+    "website": "https://www.rcpa.edu.au",
+    "specialties": ["Pathology"]
+  },
+  "summaryMarkdown": "The Royal College of Pathologists of Australasia (RCPA) is the body that assesses overseas trained specialist pathologists who want to work as specialists in Australia. Pathology is not currently on the Medical Board of Australia expedited specialist pathway, so specialist international medical graduates (SIMGs) use the standard [specialist pathway](/pathways/specialist) and apply to the RCPA for a comparability assessment. The RCPA compares your training, assessment and experience against the standard of an Australian trained specialist at the level of a newly qualified Fellow.",
+  "sections": [
+    {
+      "heading": "How the RCPA assesses overseas trained pathologists",
+      "bodyMarkdown": "Overseas trained specialist pathologists who hold a specialist pathology qualification from their country of origin apply to the RCPA for a specialist assessment, and may apply for an area of need assessment as well. Before applying, you verify your primary and specialist qualifications through the ECFMG Electronic Portfolio of International Credentials (EPIC) and establish an Australian Medical Council (AMC) portfolio. The RCPA assesses how your previous training, assessment and experience compare to an Australian trained specialist commencing practice."
+    },
+    {
+      "heading": "Specialist pathway and comparability outcomes",
+      "bodyMarkdown": "Because pathology is not on the expedited specialist pathway, SIMGs apply to the RCPA for a comparability assessment under the standard specialist pathway. The college reports one of three outcomes to you and the Medical Board: substantially comparable, partially comparable or not comparable. If you are assessed as substantially or partially comparable you secure a position and complete a period of supervised practice, the length of which is determined by the college, before you can apply for specialist registration. The RCPA also publishes examination exemption tables that show which examinations a SIMG may be required to complete."
+    }
+  ],
+  "claims": [
+    { "id": "c-pathology-not-expedited", "text": "Pathology is not currently on the Medical Board of Australia expedited specialist pathway, so pathologist SIMGs use the standard specialist pathway.", "sourceIds": ["mba-expedited-specialist", "ahpra-expedited-2026"] },
+    { "id": "c-college-comparability", "text": "Under the specialist pathway, SIMGs apply to the relevant specialist medical college, the RCPA for pathology, for a comparability assessment.", "sourceIds": ["mba-specialist-recognition", "rcpa-simg"] },
+    { "id": "c-three-outcomes", "text": "The college reports one of three comparability outcomes to the applicant and the Medical Board: substantially comparable, partially comparable or not comparable.", "sourceIds": ["mba-specialist-recognition"] },
+    { "id": "c-supervised-practice", "text": "SIMGs assessed as substantially or partially comparable complete a period of supervised practice, with the length determined by the specialist medical college, before applying for specialist registration.", "sourceIds": ["mba-specialist-recognition"] },
+    { "id": "c-epic-amc", "text": "Overseas trained specialist pathologists verify their primary and specialist qualifications through ECFMG EPIC and establish an AMC portfolio before applying to the RCPA.", "sourceIds": ["rcpa-simg"] },
+    { "id": "c-comparison-standard", "text": "The RCPA assesses how an applicant's previous training, assessment and experience compare to an Australian trained specialist commencing practice.", "sourceIds": ["rcpa-simg"] },
+    { "id": "c-exam-exemptions", "text": "The RCPA publishes examination exemption tables that indicate which examinations a SIMG may need to complete.", "sourceIds": ["rcpa-exam-exemptions"] }
+  ],
+  "faq": [
+    { "question": "Can pathologists use the expedited specialist pathway?", "answerMarkdown": "No. As of mid 2026 the expedited specialist pathway covers a limited set of specialties such as general practice, anaesthetics, obstetrics and gynaecology, psychiatry, general medicine and general paediatrics, and pathology is not among them. Pathologist SIMGs use the standard specialist pathway and apply to the RCPA for a comparability assessment.", "sourceIds": ["ahpra-expedited-2026", "mba-specialist-recognition"] },
+    { "question": "What outcomes can the RCPA comparability assessment give?", "answerMarkdown": "The college sends you and the Medical Board one of three outcomes: substantially comparable, partially comparable or not comparable. If you are substantially or partially comparable you secure a position and complete supervised practice before applying for specialist registration. If you are not comparable you are not eligible for the specialist pathway but may apply for a different pathway.", "sourceIds": ["mba-specialist-recognition"] },
+    { "question": "What does it cost and how long does it take?", "answerMarkdown": "Fees and timelines change, and the specialist medical colleges set their own assessment and fellowship fees. Confirm current requirements with the RCPA before you apply.", "sourceIds": ["mba-specialist-recognition", "rcpa-simg"] }
+  ],
+  "relatedSlugs": [],
+  "disclaimerKind": "medical",
+  "pageLastVerified": "2026-06-15",
+  "schemaType": "MedicalWebPage"
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "ranzco",
+  "order": 11,
+  "collection": "college",
+  "title": "Royal Australian and New Zealand College of Ophthalmologists (RANZCO)",
+  "eyebrow": "Specialist college",
+  "metaTitle": "RANZCO SIMG pathway for ophthalmologists",
+  "metaDescription": "How RANZCO assesses overseas trained ophthalmologists (SIMGs) for comparability with Australian trained specialists, and how the Medical Board specialist pathway works.",
+  "keywords": ["RANZCO", "FRANZCO", "ophthalmology Australia", "SIMG ophthalmologist", "specialist pathway", "overseas trained ophthalmologist"],
+  "collegeMeta": {
+    "abbr": "RANZCO",
+    "fullName": "Royal Australian and New Zealand College of Ophthalmologists",
+    "website": "https://ranzco.edu",
+    "specialties": ["Ophthalmology"]
+  },
+  "summaryMarkdown": "The Royal Australian and New Zealand College of Ophthalmologists (RANZCO) is the body that assesses specialist international medical graduates (SIMGs) in ophthalmology on behalf of the Medical Board of Australia. If you trained as an ophthalmologist overseas, RANZCO reviews your training, qualifications and experience for comparability with an ophthalmologist trained in Australia, and the Medical Board grants specialist registration. Ophthalmology is not currently on the Medical Board's expedited specialist pathway, so SIMGs apply through the standard [specialist pathway](/pathways/specialist).",
+  "sections": [
+    {
+      "heading": "How RANZCO assesses overseas trained ophthalmologists",
+      "bodyMarkdown": "RANZCO assesses SIMGs in ophthalmology on behalf of the Medical Board of Australia and the Medical Council of New Zealand. The assessment determines whether your training, qualifications and experience are comparable with an ophthalmologist trained and qualified in Australia, measured against the standard of a newly qualified Australian Fellow. RANZCO assesses applicants as general comprehensive ophthalmologists across the full scope of practice. Applications for the Australian specialist pathway are open between 1 February and 1 September each year. Fees and current document requirements change over time, so confirm current requirements with the RANZCO."
+    },
+    {
+      "heading": "Comparability outcomes and supervised practice",
+      "bodyMarkdown": "RANZCO determines comparability at one of three levels, substantially comparable, partially comparable, or not comparable. A substantially comparable outcome can lead to a recommendation for specialist registration, usually with a period of supervised practice in Australia or New Zealand before registration is finalised. A partially comparable outcome usually requires further upskilling or training, while a not comparable outcome means the applicant is not eligible for specialist recognition. RANZCO provides a recommendation, and the Medical Board of Australia makes the final decision on specialist registration."
+    },
+    {
+      "heading": "Why the standard specialist pathway applies",
+      "bodyMarkdown": "The Medical Board's expedited specialist pathway lets SIMGs with certain qualifications apply directly to the Board, but it only covers a defined list of specialties. As at June 2026 that list is anaesthesia, general practice, obstetrics and gynaecology, general paediatrics, general medicine and psychiatry, and ophthalmology is not included. SIMG ophthalmologists therefore use the standard [specialist pathway](/pathways/specialist), where the college assesses comparability and the Medical Board grants registration."
+    }
+  ],
+  "claims": [
+    { "id": "claim-assessor", "text": "RANZCO assesses specialist international medical graduates (SIMGs) in ophthalmology on behalf of the Medical Board of Australia and the Medical Council of New Zealand.", "sourceIds": ["ranzco-simg"] },
+    { "id": "claim-comparability", "text": "RANZCO assesses whether an SIMG's training, qualifications and experience are comparable with an ophthalmologist trained in Australia, measured against the standard of a newly qualified Australian Fellow.", "sourceIds": ["ranzco-simg"] },
+    { "id": "claim-outcomes", "text": "RANZCO determines comparability at one of three levels: substantially comparable, partially comparable, or not comparable.", "sourceIds": ["ranzco-simg"] },
+    { "id": "claim-supervised", "text": "A substantially comparable outcome can lead to a recommendation for specialist registration, usually with a period of supervised practice before registration is finalised.", "sourceIds": ["ranzco-simg"] },
+    { "id": "claim-window", "text": "Applications for the Australian specialist pathway in ophthalmology are open between 1 February and 1 September each year.", "sourceIds": ["ranzco-simg"] },
+    { "id": "claim-board-decides", "text": "RANZCO provides a recommendation, and the Medical Board of Australia makes the final decision on specialist registration.", "sourceIds": ["ranzco-simg", "mba-specialist-recognition"] },
+    { "id": "claim-not-expedited", "text": "Ophthalmology is not on the Medical Board's expedited specialist pathway list, so SIMG ophthalmologists use the standard specialist pathway.", "sourceIds": ["mba-expedited-specialist"] }
+  ],
+  "faq": [
+    { "question": "Who assesses overseas trained ophthalmologists in Australia?", "answerMarkdown": "RANZCO assesses specialist international medical graduates in ophthalmology on behalf of the Medical Board of Australia. It reviews your training, qualifications and experience for comparability with an Australian trained ophthalmologist.", "sourceIds": ["ranzco-simg"] },
+    { "question": "Can ophthalmologists use the expedited specialist pathway?", "answerMarkdown": "Not currently. Ophthalmology is not on the Medical Board's expedited specialist pathway list, so SIMG ophthalmologists apply through the standard [specialist pathway](/pathways/specialist).", "sourceIds": ["mba-expedited-specialist"] },
+    { "question": "What happens after RANZCO assesses my application?", "answerMarkdown": "RANZCO finds you substantially, partially or not comparable. A substantially comparable result can lead to specialist registration, usually after a period of supervised practice, with the Medical Board making the final decision. Confirm current requirements with the RANZCO.", "sourceIds": ["ranzco-simg", "mba-specialist-recognition"] }
+  ],
+  "relatedSlugs": [],
+  "disclaimerKind": "medical",
+  "pageLastVerified": "2026-06-15",
+  "schemaType": "MedicalWebPage"
+}
