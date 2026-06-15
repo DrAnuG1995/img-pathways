@@ -35,9 +35,11 @@ export const OFFICIAL_LINKS: { label: string; href: string; note: string }[] = [
 // that aren't rendered through next/link (raw markdown anchors).
 export const BASE_PATH = process.env.NEXT_PUBLIC_BASE_PATH?.replace(/\/$/, "") || "";
 
-// Lead capture needs a server (the /api/lead → Notion route). On static hosting
-// (GitHub Pages) there's no server, so the form is hidden. Defaults to enabled.
-export const LEADS_ENABLED = process.env.NEXT_PUBLIC_LEADS_ENABLED !== "false";
+// Lead capture posts directly to a form backend (Formspree) from the browser,
+// so it works on static hosting too. The form shows only when an endpoint is
+// configured via NEXT_PUBLIC_LEAD_ENDPOINT (e.g. https://formspree.io/f/xxxx).
+export const LEAD_ENDPOINT = process.env.NEXT_PUBLIC_LEAD_ENDPOINT?.trim() || "";
+export const LEADS_ENABLED = LEAD_ENDPOINT.length > 0;
 
 // How stale a source can be before the UI flags it amber ("due for re-check").
 export const STALE_AFTER_DAYS = 180;

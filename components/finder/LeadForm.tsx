@@ -3,6 +3,7 @@
 import { useState } from "react";
 import Link from "next/link";
 import type { Answers, Outcome } from "@/lib/finder/types";
+import { LEAD_ENDPOINT } from "@/lib/site";
 
 type Status = "idle" | "submitting" | "done" | "error";
 
@@ -19,21 +20,22 @@ export default function LeadForm({
   async function onSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault();
     const fd = new FormData(e.currentTarget);
-    const payload = {
-      firstName: String(fd.get("firstName") || "").trim(),
-      lastName: String(fd.get("lastName") || "").trim(),
-      medicalDegree: String(fd.get("medicalDegree") || "").trim(),
-      countryOfDegree: String(fd.get("countryOfDegree") || "").trim(),
-      phone: String(fd.get("phone") || "").trim(),
-      email: String(fd.get("email") || "").trim(),
-      consent: fd.get("consent") === "on",
-      pathway: outcome.pathway,
-      pathwayHeadline: outcome.headline,
-      answers,
-    };
+    const firstName = String(fd.get("firstName") || "").trim();
+    const lastName = String(fd.get("lastName") || "").trim();
+    const email = String(fd.get("email") || "").trim();
+    const consent = fd.get("consent") === "on";
+    const name = [firstName, lastName].filter(Boolean).join(" ").trim();
+    const answerSummary = Object.entries(answers)
+      .map(([k, v]) => `${k}: ${v}`)
+      .join(" · ");
 
-    if (!payload.consent) {
+    if (!consent) {
       setError("Please tick the consent box so we can send your guide.");
+      setStatus("error");
+      return;
+    }
+    if (!LEAD_ENDPOINT) {
+      setError("Lead capture isn't set up yet. Please try again later.");
       setStatus("error");
       return;
     }
@@ -41,14 +43,27 @@ export default function LeadForm({
     setStatus("submitting");
     setError("");
     try {
-      const res = await fetch("/api/lead", {
+      // Posts straight to the form backend (Formspree). JSON + Accept header is
+      // Formspree's AJAX mode, so the page never navigates away.
+      const res = await fetch(LEAD_ENDPOINT, {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(payload),
+        headers: { "Content-Type": "application/json", Accept: "application/json" },
+        body: JSON.stringify({
+          name,
+          email,
+          phone: String(fd.get("phone") || "").trim(),
+          "Medical degree": String(fd.get("medicalDegree") || "").trim(),
+          "Country of degree": String(fd.get("countryOfDegree") || "").trim(),
+          Pathway: outcome.pathway,
+          "Pathway summary": outcome.headline,
+          "Survey answers": answerSummary,
+          _subject: `New IMG Pathways lead: ${name || email}`,
+        }),
       });
       if (!res.ok) {
         const body = await res.json().catch(() => ({}));
-        throw new Error(body.error || "Something went wrong. Please try again.");
+        const msg = body?.errors?.[0]?.message || "Something went wrong. Please try again.";
+        throw new Error(msg);
       }
       setStatus("done");
     } catch (err) {
