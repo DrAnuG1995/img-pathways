@@ -14,6 +14,13 @@
     "registered migration agent MARA"
   ],
   "summaryMarkdown": "If you're an international medical graduate planning to practise in Australia, you'll usually need both **a visa** that lets you live and work here **and** registration with the Medical Board through AHPRA. These are two separate processes run by two different bodies, and meeting one does not satisfy the other. [[cite:registration-and-visa-separate]]\n\nThis page is a **general overview only**. Migration is tightly regulated, circumstances vary, and rules change. It is not migration advice. For your situation, use a **registered migration agent** regulated by MARA, or refer to the Department of Home Affairs. [[cite:use-registered-migration-agent]]\n\nMost doctors enter on an **employer-sponsored** visa. 'Medical Practitioner' occupations appear on the relevant occupation lists, with the Medical Board of Australia named as the assessing authority. [[cite:medical-practitioner-on-lists]]",
+  "flow": [
+    { "label": "Registration and visa are separate", "note": "Your AHPRA registration and your visa are two different processes." },
+    { "label": "Secure a sponsored job", "note": "An approved employer offers the role and nominates it." },
+    { "label": "Choose the visa stream", "note": "Skills in Demand (subclass 482): Specialist Skills, Core Skills or Labour Agreement." },
+    { "label": "Apply and meet requirements", "note": "Skills assessment, visa English, health and character checks." },
+    { "label": "Towards permanent residence", "note": "Subclass 186, or a points-tested 189 or 190, can lead to PR." }
+  ],
   "sections": [
     {
       "heading": "A visa and AHPRA registration are separate",

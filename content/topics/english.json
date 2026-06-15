@@ -13,6 +13,13 @@
     "AHPRA English language skills registration standard"
   ],
   "summaryMarkdown": "Every doctor applying for registration in Australia must satisfy the National Boards' English language skills (ELS) registration standard, which the Medical Board applies to confirm you can communicate in English at a level that is safe to practise. [[cite:standard-purpose]] The revised standard took effect on 18 March 2025 and offers four ways to meet it: three education-based pathways (combined, school and advanced education) and a test pathway. [[cite:in-effect-date]] [[cite:four-pathways]] The accepted tests are IELTS Academic, OET, PTE Academic, TOEFL iBT and Cambridge English, and the minimum scores were updated again from 23 April 2026. [[cite:accepted-tests]] [[cite:scores-updated-2026]]\n\nThis standard is administered by the Medical Board and AHPRA and is separate from any English requirement attached to your visa, even though several of the same tests are used. [[cite:separate-from-visa]] Scores change over time, so always confirm the exact current minimums on the official accepted-tests page before booking. [[cite:scores-updated-2026]]",
+  "flow": [
+    { "label": "Check if you must meet it", "note": "Most IMGs do, unless you qualify for an exemption." },
+    { "label": "Pick an accepted test", "note": "IELTS Academic, OET, PTE Academic or TOEFL iBT." },
+    { "label": "Meet the minimum score in each component", "note": "Scores can be combined across two sittings within the allowed window." },
+    { "label": "Use results within two years", "note": "Older results are not accepted." },
+    { "label": "Standard met", "note": "This is separate from the visa English requirement." }
+  ],
   "sections": [
     {
       "heading": "Do you need to meet the English standard?",

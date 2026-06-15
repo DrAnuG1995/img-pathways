@@ -15,6 +15,13 @@
     "international medical graduate Australia"
   ],
   "summaryMarkdown": "To bill the Medicare Benefits Schedule (MBS), a doctor needs a Medicare provider number, and a separate number applies for each location they practise at. [[cite:provider-number-billing]] For many IMGs, access to Medicare benefits is also restricted under Section 19AB of the *Health Insurance Act 1973*, the '10-year moratorium'. [[cite:moratorium-19ab]] During the moratorium, an IMG generally needs to work where they're most needed, a Distribution Priority Area (DPA) for GPs, or a District of Workforce Shortage (DWS) for non-GP specialists, to access Medicare benefits there. [[cite:dpa-dws-where]] This page is general information, separate from registration and visa requirements; always confirm your own situation against the official Services Australia and Department of Health pages.",
+  "flow": [
+    { "label": "You need a provider number", "note": "Required to bill Medicare for your services." },
+    { "label": "Section 19AB restricts most IMGs", "note": "A 10-year moratorium from your first registration in Australia." },
+    { "label": "Work in a DPA or DWS location", "note": "DPA for GPs, DWS for non-GP specialists, to gain access." },
+    { "label": "Remote areas count faster", "note": "Scaling under the Modified Monash Model reduces the time." },
+    { "label": "Unrestricted Medicare access", "note": "After the moratorium, or once an exemption is granted." }
+  ],
   "sections": [
     {
       "heading": "What a provider number is and why it matters",
