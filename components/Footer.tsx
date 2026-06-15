@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { SITE_NAME, ATTRIBUTION } from "@/lib/site";
+import { Logo } from "@/components/brand/Logo";
 
 const COLUMNS: { title: string; links: { href: string; label: string }[] }[] = [
   {
@@ -41,8 +42,8 @@ export default function Footer() {
       <div className="mx-auto max-w-6xl px-4 py-12 sm:px-6">
         <div className="grid gap-8 sm:grid-cols-2 md:grid-cols-4">
           <div>
-            <p className="font-display text-lg font-semibold text-ink">{SITE_NAME}</p>
-            <p className="mt-2 max-w-xs text-sm text-muted">
+            <Logo size={30} />
+            <p className="mt-3 max-w-xs text-sm text-muted">
               An independent, evidence-backed guide for International Medical Graduates planning
               to practise in Australia.
             </p>

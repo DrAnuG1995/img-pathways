@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { PathwayIcon } from "@/components/brand/Icons";
 
 export const metadata: Metadata = {
   title: "The four pathways to registration",
@@ -54,9 +55,12 @@ export default function PathwaysIndex() {
           <Link
             key={p.slug}
             href={`/pathways/${p.slug}`}
-            className="group rounded-2xl border border-line bg-white p-6 transition hover:border-primary"
+            className="group rounded-2xl border border-line bg-white p-6 transition hover:border-primary hover:shadow-sm"
           >
-            <p className="font-display text-xl font-semibold text-ink group-hover:text-primary">
+            <span className="inline-grid h-12 w-12 place-items-center rounded-xl bg-primary-soft text-primary transition group-hover:bg-primary group-hover:text-white">
+              <PathwayIcon slug={p.slug} size={24} />
+            </span>
+            <p className="mt-3 font-display text-xl font-semibold text-ink group-hover:text-primary">
               {p.name}
             </p>
             <p className="mt-2 text-sm text-muted">{p.blurb}</p>

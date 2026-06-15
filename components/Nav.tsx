@@ -4,6 +4,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
 import { SITE_NAME } from "@/lib/site";
+import { Logo } from "@/components/brand/Logo";
 
 type NavLink = { href: string; label: string };
 
@@ -32,12 +33,9 @@ export default function Nav() {
   return (
     <header className="sticky top-0 z-50 border-b border-line bg-paper/90 backdrop-blur">
       <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-4 sm:px-6">
-        <Link href="/" className="flex items-center gap-2 font-display text-lg font-semibold text-ink">
-          <span aria-hidden className="grid h-7 w-7 place-items-center rounded-md bg-primary text-[13px] font-bold text-white">
-            AU
-          </span>
-          <span className="hidden sm:inline">{SITE_NAME}</span>
-          <span className="sm:hidden">IMG Pathways</span>
+        <Link href="/" aria-label={`${SITE_NAME} — home`} className="flex items-center">
+          <Logo size={30} className="hidden sm:inline-flex" />
+          <Logo size={28} compact className="sm:hidden" />
         </Link>
 
         {/* Desktop nav */}

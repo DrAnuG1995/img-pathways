@@ -3,6 +3,7 @@
 import Link from "next/link";
 import type { Answers, Confidence, Outcome } from "@/lib/finder/types";
 import { LEADS_ENABLED } from "@/lib/site";
+import { PathwayIcon } from "@/components/brand/Icons";
 import LeadForm from "./LeadForm";
 
 const CONFIDENCE: Record<Confidence, { label: string; cls: string }> = {
@@ -34,9 +35,14 @@ export default function ResultCard({
           </button>
         </div>
 
-        <h2 className="mt-3 font-display text-2xl font-semibold text-ink sm:text-3xl">
-          {outcome.headline}
-        </h2>
+        <div className="mt-3 flex items-start gap-3">
+          <span className="mt-0.5 inline-grid h-11 w-11 shrink-0 place-items-center rounded-xl bg-primary-soft text-primary">
+            <PathwayIcon slug={outcome.pathway} size={24} />
+          </span>
+          <h2 className="font-display text-2xl font-semibold text-ink sm:text-3xl">
+            {outcome.headline}
+          </h2>
+        </div>
         <p className="mt-2 text-muted">{outcome.rationale}</p>
 
         <div className="mt-6 grid gap-4 sm:grid-cols-3">
