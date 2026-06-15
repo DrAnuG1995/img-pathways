@@ -75,10 +75,10 @@ export default function LeadForm({
   if (status === "done") {
     return (
       <div className="rounded-2xl border border-teal/40 bg-teal-soft p-6">
-        <p className="font-display text-lg font-semibold text-ink">Thanks, that's on its way.</p>
+        <p className="font-display text-lg font-semibold text-ink">Thanks, we've got your details.</p>
         <p className="mt-1 text-sm text-muted">
-          We'll send a tailored guide for the {outcome.pathway.replace(/-/g, " ")} pathway to your
-          inbox. In the meantime, your full pathway page is below.
+          We'll be in touch about the {outcome.pathway.replace(/-/g, " ")} pathway. Your full,
+          source-checked pathway page is below, ready to read right now.
         </p>
       </div>
     );
@@ -87,11 +87,11 @@ export default function LeadForm({
   return (
     <form onSubmit={onSubmit} className="rounded-2xl border border-line bg-white p-6">
       <p className="font-display text-lg font-semibold text-ink">
-        Want this as a personalized guide?
+        Want us to follow up on your pathway?
       </p>
       <p className="mt-1 text-sm text-muted">
-        Optional. Add your details and we'll send a step-by-step guide for your pathway, with current
-        costs, timelines and links. You can read everything on this site for free without this.
+        Optional. Leave your details and we'll reach out with tailored next steps and the occasional
+        update. Everything on this site is free to read without it.
       </p>
 
       <div className="mt-4 grid gap-3 sm:grid-cols-2">
@@ -106,7 +106,7 @@ export default function LeadForm({
       <label className="mt-4 flex items-start gap-2 text-xs text-muted">
         <input type="checkbox" name="consent" className="mt-0.5" />
         <span>
-          I'm happy to be contacted with my pathway guide and occasional updates. I understand this is
+          I'm happy to be contacted about my pathway and occasional updates. I understand this is
           general information, not advice. See our{" "}
           <Link href="/about" className="text-primary hover:underline">
             privacy approach
@@ -126,7 +126,7 @@ export default function LeadForm({
         disabled={status === "submitting"}
         className="mt-4 inline-flex items-center rounded-lg bg-primary px-5 py-2.5 text-sm font-semibold text-white hover:bg-primary-deep disabled:opacity-60"
       >
-        {status === "submitting" ? "Sending…" : "Send me my guide"}
+        {status === "submitting" ? "Sending…" : "Send my details"}
       </button>
     </form>
   );
