@@ -1,13 +1,14 @@
-import type { Metadata } from "next";
 import glossary from "@/content/glossary.json";
 import { resolveSource } from "@/lib/content/sources";
+import { buildPageMetadata } from "@/lib/seo/metadata";
 
-export const metadata: Metadata = {
+export const metadata = buildPageMetadata({
   title: "Glossary of acronyms",
   description:
     "Plain-English definitions of the acronyms in the IMG-to-Australia process: AHPRA, AMC, CAT MCQ, WBA, 19AB, DPA, DWS, MMM, OET, MARA and more.",
-  alternates: { canonical: "/glossary" },
-};
+  path: "/glossary",
+  keywords: ["IMG glossary", "AHPRA AMC acronyms", "19AB DPA DWS MMM meaning", "CAT MCQ WBA"],
+});
 
 type Term = {
   term: string;

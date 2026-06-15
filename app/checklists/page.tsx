@@ -1,13 +1,14 @@
-import type { Metadata } from "next";
 import Link from "next/link";
 import { getDocsByCollection } from "@/lib/content/loader";
+import { buildPageMetadata } from "@/lib/seo/metadata";
 
-export const metadata: Metadata = {
+export const metadata = buildPageMetadata({
   title: "Step-by-step checklists",
   description:
     "Step-by-step checklists for each registration pathway, what to do, in what order, with the official source for each step.",
-  alternates: { canonical: "/checklists" },
-};
+  path: "/checklists",
+  keywords: ["IMG checklist Australia", "AMC pathway steps", "registration checklist"],
+});
 
 export default function ChecklistsIndex() {
   const checklists = getDocsByCollection("checklist");

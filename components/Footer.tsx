@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { SITE_NAME, ATTRIBUTION } from "@/lib/site";
+import { SITE_NAME, ATTRIBUTION, OFFICIAL_LINKS } from "@/lib/site";
 import { Logo } from "@/components/brand/Logo";
 
 const COLUMNS: { title: string; links: { href: string; label: string }[] }[] = [
@@ -64,7 +64,26 @@ export default function Footer() {
           ))}
         </div>
 
-        <div className="mt-10 rounded-xl border border-line bg-paper p-4 text-sm text-muted">
+        <div className="mt-10 border-t border-line pt-6">
+          <p className="text-xs font-semibold uppercase tracking-wide text-muted">Official sources</p>
+          <ul className="mt-3 flex flex-wrap gap-x-5 gap-y-2">
+            {OFFICIAL_LINKS.map((l) => (
+              <li key={l.href}>
+                <a
+                  href={l.href}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  title={l.note}
+                  className="text-sm text-ink/80 hover:text-primary"
+                >
+                  {l.label} ↗
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        <div className="mt-8 rounded-xl border border-line bg-paper p-4 text-sm text-muted">
           <p className="font-semibold text-ink">General information only, not advice.</p>
           <p className="mt-1">
             This site explains how the system works using publicly available official sources. It is

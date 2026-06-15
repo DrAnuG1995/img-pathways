@@ -1,12 +1,30 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import FinderWizard from "@/components/finder/FinderWizard";
 import HeroBackdrop from "@/components/brand/HeroBackdrop";
+import OfficialSources from "@/components/OfficialSources";
+import { SITE_URL } from "@/lib/site";
 import {
   PathwayIcon,
   IconShieldCheck,
   IconCalendarCheck,
   IconSparkle,
 } from "@/components/brand/Icons";
+
+export const metadata: Metadata = {
+  alternates: { canonical: SITE_URL },
+  keywords: [
+    "IMG Australia",
+    "international medical graduate Australia",
+    "AHPRA registration",
+    "AMC exams",
+    "competent authority pathway",
+    "specialist pathway",
+    "expedited specialist pathway",
+    "overseas trained doctor Australia",
+    "work as a doctor in Australia",
+  ],
+};
 
 const PATHWAYS = [
   { slug: "standard", name: "Standard", blurb: "AMC exams (CAT MCQ + clinical/WBA)" },
@@ -93,6 +111,13 @@ export default function Home() {
               <p className="mt-1 text-sm text-muted">{p.blurb}</p>
             </Link>
           ))}
+        </div>
+      </section>
+
+      {/* Official sources */}
+      <section className="border-t border-line bg-paper">
+        <div className="mx-auto max-w-5xl px-4 py-14 sm:px-6">
+          <OfficialSources />
         </div>
       </section>
 

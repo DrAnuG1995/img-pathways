@@ -1,13 +1,14 @@
-import type { Metadata } from "next";
 import Link from "next/link";
 import { PathwayIcon } from "@/components/brand/Icons";
+import { buildPageMetadata } from "@/lib/seo/metadata";
 
-export const metadata: Metadata = {
+export const metadata = buildPageMetadata({
   title: "The four pathways to registration",
   description:
     "The four routes for International Medical Graduates to register in Australia: Standard, Competent Authority, Specialist and the new Expedited Specialist pathway.",
-  alternates: { canonical: "/pathways" },
-};
+  path: "/pathways",
+  keywords: ["AMC pathways", "standard pathway", "competent authority pathway", "specialist pathway", "expedited specialist pathway", "IMG registration Australia"],
+});
 
 const PATHWAYS = [
   {

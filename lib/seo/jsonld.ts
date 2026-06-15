@@ -1,7 +1,36 @@
 import type { ContentDoc, Source } from "@/lib/content/types";
-import { SITE_URL } from "@/lib/site";
+import { SITE_URL, SITE_NAME, SITE_DESCRIPTION, OFFICIAL_LINKS } from "@/lib/site";
 
 const abs = (path: string) => `${SITE_URL}${path.startsWith("/") ? path : `/${path}`}`;
+
+/** Site-wide Organization entity. `sameAs` points at the authoritative bodies
+ * the site references, which reinforces topical relevance for search engines. */
+export function organizationJsonLd() {
+  return {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": `${SITE_URL}/#organization`,
+    name: SITE_NAME,
+    url: SITE_URL,
+    logo: `${SITE_URL}/icon.svg`,
+    description: SITE_DESCRIPTION,
+    sameAs: OFFICIAL_LINKS.map((l) => l.href),
+  };
+}
+
+/** Site-wide WebSite entity. */
+export function webSiteJsonLd() {
+  return {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "@id": `${SITE_URL}/#website`,
+    name: SITE_NAME,
+    url: SITE_URL,
+    description: SITE_DESCRIPTION,
+    inLanguage: "en-AU",
+    publisher: { "@id": `${SITE_URL}/#organization` },
+  };
+}
 
 export function medicalWebPageJsonLd(doc: ContentDoc, path: string, sources: Source[]) {
   return {

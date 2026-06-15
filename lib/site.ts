@@ -18,6 +18,18 @@ export const ATTRIBUTION = {
   href: "https://statdoctor.app",
 };
 
+// The official bodies this site references. Surfaced site-wide (footer, home)
+// so readers can always reach the authoritative source, and used in the
+// Organization JSON-LD `sameAs`. Order: regulator, exams, then government.
+export const OFFICIAL_LINKS: { label: string; href: string; note: string }[] = [
+  { label: "AHPRA", href: "https://www.ahpra.gov.au", note: "The national health practitioner regulator" },
+  { label: "Medical Board of Australia", href: "https://www.medicalboard.gov.au", note: "Registration standards and decisions" },
+  { label: "Australian Medical Council", href: "https://www.amc.org.au", note: "Pathways, exams and qualification assessment" },
+  { label: "Department of Home Affairs", href: "https://immi.homeaffairs.gov.au", note: "Visas and immigration" },
+  { label: "Services Australia (Medicare)", href: "https://www.servicesaustralia.gov.au/restrictions-and-exemptions-for-international-medical-graduates", note: "Medicare provider numbers and section 19AB" },
+  { label: "Register of Migration Agents (MARA)", href: "https://www.mara.gov.au", note: "Find a registered migration agent" },
+];
+
 // Base path for sub-path hosting (e.g. GitHub Pages project site at /img-pathways).
 // Empty for root hosting (Vercel + custom domain). Used to prefix internal links
 // that aren't rendered through next/link (raw markdown anchors).

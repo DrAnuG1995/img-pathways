@@ -1,12 +1,13 @@
-import type { Metadata } from "next";
 import FinderWizard from "@/components/finder/FinderWizard";
+import { buildPageMetadata } from "@/lib/seo/metadata";
 
-export const metadata: Metadata = {
+export const metadata = buildPageMetadata({
   title: "Find your pathway",
   description:
     "Answer a few questions and we'll point you to your likely registration pathway as an International Medical Graduate in Australia, Standard, Competent Authority, Specialist or Expedited Specialist, with the exact next steps.",
-  alternates: { canonical: "/finder" },
-};
+  path: "/finder",
+  keywords: ["IMG pathway finder", "which AMC pathway", "competent authority eligibility", "specialist pathway Australia"],
+});
 
 export default function FinderPage() {
   return (

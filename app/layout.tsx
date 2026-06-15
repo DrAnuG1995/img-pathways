@@ -4,6 +4,8 @@ import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
+import JsonLd from "@/components/JsonLd";
+import { organizationJsonLd, webSiteJsonLd } from "@/lib/seo/jsonld";
 import { SITE_URL, SITE_NAME, SITE_TAGLINE, SITE_DESCRIPTION } from "@/lib/site";
 
 const inter = Inter({
@@ -28,6 +30,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     siteName: SITE_NAME,
+    locale: "en_AU",
     title: `${SITE_NAME}, ${SITE_TAGLINE}`,
     description: SITE_DESCRIPTION,
     url: SITE_URL,
@@ -61,6 +64,7 @@ export default function RootLayout({
         </main>
         <Footer />
         <Analytics />
+        <JsonLd data={[organizationJsonLd(), webSiteJsonLd()]} />
       </body>
     </html>
   );

@@ -1,13 +1,14 @@
-import type { Metadata } from "next";
 import Link from "next/link";
 import { getDocsByCollection } from "@/lib/content/loader";
+import { buildPageMetadata } from "@/lib/seo/metadata";
 
-export const metadata: Metadata = {
+export const metadata = buildPageMetadata({
   title: "Specialist medical colleges",
   description:
-    "The Australian specialist medical colleges that assess overseas-trained specialists (SIMGs), RACP, RACS, RACGP, ACEM, RANZCP and more.",
-  alternates: { canonical: "/colleges" },
-};
+    "The 15 Australian specialist medical colleges that assess overseas-trained specialists (SIMGs): RACGP, ACRRM, RACP, RACS, ANZCA, ACEM, RANZCP, RANZCOG, RANZCR, RCPA, RANZCO, ACD, CICM, RACMA and ACSEP.",
+  path: "/colleges",
+  keywords: ["Australian specialist medical colleges", "SIMG assessment", "overseas trained specialist", "RACGP RACP RACS ANZCA RANZCP"],
+});
 
 export default function CollegesIndex() {
   const colleges = getDocsByCollection("college");

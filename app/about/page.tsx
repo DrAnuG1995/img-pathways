@@ -1,13 +1,14 @@
-import type { Metadata } from "next";
 import Link from "next/link";
 import { SITE_NAME, ATTRIBUTION } from "@/lib/site";
+import { buildPageMetadata } from "@/lib/seo/metadata";
 
-export const metadata: Metadata = {
+export const metadata = buildPageMetadata({
   title: "About & privacy",
   description:
     "Why this site exists, how we keep it accurate and independent, and how we handle your details.",
-  alternates: { canonical: "/about" },
-};
+  path: "/about",
+  keywords: ["about IMG Pathways Australia", "independent IMG resource", "how we verify"],
+});
 
 export default function AboutPage() {
   return (

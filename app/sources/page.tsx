@@ -1,15 +1,16 @@
-import type { Metadata } from "next";
 import Link from "next/link";
 import { getAllSources, AUTHORITY_LABEL } from "@/lib/content/sources";
 import type { Source, SourceAuthority } from "@/lib/content/types";
 import LastVerifiedBadge from "@/components/content/LastVerifiedBadge";
+import { buildPageMetadata } from "@/lib/seo/metadata";
 
-export const metadata: Metadata = {
+export const metadata = buildPageMetadata({
   title: "Sources & methodology",
   description:
     "How we keep this site accurate: every key fact is cited to an official source (AHPRA, the Medical Board, the AMC, Home Affairs, Services Australia) and dated when last verified.",
-  alternates: { canonical: "/sources" },
-};
+  path: "/sources",
+  keywords: ["IMG Australia official sources", "AHPRA AMC sources", "evidence-backed IMG information", "how verified"],
+});
 
 const ORDER: SourceAuthority[] = [
   "AHPRA",
