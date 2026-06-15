@@ -3,6 +3,13 @@
   "collection": "pathway",
   "order": 4,
   "pathwayMeta": { "bestFor": "Specialists whose qualification is on the Board's accepted list", "leadsTo": "Specialist registration", "examsSummary": "No comparability assessment, six months supervised practice" },
+  "flow": [
+    { "label": "Check the accepted qualifications list", "note": "Your specialty and qualification must be on the Board's list." },
+    { "label": "Apply directly to Ahpra and the Medical Board", "note": "No college comparability assessment." },
+    { "label": "Six months supervised practice", "note": "With an Australian-registered specialist." },
+    { "label": "Orientation and cultural safety education", "note": "Required for everyone on the pathway." },
+    { "label": "Specialist registration", "note": "Faster than the standard specialist pathway." }
+  ],
   "eyebrow": "AMC Pathway · Newest route",
   "title": "The Expedited Specialist pathway",
   "metaTitle": "Expedited Specialist pathway 2026: specialties, eligibility & steps",

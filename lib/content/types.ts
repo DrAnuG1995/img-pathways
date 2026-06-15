@@ -54,6 +54,12 @@ export interface ChecklistStep {
   detailMarkdown: string;
 }
 
+/** A step in a process flowchart (rendered as a compact vertical flow). */
+export interface FlowStep {
+  label: string;
+  note?: string;
+}
+
 export type DisclaimerKind = "general" | "migration" | "medical";
 
 export type SchemaType = "MedicalWebPage" | "FAQPage" | "HowTo";
@@ -92,6 +98,7 @@ export interface ContentDoc {
   claims: Claim[];
   faq?: FaqItem[];
   checklistSteps?: ChecklistStep[]; // for checklist / HowTo docs
+  flow?: FlowStep[]; // process flowchart steps (e.g. on pathway pages)
   relatedSlugs?: string[];
   disclaimerKind: DisclaimerKind;
   pageLastVerified: string; // ISO date

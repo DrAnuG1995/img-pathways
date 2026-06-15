@@ -8,6 +8,7 @@ import DisclaimerBanner from "./DisclaimerBanner";
 import LastVerifiedBadge from "./LastVerifiedBadge";
 import FaqAccordion from "./FaqAccordion";
 import ChecklistSteps from "./ChecklistSteps";
+import PathwayFlow from "./PathwayFlow";
 import Toc from "./Toc";
 import CollegeLogo from "@/components/CollegeLogo";
 import JsonLd from "@/components/JsonLd";
@@ -122,6 +123,16 @@ export default function ContentPage({
           <div className="mt-5">
             <DisclaimerBanner kind={doc.disclaimerKind} />
           </div>
+
+          {doc.flow?.length ? (
+            <section className="mt-8 rounded-2xl border border-line bg-white p-6">
+              <h2 className="font-display text-2xl font-semibold text-ink">How it works</h2>
+              <p className="mt-1 text-sm text-muted">
+                The process at a glance. Full detail, with sources, is below.
+              </p>
+              <PathwayFlow steps={doc.flow} />
+            </section>
+          ) : null}
 
           <div className="mt-8">
             <ContentRenderer doc={doc} />

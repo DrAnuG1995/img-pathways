@@ -3,6 +3,13 @@
   "collection": "pathway",
   "order": 2,
   "pathwayMeta": { "bestFor": "Doctors trained and certified in the UK, Ireland, USA, Canada or New Zealand", "leadsTo": "General registration", "examsSummary": "Usually no AMC exams, with a period of supervised practice" },
+  "flow": [
+    { "label": "Confirm your authority is recognised", "note": "UK (GMC), Ireland, USA, Canada (LMCC) or New Zealand." },
+    { "label": "Verify your qualifications", "note": "Primary source verification through the AMC." },
+    { "label": "Provisional registration", "note": "Apply with a job offer and an approved supervisor." },
+    { "label": "12 months supervised practice", "note": "In an approved position. Usually no AMC exams." },
+    { "label": "General registration", "note": "Practise as a doctor in Australia." }
+  ],
   "eyebrow": "AMC Pathway",
   "title": "The Competent Authority pathway",
   "metaTitle": "Competent Authority pathway: skip the AMC exams (UK, Ireland, USA, Canada, NZ)",

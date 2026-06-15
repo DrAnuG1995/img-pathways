@@ -3,6 +3,13 @@
   "collection": "pathway",
   "order": 3,
   "pathwayMeta": { "bestFor": "Overseas-trained specialists seeking recognition by an Australian college", "leadsTo": "Specialist registration", "examsSummary": "College comparability assessment; exams or upskilling may apply" },
+  "flow": [
+    { "label": "Verify your qualifications", "note": "Primary source verification through the AMC." },
+    { "label": "Apply to the relevant specialist college", "note": "The college assesses your training and experience." },
+    { "label": "Comparability assessment", "note": "Outcome: substantially, partially, or not comparable." },
+    { "label": "Supervised practice, exams or upskilling", "note": "As set by the college for your outcome." },
+    { "label": "Specialist registration and Fellowship", "note": "Recognised as a specialist in Australia." }
+  ],
   "eyebrow": "AMC Pathway",
   "title": "The Specialist pathway",
   "metaTitle": "Specialist pathway for overseas-trained specialists (SIMGs) in Australia",
