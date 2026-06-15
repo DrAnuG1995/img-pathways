@@ -9,6 +9,7 @@ import LastVerifiedBadge from "./LastVerifiedBadge";
 import FaqAccordion from "./FaqAccordion";
 import ChecklistSteps from "./ChecklistSteps";
 import Toc from "./Toc";
+import CollegeLogo from "@/components/CollegeLogo";
 import JsonLd from "@/components/JsonLd";
 import {
   breadcrumbJsonLd,
@@ -79,6 +80,27 @@ export default function ContentPage({
               <LastVerifiedBadge date={doc.pageLastVerified} />
             </div>
           </header>
+
+          {doc.collegeMeta && (
+            <div className="mt-5 flex flex-wrap items-center gap-4 rounded-xl border border-line bg-white p-4">
+              <span className="grid h-16 w-28 shrink-0 place-items-center overflow-hidden rounded-lg border border-line bg-white p-2">
+                <CollegeLogo slug={doc.slug} abbr={doc.collegeMeta.abbr} className="max-h-12 w-auto max-w-full object-contain" />
+              </span>
+              <div className="min-w-0">
+                <a
+                  href={doc.collegeMeta.website}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="font-medium text-primary hover:underline"
+                >
+                  Visit the official {doc.collegeMeta.abbr} website ↗
+                </a>
+                {doc.collegeMeta.specialties?.length ? (
+                  <p className="mt-1 text-sm text-muted">{doc.collegeMeta.specialties.join(" · ")}</p>
+                ) : null}
+              </div>
+            </div>
+          )}
 
           <div className="mt-5">
             <DisclaimerBanner kind={doc.disclaimerKind} />

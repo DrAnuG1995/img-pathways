@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { getDocsByCollection } from "@/lib/content/loader";
 import { buildPageMetadata } from "@/lib/seo/metadata";
+import CollegeLogo from "@/components/CollegeLogo";
 
 export const metadata = buildPageMetadata({
   title: "Specialist medical colleges",
@@ -29,19 +30,43 @@ export default function CollegesIndex() {
       {colleges.length ? (
         <div className="mt-8 grid gap-4 sm:grid-cols-2">
           {colleges.map((c) => (
-            <Link
+            <div
               key={c.slug}
-              href={`/colleges/${c.slug}`}
-              className="group rounded-2xl border border-line bg-white p-6 transition hover:border-primary"
+              className="flex flex-col rounded-2xl border border-line bg-white p-6 transition hover:border-primary"
             >
-              <p className="font-display text-xl font-semibold text-ink group-hover:text-primary">
-                {c.collegeMeta?.abbr ?? c.title}
-              </p>
-              {c.collegeMeta?.fullName && (
-                <p className="text-sm font-medium text-ink/80">{c.collegeMeta.fullName}</p>
-              )}
-              <p className="mt-2 text-sm text-muted">{c.metaDescription}</p>
-            </Link>
+              <div className="flex items-center gap-4">
+                <span className="grid h-16 w-24 shrink-0 place-items-center overflow-hidden rounded-lg border border-line bg-white p-2">
+                  <CollegeLogo slug={c.slug} abbr={c.collegeMeta?.abbr ?? c.title} className="max-h-12 w-auto max-w-full object-contain" />
+                </span>
+                <div className="min-w-0">
+                  <Link
+                    href={`/colleges/${c.slug}`}
+                    className="font-display text-xl font-semibold text-ink hover:text-primary"
+                  >
+                    {c.collegeMeta?.abbr ?? c.title}
+                  </Link>
+                  {c.collegeMeta?.fullName && (
+                    <p className="text-sm font-medium leading-snug text-ink/70">{c.collegeMeta.fullName}</p>
+                  )}
+                </div>
+              </div>
+              <p className="mt-3 text-sm text-muted">{c.metaDescription}</p>
+              <div className="mt-4 flex flex-wrap items-center gap-x-5 gap-y-2 text-sm">
+                <Link href={`/colleges/${c.slug}`} className="font-medium text-primary hover:underline">
+                  Read profile →
+                </Link>
+                {c.collegeMeta?.website && (
+                  <a
+                    href={c.collegeMeta.website}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-ink/70 hover:text-primary"
+                  >
+                    Official site ↗
+                  </a>
+                )}
+              </div>
+            </div>
           ))}
         </div>
       ) : (
