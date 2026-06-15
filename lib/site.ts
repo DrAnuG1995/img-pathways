@@ -12,7 +12,7 @@ export const SITE_TAGLINE =
 export const SITE_DESCRIPTION =
   "Find your registration pathway as an International Medical Graduate (IMG) in Australia: AMC exams, the competent authority and specialist pathways, English requirements, visas, Medicare rules and where you can work. Every key fact cited to an official source with a last-verified date.";
 
-// Light attribution to the sponsor — not a sales pitch.
+// Light attribution to the sponsor, not a sales pitch.
 export const ATTRIBUTION = {
   label: "Independently published. Supported by StatDoctor.",
   href: "https://statdoctor.app",

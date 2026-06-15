@@ -33,7 +33,7 @@ describe("content docs are evidence-backed", () => {
   });
 
   it.each(docs.map((d) => [`${d.collection}/${d.slug}`, d] as const))(
-    "%s — claims, citations and dates are valid",
+    "%s, claims, citations and dates are valid",
     (_label, doc) => {
       // claim ids unique
       const ids = doc.claims.map((c) => c.id);

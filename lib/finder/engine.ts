@@ -6,7 +6,7 @@ import {
 } from "./questions";
 import { OUTCOMES, englishNoteFor } from "./outcomes";
 
-/** The first visible, unanswered question — or null when the survey is done. */
+/** The first visible, unanswered question, or null when the survey is done. */
 export function nextQuestion(answers: Answers): Question | null {
   return visibleQuestions(answers).find((q) => !answers[q.id]) ?? null;
 }
@@ -34,10 +34,10 @@ export function resolveOutcome(answers: Answers): Outcome {
     sourceIds: [...base.sourceIds],
   };
 
-  // Diagnostic radiology is under assessment for the expedited pathway — surface it.
+  // Diagnostic radiology is under assessment for the expedited pathway, surface it.
   if (base.pathway === "specialist" && answers.specialty === "diagnostic-radiology") {
     out.rationale +=
-      " Note: diagnostic radiology is being assessed for the Expedited Specialist pathway — check for updates.";
+      " Note: diagnostic radiology is being assessed for the Expedited Specialist pathway, check for updates.";
     if (!out.sourceIds.includes("ahpra-expedited-2026")) {
       out.sourceIds.push("ahpra-expedited-2026");
     }

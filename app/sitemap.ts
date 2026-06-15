@@ -26,7 +26,7 @@ const COLLECTION_BASE: Partial<Record<Collection, string>> = {
   college: "/colleges",
   checklist: "/checklists",
   article: "/articles",
-  // topic docs map to existing static routes (e.g. /english) — not duplicated here
+  // topic docs map to existing static routes (e.g. /english), not duplicated here
 };
 
 export default function sitemap(): MetadataRoute.Sitemap {

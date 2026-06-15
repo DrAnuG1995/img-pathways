@@ -15,11 +15,11 @@
   "sections": [
     {
       "heading": "Who the Standard pathway is for",
-      "bodyMarkdown": "You'll generally use the Standard pathway if your primary medical qualification isn't from a country Australia recognises as a *competent authority*, and you aren't applying as a specialist. [[cite:std-who]]\n\nIf you trained or are certified in the UK, Ireland, USA, Canada or New Zealand, check the [Competent Authority pathway](/pathways/competent-authority) first — it usually skips the AMC exams. If you hold an overseas specialist qualification, see the [Specialist](/pathways/specialist) and [Expedited Specialist](/pathways/expedited-specialist) pathways."
+      "bodyMarkdown": "You'll generally use the Standard pathway if your primary medical qualification isn't from a country Australia recognises as a *competent authority*, and you aren't applying as a specialist. [[cite:std-who]]\n\nIf you trained or are certified in the UK, Ireland, USA, Canada or New Zealand, check the [Competent Authority pathway](/pathways/competent-authority) first, it usually skips the AMC exams. If you hold an overseas specialist qualification, see the [Specialist](/pathways/specialist) and [Expedited Specialist](/pathways/expedited-specialist) pathways."
     },
     {
       "heading": "The AMC exams",
-      "bodyMarkdown": "The Standard pathway has two assessment stages, both run by the AMC: [[cite:std-exams]]\n\n1. **AMC CAT MCQ examination** — a computer-adaptive, multiple-choice exam testing medical knowledge.\n2. **AMC Clinical examination *or* a Workplace-Based Assessment (WBA)** — testing clinical skills. The WBA is an AMC-accredited alternative completed in an approved workplace under supervision.\n\nBoth are set at the standard of a newly qualified Australian medical graduate about to begin intern training. [[cite:std-level]] Before sitting, you create an AMC portfolio and have your qualifications verified through primary source verification. [[cite:std-psv]]"
+      "bodyMarkdown": "The Standard pathway has two assessment stages, both run by the AMC: [[cite:std-exams]]\n\n1. **AMC CAT MCQ examination**, a computer-adaptive, multiple-choice exam testing medical knowledge.\n2. **AMC Clinical examination *or* a Workplace-Based Assessment (WBA)**, testing clinical skills. The WBA is an AMC-accredited alternative completed in an approved workplace under supervision.\n\nBoth are set at the standard of a newly qualified Australian medical graduate about to begin intern training. [[cite:std-level]] Before sitting, you create an AMC portfolio and have your qualifications verified through primary source verification. [[cite:std-psv]]"
     },
     {
       "heading": "English language requirement",
@@ -31,7 +31,7 @@
     },
     {
       "heading": "Visas and where you can work",
-      "bodyMarkdown": "Most IMGs on this pathway work in employer-sponsored roles, commonly on the Skills in Demand (subclass 482) visa. [[cite:std-visa]] As an IMG you may also be subject to the Medicare *10-year moratorium*, which affects where you can bill Medicare — see [Medicare & the moratorium](/medicare) and [where you can work](/where-you-can-work). Migration is regulated: confirm your situation with a registered MARA agent."
+      "bodyMarkdown": "Most IMGs on this pathway work in employer-sponsored roles, commonly on the Skills in Demand (subclass 482) visa. [[cite:std-visa]] As an IMG you may also be subject to the Medicare *10-year moratorium*, which affects where you can bill Medicare, see [Medicare & the moratorium](/medicare) and [where you can work](/where-you-can-work). Migration is regulated: confirm your situation with a registered MARA agent."
     }
   ],
   "claims": [
@@ -44,8 +44,8 @@
     { "id": "std-visa", "text": "The Skills in Demand (subclass 482) visa is the main employer-sponsored work visa used for doctors.", "sourceIds": ["homeaffairs-482"] }
   ],
   "faq": [
-    { "question": "Do I have to sit both the MCQ and the clinical exam?", "answerMarkdown": "You sit the AMC CAT MCQ exam, then complete **either** the AMC Clinical examination **or** an AMC-accredited Workplace-Based Assessment — not both.", "sourceIds": ["amc-standard-assessments"] },
+    { "question": "Do I have to sit both the MCQ and the clinical exam?", "answerMarkdown": "You sit the AMC CAT MCQ exam, then complete **either** the AMC Clinical examination **or** an AMC-accredited Workplace-Based Assessment, not both.", "sourceIds": ["amc-standard-assessments"] },
     { "question": "How long does the Standard pathway take?", "answerMarkdown": "It varies widely depending on exam availability, when you secure a supervised post and processing times. Treat any single figure with caution and plan around your own exam dates. See [costs & timelines](/costs-and-timelines)." , "sourceIds": ["mba-standard"] },
-    { "question": "Is the Standard pathway harder than the others?", "answerMarkdown": "It involves more assessment than the competent authority pathway because Australia hasn't pre-recognised your training system. It's not a judgement of your ability — it's about how your qualification is verified.", "sourceIds": ["mba-standard", "mba-competent-authority"] }
+    { "question": "Is the Standard pathway harder than the others?", "answerMarkdown": "It involves more assessment than the competent authority pathway because Australia hasn't pre-recognised your training system. It's not a judgement of your ability, it's about how your qualification is verified.", "sourceIds": ["mba-standard", "mba-competent-authority"] }
   ]
 }

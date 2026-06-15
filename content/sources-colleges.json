@@ -21,7 +21,7 @@
   },
   "racgp-pep-specialist-assessment": {
     "id": "racgp-pep-specialist-assessment",
-    "title": "PEP Specialist — Comparability Assessment Policy",
+    "title": "PEP Specialist, Comparability Assessment Policy",
     "publisher": "Royal Australian College of General Practitioners",
     "authority": "COLLEGE",
     "url": "https://www.racgp.org.au/education/gp-training/gp-training/education-policy-and-supporting-documents/policies/practice-experience-program-specialist-assessment",
@@ -31,7 +31,7 @@
   },
   "racgp-comparability-assessment-guide": {
     "id": "racgp-comparability-assessment-guide",
-    "title": "PEP Specialist — Comparability Assessment Guide",
+    "title": "PEP Specialist, Comparability Assessment Guide",
     "publisher": "Royal Australian College of General Practitioners",
     "authority": "COLLEGE",
     "url": "https://www.racgp.org.au/education/gp-training/gp-training/education-policy-and-supporting-documents/program-handbooks-and-guidance-documents/guidance-documents/pep-specialist-comparability-assessment-guide",
@@ -121,7 +121,7 @@
   },
   "racs-substantially-comparable": {
     "id": "racs-substantially-comparable",
-    "title": "Interim Assessment — Substantially Comparable (RACS)",
+    "title": "Interim Assessment, Substantially Comparable (RACS)",
     "publisher": "Royal Australasian College of Surgeons",
     "authority": "COLLEGE",
     "url": "https://www.surgeons.org/SIMGs/simg-assessment/specialist-assessment-information-australia/interim-assessment/interim-assessment-substantially-comparable",
@@ -171,7 +171,7 @@
   },
   "acem-specialist-assessment": {
     "id": "acem-specialist-assessment",
-    "title": "Specialist Assessment (SIMG) — emergency medicine (ACEM)",
+    "title": "Specialist Assessment (SIMG), emergency medicine (ACEM)",
     "publisher": "Australasian College for Emergency Medicine",
     "authority": "COLLEGE",
     "url": "https://acem.org.au/Content-Sources/International-Qualified-Specialists/Assessment-of-Specialist-International-Medical-Gra/Specialist-Assessment",

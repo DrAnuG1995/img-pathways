@@ -65,7 +65,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-10 rounded-xl border border-line bg-paper p-4 text-sm text-muted">
-          <p className="font-semibold text-ink">General information only — not advice.</p>
+          <p className="font-semibold text-ink">General information only, not advice.</p>
           <p className="mt-1">
             This site explains how the system works using publicly available official sources. It is
             not medical, legal or migration advice and does not replace official guidance. Registration

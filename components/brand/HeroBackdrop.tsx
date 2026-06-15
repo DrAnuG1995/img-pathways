@@ -1,5 +1,5 @@
 /**
- * Decorative hero backdrop — abstract "pathway" routes converging on a
+ * Decorative hero backdrop, abstract "pathway" routes converging on a
  * destination node, plus soft colour washes. Purely ornamental (aria-hidden),
  * sits behind hero content at low opacity. No photos, no external assets.
  */

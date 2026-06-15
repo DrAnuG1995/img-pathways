@@ -20,7 +20,7 @@ const PATHWAYS = [
     slug: "competent-authority",
     name: "Competent Authority pathway",
     blurb:
-      "For doctors certified in the UK, Ireland, USA, Canada or New Zealand — generally no AMC exams, with a period of supervised practice.",
+      "For doctors certified in the UK, Ireland, USA, Canada or New Zealand, generally no AMC exams, with a period of supervised practice.",
   },
   {
     slug: "specialist",
@@ -32,7 +32,7 @@ const PATHWAYS = [
     slug: "expedited-specialist",
     name: "Expedited Specialist pathway",
     blurb:
-      "A faster route for specialists whose qualification is on the Board's accepted list — no comparability assessment and no college training program.",
+      "A faster route for specialists whose qualification is on the Board's accepted list, no comparability assessment and no college training program.",
   },
 ];
 

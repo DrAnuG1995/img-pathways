@@ -19,7 +19,7 @@ const FEATURES = [
   {
     Icon: IconShieldCheck,
     title: "Cited to the source",
-    body: "Every key fact links to AHPRA, the AMC or the relevant government page — no vague claims.",
+    body: "Every key fact links to AHPRA, the AMC or the relevant government page, no vague claims.",
   },
   {
     Icon: IconCalendarCheck,
@@ -49,7 +49,7 @@ export default function Home() {
             </h1>
             <p className="mx-auto mt-4 max-w-xl text-lg text-muted">
               Answer a few questions. We'll point you to the registration pathway that fits and the
-              exact next steps — every fact checked against the official AHPRA, AMC and government
+              exact next steps, every fact checked against the official AHPRA, AMC and government
               sources.
             </p>
           </div>
@@ -59,7 +59,7 @@ export default function Home() {
           </div>
 
           <p className="mt-4 text-center text-xs text-muted">
-            Free to use. General information, not advice — always confirm with the official source.
+            Free to use. General information, not advice, always confirm with the official source.
           </p>
         </div>
       </section>

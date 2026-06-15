@@ -5,7 +5,7 @@ import { getDocsByCollection } from "@/lib/content/loader";
 export const metadata: Metadata = {
   title: "Specialist medical colleges",
   description:
-    "The Australian specialist medical colleges that assess overseas-trained specialists (SIMGs) — RACP, RACS, RACGP, ACEM, RANZCP and more.",
+    "The Australian specialist medical colleges that assess overseas-trained specialists (SIMGs), RACP, RACS, RACGP, ACEM, RANZCP and more.",
   alternates: { canonical: "/colleges" },
 };
 

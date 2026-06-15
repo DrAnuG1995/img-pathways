@@ -15,7 +15,7 @@ export const OUTCOMES: Record<PathwayKey, Outcome> = {
     ],
     englishNote: "",
     visaNote:
-      "You'll usually need employer sponsorship (e.g. the Skills in Demand subclass 482 visa). Migration is regulated — confirm with a registered MARA agent.",
+      "You'll usually need employer sponsorship (e.g. the Skills in Demand subclass 482 visa). Migration is regulated, confirm with a registered MARA agent.",
     nextSteps: [
       "Create an AMC portfolio and verify your qualifications (primary source verification).",
       "Sit the AMC CAT MCQ exam.",
@@ -41,7 +41,7 @@ export const OUTCOMES: Record<PathwayKey, Outcome> = {
     requiredExams: ["No AMC exams required on this pathway"],
     englishNote: "",
     visaNote:
-      "You'll usually need employer sponsorship (e.g. the Skills in Demand subclass 482 visa). Migration is regulated — confirm with a registered MARA agent.",
+      "You'll usually need employer sponsorship (e.g. the Skills in Demand subclass 482 visa). Migration is regulated, confirm with a registered MARA agent.",
     nextSteps: [
       "Confirm your competent-authority certificate meets the Board's requirements.",
       "Secure a position with an accredited supervisor.",
@@ -70,7 +70,7 @@ export const OUTCOMES: Record<PathwayKey, Outcome> = {
     ],
     englishNote: "",
     visaNote:
-      "Specialist roles are often employer-sponsored, including 'area of need' positions. Migration is regulated — confirm with a registered MARA agent.",
+      "Specialist roles are often employer-sponsored, including 'area of need' positions. Migration is regulated, confirm with a registered MARA agent.",
     nextSteps: [
       "Apply to the AMC for primary source verification of your qualifications.",
       "Apply to the relevant specialist college for a comparability assessment.",
@@ -99,7 +99,7 @@ export const OUTCOMES: Record<PathwayKey, Outcome> = {
     ],
     englishNote: "",
     visaNote:
-      "These roles are typically employer-sponsored. Migration is regulated — confirm with a registered MARA agent.",
+      "These roles are typically employer-sponsored. Migration is regulated, confirm with a registered MARA agent.",
     nextSteps: [
       "Check the Board's Expedited Specialist pathway: accepted qualifications list for your exact qualification.",
       "Secure an approved position with a supervisor.",
@@ -121,7 +121,7 @@ export const OUTCOMES: Record<PathwayKey, Outcome> = {
 export function englishNoteFor(status: string | undefined): string {
   switch (status) {
     case "met":
-      return "You've indicated you meet the English requirement. Keep your test result current — results are generally valid for two years.";
+      return "You've indicated you meet the English requirement. Keep your test result current, results are generally valid for two years.";
     case "exempt":
       return "You may be exempt from sitting an English test if you meet the registration standard's other criteria. Confirm your situation against the English language skills standard.";
     case "not-yet":

@@ -31,7 +31,7 @@
   },
   "ahpra-els-news-2025": {
     "id": "ahpra-els-news-2025",
-    "title": "Updated English language skills registration standard — in effect 18 March 2025",
+    "title": "Updated English language skills registration standard, in effect 18 March 2025",
     "publisher": "AHPRA and National Boards",
     "authority": "AHPRA",
     "url": "https://www.ahpra.gov.au/News/2025-03-11-ELS-in-effect-date-announced.aspx",
@@ -174,7 +174,7 @@
     "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skills-in-demand-visa-subclass-482/sufficient-english",
     "lastVerified": "2026-06-15",
     "verifiedBy": "research-2026-06",
-    "accessNote": "Visa English minimums (e.g. IELTS 5.0 overall and each component) — separate from registration English"
+    "accessNote": "Visa English minimums (e.g. IELTS 5.0 overall and each component), separate from registration English"
   },
   "homeaffairs-salary-requirements": {
     "id": "homeaffairs-salary-requirements",
@@ -348,7 +348,7 @@
   },
   "homeaffairs-visa-pricing": {
     "id": "homeaffairs-visa-pricing",
-    "title": "Visa fees and charges — current visa pricing",
+    "title": "Visa fees and charges, current visa pricing",
     "publisher": "Department of Home Affairs",
     "authority": "HOME_AFFAIRS",
     "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/fees-and-charges/current-visa-pricing",

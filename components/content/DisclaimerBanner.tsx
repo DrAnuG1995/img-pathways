@@ -3,7 +3,7 @@ import type { DisclaimerKind } from "@/lib/content/types";
 
 const COPY: Record<DisclaimerKind, { title: string; body: ReactNode; tone: string }> = {
   general: {
-    title: "General information — confirm with the official source",
+    title: "General information, confirm with the official source",
     tone: "border-line bg-paper",
     body: (
       <>
@@ -21,7 +21,7 @@ const COPY: Record<DisclaimerKind, { title: string; body: ReactNode; tone: strin
     ),
   },
   migration: {
-    title: "Migration is regulated — this is general information only",
+    title: "Migration is regulated, this is general information only",
     tone: "border-amber/40 bg-amber-soft",
     body: (
       <>
@@ -43,7 +43,7 @@ const COPY: Record<DisclaimerKind, { title: string; body: ReactNode; tone: strin
     ),
   },
   medical: {
-    title: "General information — not clinical or registration advice",
+    title: "General information, not clinical or registration advice",
     tone: "border-line bg-paper",
     body: (
       <>

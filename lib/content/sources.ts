@@ -12,7 +12,7 @@ const SOURCES = {
   ...(colleges as SourceRegistry),
 };
 
-/** Human label for each issuing authority — used on the /sources page. */
+/** Human label for each issuing authority, used on the /sources page. */
 export const AUTHORITY_LABEL: Record<SourceAuthority, string> = {
   AHPRA: "AHPRA / Medical Board of Australia",
   AMC: "Australian Medical Council",
@@ -34,7 +34,7 @@ export function getAllSources(): Source[] {
 
 /**
  * All sources referenced by a doc's claims + FAQ, de-duplicated and sorted by
- * authority then publisher. Throws if a referenced id is missing — the content
+ * authority then publisher. Throws if a referenced id is missing, the content
  * integrity test relies on this.
  */
 export function getPageSources(doc: ContentDoc): Source[] {

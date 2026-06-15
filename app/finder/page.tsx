@@ -4,7 +4,7 @@ import FinderWizard from "@/components/finder/FinderWizard";
 export const metadata: Metadata = {
   title: "Find your pathway",
   description:
-    "Answer a few questions and we'll point you to your likely registration pathway as an International Medical Graduate in Australia — Standard, Competent Authority, Specialist or Expedited Specialist — with the exact next steps.",
+    "Answer a few questions and we'll point you to your likely registration pathway as an International Medical Graduate in Australia, Standard, Competent Authority, Specialist or Expedited Specialist, with the exact next steps.",
   alternates: { canonical: "/finder" },
 };
 
@@ -20,7 +20,7 @@ export default function FinderPage() {
         </h1>
         <p className="mx-auto mt-3 max-w-xl text-muted">
           A few quick questions. We'll point you to the pathway that most likely fits and the exact
-          next steps — then you can read the full, source-checked detail.
+          next steps, then you can read the full, source-checked detail.
         </p>
       </header>
       <FinderWizard />

@@ -5,7 +5,7 @@ import { getDocsByCollection } from "@/lib/content/loader";
 export const metadata: Metadata = {
   title: "Step-by-step checklists",
   description:
-    "Step-by-step checklists for each registration pathway — what to do, in what order, with the official source for each step.",
+    "Step-by-step checklists for each registration pathway, what to do, in what order, with the official source for each step.",
   alternates: { canonical: "/checklists" },
 };
 
@@ -20,7 +20,7 @@ export default function ChecklistsIndex() {
           Step-by-step checklists
         </h1>
         <p className="mt-3 text-muted">
-          The exact sequence for each pathway — what to do, in what order, with the official source
+          The exact sequence for each pathway, what to do, in what order, with the official source
           for every step.
         </p>
       </header>

@@ -46,10 +46,10 @@ export async function POST(req: Request) {
     .map(([k, v]) => `${k}: ${v}`)
     .join(" · ");
 
-  // If Notion isn't configured (e.g. local dev), don't hard-fail the user — log
+  // If Notion isn't configured (e.g. local dev), don't hard-fail the user, log
   // and accept. In production these env vars must be set in Vercel.
   if (!NOTION_TOKEN || !NOTION_LEADS_DB_ID) {
-    console.warn("[lead] NOTION_TOKEN / NOTION_LEADS_DB_ID not set — lead not persisted:", {
+    console.warn("[lead] NOTION_TOKEN / NOTION_LEADS_DB_ID not set, lead not persisted:", {
       name,
       email,
       pathway: body.pathway,

@@ -2,7 +2,7 @@ import type { Answers, Question } from "./types";
 
 // Countries Australia recognises (via the AMC) as "competent authorities" for
 // the competent authority pathway. (Eligibility also requires certification by
-// that authority and practice in that country — confirmed by a follow-up Q.)
+// that authority and practice in that country, confirmed by a follow-up Q.)
 export const COMPETENT_AUTHORITY_COUNTRIES = new Set([
   "uk",
   "ireland",
@@ -59,7 +59,7 @@ export const QUESTIONS: Question[] = [
   {
     id: "trainingCountry",
     prompt: "Where did you complete your primary medical qualification?",
-    help: "Your basic medical degree — not later specialty training.",
+    help: "Your basic medical degree, not later specialty training.",
     options: COUNTRY_OPTIONS,
   },
   {

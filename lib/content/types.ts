@@ -1,5 +1,5 @@
 // ---------------------------------------------------------------------------
-// Content data model — the evidence-backed core.
+// Content data model, the evidence-backed core.
 //
 // Body prose is markdown, but every KEY CLAIM and every SOURCE is a structured,
 // machine-checkable field. Inline citations are written in markdown as
@@ -24,7 +24,7 @@ export interface Source {
   publisher: string;
   authority: SourceAuthority;
   url: string;
-  lastVerified: string; // ISO date (YYYY-MM-DD) — when a human/agent checked the live page
+  lastVerified: string; // ISO date (YYYY-MM-DD), when a human/agent checked the live page
   verifiedBy?: string;
   accessNote?: string; // which part of the page the claim draws on
 }

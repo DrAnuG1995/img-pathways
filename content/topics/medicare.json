@@ -4,7 +4,7 @@
   "title": "Medicare provider numbers and the Section 19AB 10-year moratorium",
   "eyebrow": "Requirement",
   "metaTitle": "Medicare & the 19AB 10-Year Moratorium for IMGs",
-  "metaDescription": "How Medicare provider numbers and Section 19AB's 10-year moratorium affect where IMGs can bill Medicare — plus DPA, DWS, exemptions and scaling.",
+  "metaDescription": "How Medicare provider numbers and Section 19AB's 10-year moratorium affect where IMGs can bill Medicare, plus DPA, DWS, exemptions and scaling.",
   "keywords": [
     "Medicare provider number",
     "Section 19AB",
@@ -14,11 +14,11 @@
     "scaling",
     "international medical graduate Australia"
   ],
-  "summaryMarkdown": "To bill the Medicare Benefits Schedule (MBS), a doctor needs a Medicare provider number, and a separate number applies for each location they practise at. [[cite:provider-number-billing]] For many IMGs, access to Medicare benefits is also restricted under Section 19AB of the *Health Insurance Act 1973* — the '10-year moratorium'. [[cite:moratorium-19ab]] During the moratorium, an IMG generally needs to work where they're most needed — a Distribution Priority Area (DPA) for GPs, or a District of Workforce Shortage (DWS) for non-GP specialists — to access Medicare benefits there. [[cite:dpa-dws-where]] This page is general information, separate from registration and visa requirements; always confirm your own situation against the official Services Australia and Department of Health pages.",
+  "summaryMarkdown": "To bill the Medicare Benefits Schedule (MBS), a doctor needs a Medicare provider number, and a separate number applies for each location they practise at. [[cite:provider-number-billing]] For many IMGs, access to Medicare benefits is also restricted under Section 19AB of the *Health Insurance Act 1973*, the '10-year moratorium'. [[cite:moratorium-19ab]] During the moratorium, an IMG generally needs to work where they're most needed, a Distribution Priority Area (DPA) for GPs, or a District of Workforce Shortage (DWS) for non-GP specialists, to access Medicare benefits there. [[cite:dpa-dws-where]] This page is general information, separate from registration and visa requirements; always confirm your own situation against the official Services Australia and Department of Health pages.",
   "sections": [
     {
       "heading": "What a provider number is and why it matters",
-      "bodyMarkdown": "A Medicare provider number lets a doctor claim payments under the MBS; without one you can't bill MBS items or have benefits paid for the services you provide. [[cite:provider-number-billing]]\n\nProvider numbers are tied to **where** you practise: you must use the number for the location where you provide the services, and you need a separate number for each location. [[cite:provider-number-location]] That location link is what makes Section 19AB matter in practice — for a restricted IMG, whether benefits are payable can depend on the classification of the specific location."
+      "bodyMarkdown": "A Medicare provider number lets a doctor claim payments under the MBS; without one you can't bill MBS items or have benefits paid for the services you provide. [[cite:provider-number-billing]]\n\nProvider numbers are tied to **where** you practise: you must use the number for the location where you provide the services, and you need a separate number for each location. [[cite:provider-number-location]] That location link is what makes Section 19AB matter in practice, for a restricted IMG, whether benefits are payable can depend on the classification of the specific location."
     },
     {
       "heading": "Section 19AB and the 10-year moratorium",
@@ -26,7 +26,7 @@
     },
     {
       "heading": "DPA for GPs vs DWS for non-GP specialists",
-      "bodyMarkdown": "During the moratorium you generally access Medicare benefits by working where you're most needed; the classification depends on whether you're a GP or another specialist. [[cite:dpa-dws-where]]\n\n- **Distribution Priority Area (DPA)** applies to GPs — locations with a shortage of GP services, comparing a catchment against a benchmark. [[cite:dpa-definition]]\n- **District of Workforce Shortage (DWS)** applies to non-GP specialists — areas with poor access to specialists, measured using population and Medicare billing data. [[cite:dws-definition]]\n\nCheck a specific address with the Department of Health's [Health Workforce Locator](/where-you-can-work). [[cite:workforce-locator]] Classifications are reviewed periodically (for example, DPA updated March 2025, DWS December 2023), so always check the current status. [[cite:classifications-updated]]"
+      "bodyMarkdown": "During the moratorium you generally access Medicare benefits by working where you're most needed; the classification depends on whether you're a GP or another specialist. [[cite:dpa-dws-where]]\n\n- **Distribution Priority Area (DPA)** applies to GPs, locations with a shortage of GP services, comparing a catchment against a benchmark. [[cite:dpa-definition]]\n- **District of Workforce Shortage (DWS)** applies to non-GP specialists, areas with poor access to specialists, measured using population and Medicare billing data. [[cite:dws-definition]]\n\nCheck a specific address with the Department of Health's [Health Workforce Locator](/where-you-can-work). [[cite:workforce-locator]] Classifications are reviewed periodically (for example, DPA updated March 2025, DWS December 2023), so always check the current status. [[cite:classifications-updated]]"
     },
     {
       "heading": "Section 19AB exemptions",
@@ -34,7 +34,7 @@
     },
     {
       "heading": "Scaling: reducing time in a DPA or DWS",
-      "bodyMarkdown": "Scaling is a non-cash incentive for overseas trained doctors who want to reduce their moratorium period. [[cite:scaling-incentive]] Working in eligible locations earns 'scaling credits' — the more remote the area, the more credits — and the more credits you accumulate, the sooner you can work in locations not classified as DPA or DWS. [[cite:scaling-credits-remote]] Enough credits can earn a class exemption for the rest of your moratorium. [[cite:scaling-class-exemption]]\n\nRemoteness for scaling uses the Modified Monash Model (MM 1 major city to MM 7 very remote). [[cite:mmm-scale]] Importantly, scaling can shorten time in a DPA/DWS, but the moratorium is always a minimum of 10 years. [[cite:scaling-10-year-minimum]] You can track scaling and your location exemptions through Health Professional Online Services (HPOS). [[cite:scaling-hpos]]"
+      "bodyMarkdown": "Scaling is a non-cash incentive for overseas trained doctors who want to reduce their moratorium period. [[cite:scaling-incentive]] Working in eligible locations earns 'scaling credits', the more remote the area, the more credits, and the more credits you accumulate, the sooner you can work in locations not classified as DPA or DWS. [[cite:scaling-credits-remote]] Enough credits can earn a class exemption for the rest of your moratorium. [[cite:scaling-class-exemption]]\n\nRemoteness for scaling uses the Modified Monash Model (MM 1 major city to MM 7 very remote). [[cite:mmm-scale]] Importantly, scaling can shorten time in a DPA/DWS, but the moratorium is always a minimum of 10 years. [[cite:scaling-10-year-minimum]] You can track scaling and your location exemptions through Health Professional Online Services (HPOS). [[cite:scaling-hpos]]"
     }
   ],
   "claims": [
@@ -64,7 +64,7 @@
     { "question": "Does it apply to every IMG?", "answerMarkdown": "No. Services Australia describes it as applying to IMGs who got first registration, or became a permanent resident or citizen, on or after 1 January 1997. Those registered before 1 January 1997 with a continuing right to remain are excluded. Check your own situation with Services Australia.", "sourceIds": ["servicesaustralia-19ab", "health-19ab"] },
     { "question": "What's the difference between DPA and DWS?", "answerMarkdown": "DPA applies to GPs (locations short of GP services); DWS applies to non-GP specialists (areas with poor specialist access). Check a specific location with the Health Workforce Locator.", "sourceIds": ["health-dpa", "health-dws", "health-workforce-locator"] },
     { "question": "How do I get a 19AB exemption?", "answerMarkdown": "An exemption lets you access Medicare benefits before the moratorium ends; the most reliable indefinite exemption comes from working in a DPA or DWS location. Services Australia assesses you when you apply for a provider number.", "sourceIds": ["health-exemptions", "servicesaustralia-19ab"] },
-    { "question": "What is 'scaling' and can it shorten the moratorium?", "answerMarkdown": "Scaling is a non-cash incentive for doctors who want to reduce their moratorium. Working in eligible (more remote) locations earns credits that let you work outside DPA/DWS sooner, potentially with a class exemption — but the moratorium is always a minimum of 10 years.", "sourceIds": ["health-moratorium", "servicesaustralia-19ab"] },
+    { "question": "What is 'scaling' and can it shorten the moratorium?", "answerMarkdown": "Scaling is a non-cash incentive for doctors who want to reduce their moratorium. Working in eligible (more remote) locations earns credits that let you work outside DPA/DWS sooner, potentially with a class exemption, but the moratorium is always a minimum of 10 years.", "sourceIds": ["health-moratorium", "servicesaustralia-19ab"] },
     { "question": "Is this the same as my registration or visa?", "answerMarkdown": "No. The 19AB moratorium governs access to Medicare benefits and is separate from medical registration (including Section 19AA) and from your visa conditions. Each is administered separately.", "sourceIds": ["health-19ab"] }
   ],
   "relatedSlugs": ["where-you-can-work", "visas"],

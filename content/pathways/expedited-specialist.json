@@ -7,7 +7,7 @@
   "metaTitle": "Expedited Specialist pathway 2026: specialties, eligibility & steps",
   "metaDescription": "Australia's fast-track Expedited Specialist pathway for overseas specialists: which specialties are included (updated 2026), what you skip, the 6 months supervised practice, and how to check the accepted qualifications list.",
   "keywords": ["expedited specialist pathway", "fast track specialist registration Australia", "SIMG", "AHPRA expedited pathway specialties", "accepted qualifications list"],
-  "summaryMarkdown": "The Expedited Specialist pathway is the newest and fastest route to specialist registration. It's for specialist international medical graduates (SIMGs) whose qualification is on the Medical Board's *Expedited Specialist pathway: accepted qualifications list*. [[cite:exp-what]] If your exact qualification is listed, you skip the college comparability assessment and don't join a college training program. [[cite:exp-skip]] **This pathway is changing fast — check the date on this page and confirm the current specialty list with the Board before relying on it.**",
+  "summaryMarkdown": "The Expedited Specialist pathway is the newest and fastest route to specialist registration. It's for specialist international medical graduates (SIMGs) whose qualification is on the Medical Board's *Expedited Specialist pathway: accepted qualifications list*. [[cite:exp-what]] If your exact qualification is listed, you skip the college comparability assessment and don't join a college training program. [[cite:exp-skip]] **This pathway is changing fast, check the date on this page and confirm the current specialty list with the Board before relying on it.**",
   "disclaimerKind": "medical",
   "schemaType": "MedicalWebPage",
   "pageLastVerified": "2026-06-15",
@@ -15,7 +15,7 @@
   "sections": [
     {
       "heading": "What makes it 'expedited'",
-      "bodyMarkdown": "On the usual [Specialist pathway](/pathways/specialist), an Australian specialist college assesses how comparable your training is — which takes time and money. The Expedited Specialist pathway removes that step for eligible specialists: **no comparability assessment and no college training program**. [[cite:exp-skip]] It was introduced following the independent (Kruk) review of regulatory settings to help suitably qualified specialists register faster. [[cite:exp-origin]]"
+      "bodyMarkdown": "On the usual [Specialist pathway](/pathways/specialist), an Australian specialist college assesses how comparable your training is, which takes time and money. The Expedited Specialist pathway removes that step for eligible specialists: **no comparability assessment and no college training program**. [[cite:exp-skip]] It was introduced following the independent (Kruk) review of regulatory settings to help suitably qualified specialists register faster. [[cite:exp-origin]]"
     },
     {
       "heading": "Which specialties are included",
@@ -27,11 +27,11 @@
     },
     {
       "heading": "Am I eligible?",
-      "bodyMarkdown": "Eligibility turns on whether your **specific specialist qualification** (from a specific country/college) appears on the accepted-qualifications list — not just your specialty. [[cite:exp-what]] The finder can suggest whether this pathway is worth investigating, but only the Board's list and your application confirm it. If your qualification isn't listed, the standard [Specialist pathway](/pathways/specialist) applies."
+      "bodyMarkdown": "Eligibility turns on whether your **specific specialist qualification** (from a specific country/college) appears on the accepted-qualifications list, not just your specialty. [[cite:exp-what]] The finder can suggest whether this pathway is worth investigating, but only the Board's list and your application confirm it. If your qualification isn't listed, the standard [Specialist pathway](/pathways/specialist) applies."
     },
     {
       "heading": "English, visas and registration",
-      "bodyMarkdown": "You must still meet the English language requirement [[cite:exp-english]] (see [English requirements](/english)). Roles are typically employer-sponsored, often via the Skills in Demand (subclass 482) visa [[cite:exp-visa]]. Migration is regulated — confirm with a registered MARA agent. The pathway leads to **specialist registration** with the Medical Board."
+      "bodyMarkdown": "You must still meet the English language requirement [[cite:exp-english]] (see [English requirements](/english)). Roles are typically employer-sponsored, often via the Skills in Demand (subclass 482) visa [[cite:exp-visa]]. Migration is regulated, confirm with a registered MARA agent. The pathway leads to **specialist registration** with the Medical Board."
     }
   ],
   "claims": [

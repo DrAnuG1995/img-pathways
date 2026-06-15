@@ -36,7 +36,7 @@ describe("nextQuestion / branching", () => {
   });
 });
 
-describe("resolveOutcome — routing", () => {
+describe("resolveOutcome, routing", () => {
   const cases: { name: string; answers: Answers; expected: PathwayKey; confidence?: string }[] = [
     {
       name: "non-CA country, general → Standard",

@@ -13,7 +13,7 @@ const COLLECTION_DIRS: Record<Collection, string> = {
   article: "articles",
 };
 
-// In-memory cache keyed by directory mtime — invalidates when a JSON file is
+// In-memory cache keyed by directory mtime, invalidates when a JSON file is
 // dropped in during dev; a single pass per build in the read-only Vercel FS.
 const cache = new Map<Collection, { mtime: number; docs: ContentDoc[] }>();
 
@@ -66,7 +66,7 @@ export function getRelatedDocs(doc: ContentDoc, n = 3): ContentDoc[] {
   return [...explicit, ...rest].slice(0, n);
 }
 
-/** Every doc across every collection — used by the sitemap. */
+/** Every doc across every collection, used by the sitemap. */
 export function getAllDocs(): ContentDoc[] {
   return (Object.keys(COLLECTION_DIRS) as Collection[]).flatMap(loadCollection);
 }

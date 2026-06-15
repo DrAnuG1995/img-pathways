@@ -1,9 +1,9 @@
 // ---------------------------------------------------------------------------
-// Pathway-finder engine — types.
+// Pathway-finder engine, types.
 //
 // The survey is data (QUESTIONS). The routing is a pure function (resolveOutcome).
 // Outcomes are data (OUTCOMES) and carry their own citations. No logic lives in
-// the React layer — the UI only renders questions and the resolved outcome.
+// the React layer, the UI only renders questions and the resolved outcome.
 //
 // IMPORTANT: the finder is a GUIDE, not a determination. Outcomes carry a
 // `confidence` flag and every result links to the official source and tells the

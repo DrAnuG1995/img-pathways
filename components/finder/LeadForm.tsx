@@ -60,7 +60,7 @@ export default function LeadForm({
   if (status === "done") {
     return (
       <div className="rounded-2xl border border-teal/40 bg-teal-soft p-6">
-        <p className="font-display text-lg font-semibold text-ink">Thanks — that's on its way.</p>
+        <p className="font-display text-lg font-semibold text-ink">Thanks, that's on its way.</p>
         <p className="mt-1 text-sm text-muted">
           We'll send a tailored guide for the {outcome.pathway.replace(/-/g, " ")} pathway to your
           inbox. In the meantime, your full pathway page is below.

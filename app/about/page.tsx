@@ -31,15 +31,15 @@ export default function AboutPage() {
           <a href={ATTRIBUTION.href} target="_blank" rel="noopener noreferrer">
             StatDoctor
           </a>
-          , which helps doctors find work in Australia — but the guidance on this site is written to
+          , which helps doctors find work in Australia, but the guidance on this site is written to
           be useful first, and is cited to official sources you can check yourself.
         </p>
 
         <h2>How we keep it accurate</h2>
         <p>
-          Every key claim links to a primary, official source — AHPRA and the Medical Board of
+          Every key claim links to a primary, official source, AHPRA and the Medical Board of
           Australia, the Australian Medical Council, the specialist colleges, the Department of Home
-          Affairs and Services Australia — and carries a date showing when we last verified it. See{" "}
+          Affairs and Services Australia, and carries a date showing when we last verified it. See{" "}
           <Link href="/sources">Sources &amp; methodology</Link> for the full list.
         </p>
 
@@ -54,7 +54,7 @@ export default function AboutPage() {
           <li>You can ask us to delete your details at any time.</li>
           <li>
             Because StatDoctor supports this site, your enquiry may be shared with StatDoctor to help
-            you find work — only to help you, never sold on.
+            you find work, only to help you, never sold on.
           </li>
         </ul>
 

@@ -6,7 +6,7 @@ import { isComplete, nextQuestion, progress, resolveOutcome } from "@/lib/finder
 
 /**
  * Owns the finder's answer state. All decisions are pure selectors over the
- * engine — this hook holds no domain logic, only React state + history for the
+ * engine, this hook holds no domain logic, only React state + history for the
  * Back button.
  */
 export function useFinder() {

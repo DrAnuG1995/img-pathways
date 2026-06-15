@@ -3,7 +3,7 @@ import remarkGfm from "remark-gfm";
 import type { FaqItem } from "@/lib/content/types";
 import { resolveSource } from "@/lib/content/sources";
 
-/** Native <details> accordion — accessible and needs no client JS. Each answer
+/** Native <details> accordion, accessible and needs no client JS. Each answer
  * can surface its own official sources. */
 export default function FaqAccordion({ items }: { items: FaqItem[] }) {
   if (!items.length) return null;

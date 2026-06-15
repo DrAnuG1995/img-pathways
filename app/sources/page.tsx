@@ -49,7 +49,7 @@ export default function SourcesPage() {
         </p>
         <h2>How we verify</h2>
         <ul>
-          <li>We only cite primary, official sources — regulators and government, not third parties.</li>
+          <li>We only cite primary, official sources, regulators and government, not third parties.</li>
           <li>Each claim links to the exact page it comes from, so you can confirm it yourself.</li>
           <li>We re-check sources on a rolling basis and update the verify date when we do.</li>
           <li>
@@ -103,8 +103,7 @@ export default function SourcesPage() {
         Spotted something out of date?{" "}
         <Link href="/about" className="font-medium text-primary hover:underline">
           Tell us
-        </Link>{" "}
-        — keeping this current is the whole point.
+        </Link>{" "}, keeping this current is the whole point.
       </div>
     </div>
   );

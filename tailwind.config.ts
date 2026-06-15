@@ -1,6 +1,6 @@
 import type { Config } from "tailwindcss";
 
-// Neutral, institutional/clinical palette — deliberately distinct from the
+// Neutral, institutional/clinical palette, deliberately distinct from the
 // StatDoctor brand (no lime, no electric blue). Trust-blue primary, muted
 // teal for "verified" states, amber for "due for re-check" cautions.
 const config: Config = {

@@ -42,7 +42,7 @@ body {
 }
 
 /* ---------------------------------------------------------------------------
-   Article prose — styles markdown rendered by ContentRenderer. Scoped to
+   Article prose, styles markdown rendered by ContentRenderer. Scoped to
    .prose-content so it never leaks into UI chrome.
 --------------------------------------------------------------------------- */
 .prose-content {

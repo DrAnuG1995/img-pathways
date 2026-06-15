@@ -1,4 +1,4 @@
-// Line icons — stroke uses currentColor so they inherit text colour. 24x24.
+// Line icons, stroke uses currentColor so they inherit text colour. 24x24.
 
 type IconProps = { className?: string; size?: number };
 
@@ -22,7 +22,7 @@ function Svg({ className, size = 24, children }: IconProps & { children: React.R
   );
 }
 
-/** Standard pathway — exams (document + check). */
+/** Standard pathway, exams (document + check). */
 export function IconExam(p: IconProps) {
   return (
     <Svg {...p}>
@@ -33,7 +33,7 @@ export function IconExam(p: IconProps) {
   );
 }
 
-/** Competent Authority — recognised countries (globe). */
+/** Competent Authority, recognised countries (globe). */
 export function IconGlobe(p: IconProps) {
   return (
     <Svg {...p}>
@@ -44,7 +44,7 @@ export function IconGlobe(p: IconProps) {
   );
 }
 
-/** Specialist — college recognition (verified medal). */
+/** Specialist, college recognition (verified medal). */
 export function IconMedal(p: IconProps) {
   return (
     <Svg {...p}>
@@ -55,7 +55,7 @@ export function IconMedal(p: IconProps) {
   );
 }
 
-/** Expedited Specialist — fast-track (lightning). */
+/** Expedited Specialist, fast-track (lightning). */
 export function IconBolt(p: IconProps) {
   return (
     <Svg {...p}>

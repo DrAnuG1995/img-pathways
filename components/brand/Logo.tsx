@@ -3,7 +3,7 @@ import { SITE_NAME } from "@/lib/site";
 /**
  * The brand mark: a gradient rounded-square badge with a white medical cross and
  * a teal accent node. Self-contained colours so it reads on light or dark
- * surfaces. Decorative — pair with a text label for accessible names.
+ * surfaces. Decorative, pair with a text label for accessible names.
  */
 export function LogoMark({
   size = 28,

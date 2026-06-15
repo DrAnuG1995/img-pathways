@@ -33,7 +33,7 @@ export default function Nav() {
   return (
     <header className="sticky top-0 z-50 border-b border-line bg-paper/90 backdrop-blur">
       <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-4 sm:px-6">
-        <Link href="/" aria-label={`${SITE_NAME} — home`} className="flex items-center">
+        <Link href="/" aria-label={`${SITE_NAME}, home`} className="flex items-center">
           <Logo size={30} className="hidden sm:inline-flex" />
           <Logo size={28} compact className="sm:hidden" />
         </Link>
