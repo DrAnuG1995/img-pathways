@@ -372,9 +372,9 @@
     "publisher": "Queensland Health",
     "authority": "HEALTH_DEPT",
     "url": "https://www.careers.health.qld.gov.au/medical-careers/resident-medical-officer-rmo-and-registrar-campaign",
-    "lastVerified": "2026-06-15",
-    "verifiedBy": "research-2026-06",
-    "accessNote": "Annual statewide RMO and Registrar campaign; 2027 applications close Monday 29 June 2026; preference up to 5 facilities"
+    "lastVerified": "2026-10-05",
+    "verifiedBy": "research-2026-10",
+    "accessNote": "Annual statewide RMO and Registrar campaign; 2027 applications ran 1 June to 3pm 29 June 2026; SHO and JHO offers 28 September to 21 October 2026, re-preference round 23 to 26 October; round 3 open round for remaining vacancies from 9 November 2026 (campaign dates page)"
   },
   "wa-rmo-campaign": {
     "id": "wa-rmo-campaign",
@@ -382,9 +382,9 @@
     "publisher": "WA Health",
     "authority": "HEALTH_DEPT",
     "url": "https://medcareerswa.health.wa.gov.au/resident-medical-officers",
-    "lastVerified": "2026-06-15",
-    "verifiedBy": "research-2026-06",
-    "accessNote": "Centralised RMO and Service Medical Registrar recruitment for January 2027 commencement"
+    "lastVerified": "2026-08-06",
+    "verifiedBy": "research-2026-08",
+    "accessNote": "Centralised RMO and Service Medical Registrar recruitment for January 2027 commencement; applications ran 25 May to 22 June 2026 and have now closed; midyear campaign opens in January for August starts"
   },
   "sa-rmo-campaign": {
     "id": "sa-rmo-campaign",
@@ -392,19 +392,19 @@
     "publisher": "SA MET (SA Health)",
     "authority": "HEALTH_DEPT",
     "url": "https://samet.org.au/postgraduate-year-2-and-beyond-recruitment/",
-    "lastVerified": "2026-06-15",
-    "verifiedBy": "research-2026-06",
-    "accessNote": "Centralised PGY2 and beyond (RMO) recruitment; 2027 clinical year commences 11 January 2027"
+    "lastVerified": "2026-10-05",
+    "verifiedBy": "research-2026-10",
+    "accessNote": "Centralised PGY2 and beyond (RMO) expression of interest process, opens each June; PGY2+ key dates page: 2027 clinical year EOIs 10 June to 1 July 2026, offer rounds 17 September to 8 October 2026, late vacancy management from 22 October 2026 until 1 February 2027"
   },
   "nt-rmo-campaign": {
     "id": "nt-rmo-campaign",
-    "title": "Resident (RMO) positions, NT Health",
+    "title": "Resident Medical Officer (RMO/HMO), Health Jobs NT",
     "publisher": "NT Health",
     "authority": "HEALTH_DEPT",
-    "url": "https://health.nt.gov.au/careers/medical-officers/top-end-medical-officer-jobs/residents",
-    "lastVerified": "2026-06-15",
-    "verifiedBy": "research-2026-06",
-    "accessNote": "Separate Top End and Central Australia RMO campaigns; 2027 intake runs 1 to 28 June 2026"
+    "url": "https://healthjobs.nt.gov.au/explore-health-sectors/medical/rmohmo",
+    "lastVerified": "2026-08-06",
+    "verifiedBy": "research-2026-08",
+    "accessNote": "Moved from health.nt.gov.au/careers/medical-officers/top-end-medical-officer-jobs/residents (now redirects here). Annual cycle with separate Top End and Central Australia applications; no fixed campaign window published, expressions of interest via the NT Government jobs site"
   },
   "tas-rmo-campaign": {
     "id": "tas-rmo-campaign",
@@ -412,9 +412,9 @@
     "publisher": "Tasmanian Department of Health",
     "authority": "HEALTH_DEPT",
     "url": "https://www.health.tas.gov.au/careers/career-options/medical-careers/2027-statewide-resident-medical-officer-applications",
-    "lastVerified": "2026-06-15",
-    "verifiedBy": "research-2026-06",
-    "accessNote": "Statewide RMO applications for the 2027 clinical year"
+    "lastVerified": "2026-08-06",
+    "verifiedBy": "research-2026-08",
+    "accessNote": "Statewide RMO applications for the 2027 clinical year; opened 25 May 2026 and closed 22 June 2026; RMO year commences 11 January 2027 (page last updated 12 May 2026). URL contains the year and will change for the 2028 cycle"
   },
   "nsw-jmo-campaign": {
     "id": "nsw-jmo-campaign",
@@ -422,9 +422,9 @@
     "publisher": "NSW Health",
     "authority": "HEALTH_DEPT",
     "url": "https://www.health.nsw.gov.au/jmo/Pages/job-seekers.aspx",
-    "lastVerified": "2026-06-15",
-    "verifiedBy": "research-2026-06",
-    "accessNote": "Statewide JMO eRecruit system; early and main recruitment rounds; see the JMO dates page for the 2027 schedule"
+    "lastVerified": "2026-10-05",
+    "verifiedBy": "research-2026-10",
+    "accessNote": "Statewide JMO eRecruit system; 2027 main round advertised 14 July to 4 August 2026 (offers 26 August to 30 September); page states the second round application window is now open (from 29 September 2026), closing dates per advertised position; schedule on health.nsw.gov.au/jmo/Pages/dates.aspx"
   },
   "act-jmo-campaign": {
     "id": "act-jmo-campaign",
@@ -432,9 +432,9 @@
     "publisher": "Canberra Health Services (ACT)",
     "authority": "HEALTH_DEPT",
     "url": "https://www.canberrahealthservices.act.gov.au/careers/junior-medical-officer-careers",
-    "lastVerified": "2026-06-15",
-    "verifiedBy": "research-2026-06",
-    "accessNote": "ACT JMO and RMO recruitment, advertised by stream"
+    "lastVerified": "2026-10-05",
+    "verifiedBy": "research-2026-10",
+    "accessNote": "ACT JMO and RMO recruitment, advertised by stream; 2027 intake key dates page lists RMO and Service SRMO 31 August to 27 September 2026 (now closed), first round offers September to November 2026, subsequent offer rounds November 2026 to January 2027"
   },
   "vic-pmcv": {
     "id": "vic-pmcv",
@@ -442,8 +442,8 @@
     "publisher": "Postgraduate Medical Council of Victoria",
     "authority": "HEALTH_DEPT",
     "url": "https://www.pmcv.com.au",
-    "lastVerified": "2026-06-15",
-    "verifiedBy": "research-2026-06",
-    "accessNote": "Victorian hospitals recruit RMOs individually; PMCV administers the computer-match allocation for many programs"
+    "lastVerified": "2026-10-05",
+    "verifiedBy": "research-2026-10",
+    "accessNote": "Victorian hospitals recruit RMOs individually; PMCV administers the computer-match allocation for many programs; 2026 PGY2 match (2027 clinical year) applications ran 27 July to 21 August 2026, results published 23 September 2026"
   }
 }
